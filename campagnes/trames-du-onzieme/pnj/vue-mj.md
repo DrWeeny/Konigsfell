@@ -3,6 +3,7 @@
 > **CONFIDENTIEL — NE PAS PARTAGER AUX JOUEURS**
 > Ce document contient les motivations cachées, secrets et connexions de tous les PNJ de la campagne.
 > La version publique épurée se trouve dans `vue-joueurs.md`.
+> Dossier Comtes (version politique détaillée): `mj/comtes-dossier-complet.md`.
 
 ---
 
@@ -78,6 +79,40 @@
 ---
 
 ## 🟠 PNJ de l'Enquête Principale
+
+---
+
+### Jacques la Savate — Le Mentor des Recrues
+
+**Rôle :** Contact principal des PJ, mentor opérationnel, logisticien de la cellule locale liée à Göre/Hahn.
+
+**Description physique :** Humain d'une cinquantaine d'années. Robuste, barbe et cheveux blancs, cicatrices visibles, boitement léger. Vêtements pratiques à poches multiples, sacoche d'alchimiste, savates en bois.
+
+**Motivation affichée :** Former les PJ pour qu'ils survivent, puis quitter Königsfell dans 1-2 ans.
+
+**Vérité MJ :**
+- Ancien espion recruté après la guerre, unique survivant d'une purge interne liée à Göre
+- A prêté le **Serment Impérial** et travaille encore pour l'organisation, contre son gré
+- Paranoïa chronique: contrôle compulsif de son reflet, peur d'être remplacé
+- Possède un vrai réseau d'informateurs via des faux temples d'Uberlieben
+- Son "code alcool" est réel: il encode des messages dans ses références de vin
+
+**Capacités utiles en jeu :**
+- Atelier d'alchimie improvisée (fumigènes, antidotes, acides faibles, encres invisibles)
+- Production de faux papiers, recommandations et accès à des contacts discrets
+- Guide urbain de haut niveau: infiltration, itinéraires, patrouilles, habitudes locales
+
+**Limites / ligne rouge :**
+- Fuit en cas de conflit frontal avec le Silence
+- Refuse les exactions hors mission
+- Disparaît si Göre s'intéresse trop directement aux PJ
+
+**Secrets :**
+- A déjà préparé sa retraite hors de Königsfell (plan B en Suellie)
+- Souffre de flashbacks de la purge de son ancien groupe
+- Peut léguer l'organisation aux PJ plus tôt s'il estime la situation perdue
+
+**Connexions :** Göre (employeur redouté), Hahn (canal administratif), Eleonora Abanale (réseau), PJ (dernière mission)
 
 ---
 
@@ -401,6 +436,11 @@ Proteo ──────────────────── Antonio il P
 Von Murgen ──────────────── Club de cigare (nobles)
   │
   └── PJ potentiels recrues
+
+Jacques la Savate ───────── Réseau d'informateurs (faux temples)
+  │
+  ├── PJ (mentor / logistique / planque)
+  └── Göre / Hahn (mission de transition)
 
 Hahn ───────────────────── PJ (recrutement au Jubilé)
 Auge ───────────────────── La vraie Vampire (sauf-conduit)

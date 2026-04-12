@@ -1,44 +1,52 @@
 # Création de Personnage
 
-*Un personnage de Königsfell se définit par cinq caractéristiques, un concept de jeu (archétype), et quelques secrets.*
+*Un personnage de Königsfell se définit par ses trois pools de dés, son archétype, ses points de vie et ses repères secrets.*
 
 ---
 
-## Caractéristiques
+## Les Trois Pools de Départ
 
-Cinq caractéristiques, chacune notée de **1 à 5**.
+| Pool | Départ | Bonus archétype |
+|---|---|---|
+| **Dés d'Action (DA)** | 1 DA + 1 dé de Mouvement | +1 DA si archétype martial |
+| **Dés de Compétence (DC)** | 1 DC | +1 DC si compétence liée à l'archétype |
+| **Dés de Pouvoir (DP)** | 1 DP permanent | +1 DP éphémère si archétype magique |
 
-Chaque point donne **1 Dé d'Action (AD)** — le total forme votre **Pool d'Action** en conflit.
-
-| Caractéristique | Usage |
-|---|---|
-| **Force** | Combat physique, intimidation corporelle, endurance |
-| **Dextérité** | Esquive, discrétion, précision, acrobaties |
-| **Esprit** | Magie, investigation, analyse, rituels |
-| **Charisme** | Persuasion, séduction, performance, tromperie |
-| **Volonté** | Résistance mentale, foi, serments, ténacité |
-
-**Répartition de départ :** 12 points à distribuer librement entre les 5 caractéristiques (minimum 1, maximum 4 au départ).
+Pour le détail de fonctionnement de chaque pool, voir [Jets de dés](jets-de-des.md).
 
 ---
 
-## Objets — Dés Gratuits
+## Objets — Dés Bonus
 
-Les objets accordent des **dés gratuits** sur certaines actions. Ils ne sont pas dépensés — ils s'ajoutent au pool sur les jets concernés.
+Les objets accordent des **dés bonus** sur certaines actions. Ils s'ajoutent au pool concerné pour ce jet.
 
 | Objet | Bonus |
 |---|---|
-| Épée / arme de corps | +1 dé d'attaque |
-| Bouclier / protection | +1 dé de défense |
-| Anneau de concentration | +1 dé pour les sorts |
-| Grimoire | Relancer 1 dé de magie par scène |
-| Outil de guilde | +1 dé sur une action spécialisée (défini à l'achat) |
+| Épée / arme de corps | +1 dé de combat (DA) |
+| Bouclier / protection | +1 dé de défense (DA) |
+| Bâton magique / focus | +1 DP pour canaliser un sort |
+| Grimoire (trouvé en jeu) | +1 DP permanent (gratuit) |
+| Parchemin | Accès à un sort gratuitement (usage unique) |
+| Outil de guilde | +1 DC sur une action spécialisée (défini à l'achat) |
 
 ---
 
-## Concepts & Archétypes
+## Points de Vie (PV)
 
-Un archétype est un point de départ narratif et mécanique. Il n'est pas exclusif — il oriente les bonus et le lore du personnage.
+**PV de départ : 8**
+
+Quand les PV tombent à 0, le personnage est hors combat.
+À −4 PV, il est mourant sans intervention.
+
+> Les PV peuvent être augmentés avec de l'XP (voir Progression).
+
+---
+
+## Archétypes
+
+Un archétype oriente les bonus de pool et le lore du personnage. Il n'est pas exclusif — il définit le point de départ.
+
+> 📘 Pour des variantes étendues (Eau Calme, Ritualiste Akkadien, grille de métiers), voir [Archetypes et metiers](archetypes.md).
 
 ---
 
@@ -46,8 +54,8 @@ Un archétype est un point de départ narratif et mécanique. Il n'est pas exclu
 
 *Espion, receleur, tenancier, agent de l'ombre.*
 
-- +1 dé pour détecter une embuscade, filer quelqu'un, repérer un mensonge
-- Peut dépenser 1 dé pour déclarer : *"Je connais quelqu'un ici."* (crée un contact mineur jouable)
+- **Bonus :** +1 DC pour détecter une embuscade, filer quelqu'un, repérer un mensonge
+- **Capacité :** Peut dépenser 1 DC pour déclarer *"Je connais quelqu'un ici"* — crée un contact mineur jouable immédiatement
 
 > *"Il écoute trop. Il parle peu."* — signalement type du Silence.
 
@@ -57,8 +65,8 @@ Un archétype est un point de départ narratif et mécanique. Il n'est pas exclu
 
 *Médecin, alchimiste, savant de la Renaissance.*
 
-- +1 dé pour un diagnostic, une autopsie, une analyse de poison ou d'alchimie
-- Peut exploiter sa planque apothicaire pour générer des ressources de soin entre les scènes
+- **Bonus :** +1 DC pour un diagnostic, une autopsie, une analyse de poison ou d'alchimie
+- **Capacité :** Peut utiliser sa planque apothicaire entre les scènes pour générer des ressources de soin (1 usage par session)
 
 > Détesté par le Culte du Silence : *"Il s'approche trop de la frontière entre vie et non-vie."*
 
@@ -68,10 +76,11 @@ Un archétype est un point de départ narratif et mécanique. Il n'est pas exclu
 
 *Mage loyaliste, prêtre impérial, inquisiteur modéré.*
 
-- Sorts canalisés de départ : *Détection du sacrilège* (1–3 dés), *Lien de serment* (2 dés), *Flamme purificatrice* (variable)
-- Peut dépenser 2 dés pour **annuler une action magique adverse**
+- **Bonus :** +1 DP éphémère de départ
+- **Sorts d'archétype :** *Détection du sacrilège*, *Lien de serment* (seuil 10+), *Flamme purificatrice*
+- **Capacité :** Peut dépenser 2 DC pour annuler une action magique adverse (jet opposé)
 
-> Son dilemme : rester loyal à un serment impérial dont l'ancre — l'Empereur — n'a pas encore été élu.
+> Son dilemme : rester loyal à un serment dont l'ancre — l'Empereur — n'a pas encore été élu.
 
 ---
 
@@ -79,10 +88,10 @@ Un archétype est un point de départ narratif et mécanique. Il n'est pas exclu
 
 *Vétéran des Croisades, mercenaire germanophone, soldat fatigué.*
 
-- +1 dé en attaque ou en défense (à choisir une fois par conflit au début)
-- Peut convertir une **blessure mortelle en blessure grave** en dépensant 1 PA — une fois par session
+- **Bonus :** +1 DA de départ
+- **Capacité :** Une fois par session, peut convertir une blessure mortelle en blessure grave en dépensant 1 DA avant la résolution
 
-> Superstitieux, traumatisé. Respecte les nécromants, les craint, ne leur tourne jamais le dos.
+> Superstitieux, traumatisé. Respecte les nécromants. Ne leur tourne jamais le dos.
 
 ---
 
@@ -90,10 +99,8 @@ Un archétype est un point de départ narratif et mécanique. Il n'est pas exclu
 
 *Survivant du front, praticien de la tradition funéraire, étranger toléré.*
 
-- +1 dé pour les rituels, la lecture de sigils, la détection de magie
-- Disciplines funéraires disponibles :
-  - *Parler aux souvenirs d'un mort* — coût 1–3 dés
-  - *Lecture d'aura déclinante* — coût 1 dé
+- **Bonus :** +1 DP éphémère de départ ; +1 DC pour les rituels, la lecture de sigils, la détection de magie
+- **Disciplines funéraires :** *Parler aux souvenirs d'un mort* (seuil 5–15 selon ancienneté), *Lecture d'aura déclinante* (seuil 5)
 
 > Surveillé par l'Inquisition. Toléré à Königsfell car les Akkadiens font partie du ciment de la ville.
 
@@ -103,8 +110,8 @@ Un archétype est un point de départ narratif et mécanique. Il n'est pas exclu
 
 *Expert en droit impérial, contrats, serments magiques.*
 
-- +1 dé pour le droit, la négociation, les contrats, la rhétorique formelle
-- Peut dépenser 1 dé pour déclarer une **faille légale** — crée un avantage narratif ou annule une contrainte administrative
+- **Bonus :** +1 DC pour le droit, la négociation, les contrats, la rhétorique formelle
+- **Capacité :** Peut dépenser 1 DC pour déclarer une *faille légale* — crée un avantage narratif ou annule une contrainte administrative
 
 > Sa hantise : sans Empereur couronné, tout serment magique perd son ancre. Personne n'est véritablement lié à rien.
 
@@ -114,8 +121,8 @@ Un archétype est un point de départ narratif et mécanique. Il n'est pas exclu
 
 *Ingénieur, saboteur, artificier, maître d'atelier.*
 
-- +1 dé en mécanique, architecture, sabotage, navigation urbaine
-- Peut dépenser 2 dés pour fabriquer un gadget de scène (crochet d'escalade, fumée, faux cadenas, etc.)
+- **Bonus :** +1 DC en mécanique, architecture, sabotage, navigation urbaine
+- **Capacité :** Peut dépenser 2 DC pour fabriquer un gadget de scène (crochet, fumée, faux cadenas, etc.)
 
 > Les guildes sont les vrais pouvoirs de Königsfell. Certains artisans sont des agents impériaux infiltrés.
 
@@ -125,27 +132,19 @@ Un archétype est un point de départ narratif et mécanique. Il n'est pas exclu
 
 *Ambassadeur, noble, négociateur, manipulateur de cour.*
 
-- +1 dé pour influencer, convaincre, manipuler, négocier
-- Peut déclarer une **connexion noble** une fois par scène : une porte politique s'ouvre, un personnage devient accessible
+- **Bonus :** +1 DC pour influencer, convaincre, manipuler, négocier
+- **Capacité :** Une fois par scène, peut déclarer une *connexion noble* — une porte politique s'ouvre, un personnage devient accessible
 
-> Coincée entre Königsfell et l'Empereur, la disgrâce est une épée permanente au-dessus de sa tête.
-
----
-
-## Points de Vie (PV)
-
-PV de départ = **Force + Volonté + 4**
-
-Quand les PV tombent à 0, le personnage est hors combat. À −(Force) PV, il est mourant.
+> Coincé·e entre Königsfell et l'Empereur, la disgrâce est une épée permanente au-dessus de la tête.
 
 ---
 
 ## Repères Secrets
 
-À la création, chaque joueur définit **deux repères secrets** — une information sur son personnage que les autres joueurs ne connaissent pas encore. Ces repères peuvent être :
+À la création, chaque joueur définit **deux repères secrets** — informations que les autres joueurs ne connaissent pas encore. Exemples :
 
 - Une dette envers un PNJ
-- Un secret de famille lié à La Purge, aux Croisades, ou à un Comte
+- Un lien familial avec les victimes de La Purge ou les Croisades
 - Une allégeance cachée (Silence, guilde, Pilliers…)
 - Une peur ou une obsession
 
@@ -153,17 +152,30 @@ Quand les PV tombent à 0, le personnage est hors combat. À −(Force) PV, il e
 
 ---
 
-## Progression
+## Progression — Coûts XP
 
-Chaque session, le MJ distribue **4 points d'expérience** par joueur (ajustable selon la qualité de la session).
+**Gains par session : ~4 XP** (ajustable selon qualité de la session).
 
-| Dépense | Coût |
+| Achat | Coût |
 |---|---|
-| +1 à une caractéristique | 4 pts |
-| +1 PV | 1 pt |
-| +1 Dé d'Action (AD) | 2 pts |
-| +1 sort ou technique | 4 pts |
+| +1 PV permanent | 1 XP |
+| +1 DA permanent (1er) | 4 XP |
+| +1 DA permanent (2e) | 8 XP |
+| +1 DA permanent (3e+) | +4 XP supplémentaires |
+| +1 DC (même système incrémental) | 4 / 8 / 12… XP |
+| +1 DP éphémère | 2 XP |
+| +1 bonus de compétence (+flat) | 1 XP |
+| Nouveau sort / capacité | Variable (MJ) |
+| Relance ponctuelle d'un dé | 2 XP |
+
+### Progression Alternative (hors XP)
+
+| Source | Gain |
+|---|---|
+| Grimoire trouvé | +1 DP permanent (gratuit) |
+| Parchemin | Sort gratuit (usage unique) |
+| Rituel akkadien | Sacrifier 1 PV permanent = +1 XP |
 
 ---
 
-[← Retour à l'accueil](../index.html) · [Jets de dés](jets-de-des.md) · [Systèmes](systemes.md)
+[← Retour à l'accueil](../index.html) · [Jets de dés](jets-de-des.md) · [Systèmes](systemes.md) · [Archetypes et metiers](archetypes.md)

@@ -61,6 +61,22 @@ On ne sait pas vraiment où il loge ni quand il est disponible. Il apparaît qua
 
 ---
 
+### Jacques la Savate
+
+> *"Encore un verre et je vous explique comment entrer au Palais de Justice sans vous faire pendre."*
+
+Mentor des nouvelles recrues et contact de terrain pour les missions sensibles dans le Gouffre. Ancien espion devenu logisticien, il connaît les ruelles de Königsfell, les bons guichets, les mauvaises patrouilles, et les portes qu'on n'ouvre qu'avec le bon mensonge.
+
+Il porte des savates en bois, une sacoche d'alchimiste, et un regard qui ne se repose jamais vraiment.
+
+**Ce qu'il peut faire pour vous :**
+Fabriquer des gadgets, fournir des contacts, orienter une infiltration, trouver des papiers, et vous éviter de mourir bêtement lors de vos premières missions.
+
+**Première impression :**
+Un type rugueux mais protecteur, qui parle trop d'alcool pour quelqu'un qui prétend rester lucide.
+
+---
+
 ### Anna Gartmark
 
 > *"Elle a tout vu. Elle vous le dira elle-même, autant de fois que nécessaire."*
@@ -226,6 +242,7 @@ Personne ne sait vraiment à quoi il ressemble.
 | Göre | Introuvable (elle vous trouve) | Arc politique long terme |
 | Hahn | Palais de Cristal / Jubilé | Recrutement, missions |
 | Auge | Introuvable | Arc vampire / Nouveau Monde |
+| Jacques la Savate | Planque des recrues (Gouffre) | Mentor, logistique, contacts |
 | Anna Gartmark | Place de la Poterie | Description du tueur |
 | Moine Ussuru | Temple des Cris | La Purge, le puits |
 | Von Murgen | Caserne du Gouffre | Autorisation enquête, informations |

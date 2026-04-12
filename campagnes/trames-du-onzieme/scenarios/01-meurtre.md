@@ -32,6 +32,24 @@ L'aventure débute lorsqu'il vient de tuer le **troisième descendant**. Le Code
 
 ---
 
+## 🎲 Briefing Initial — Jacques la Savate
+
+Le premier contact opérationnel des PJ est **Jacques la Savate** (ancien espion, mentor de terrain). C'est lui qui remet la mission du Jour 0:
+
+- "Crime anormal dans le Gouffre"
+- "Le Silence est déjà dessus"
+- "Bougez vite, restez discrets, revenez vivants"
+
+Il peut fournir avant départ:
+
+- un point de planque temporaire
+- 1 ressource d'alchimie légère (fumigène, encre, antidote partiel)
+- 1 contact de quartier selon le profil du groupe
+
+> ⚠️ **Note MJ :** Jacques est fiable tant que les PJ restent dans le cadre de mission. S'ils provoquent frontalement le Silence ou menacent d'exposer Göre sans filet politique, il se retire.
+
+---
+
 ## 📋 Les Victimes
 
 | # | Nom | Profession | Grand-parent (La Purge) | Statut |
@@ -326,6 +344,8 @@ Stäbler a été **kidnappé**. Des gardes étaient postés devant chez lui. L'u
 - Gore est techniquement **responsable** de La Purge — cette enquête pourrait la déstabiliser politiquement si les PJ font le lien
 - **Trompette / Antonio il Pazzo** est un fil majeur à ne pas lâcher — vendeur de poisons exotiques, peut mener vers des arcs plus larges
 - Le **Jubilé Impérial** dans 14 jours crée une pression narrative naturelle
+
+> 📎 **Modules optionnels MJ :** voir [Compagnon MJ — Scénario 01](01-meurtre-compagnon.md)
 
 ---
 

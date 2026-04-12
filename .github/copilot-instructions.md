@@ -4,7 +4,7 @@
 
 - **Type :** campagne JDR dark urban fantasy Renaissance, en cours de rédaction pour publication
 - **Public :** deux publications distinctes : un livre MJ (enjeux, secrets, direction de jeu) et un livre Joueurs (lore, monde, inspiration)
-- **Système de jeu :** homebrew D6 (en développement). La campagne est conçue pour être adaptable à d'autres systèmes. Les règles doivent rester simples et système-agnostiques autant que possible. Testé précédemment sur D&D 5e.
+- **Système de jeu :** homebrew D10 (en développement). La campagne est conçue pour être adaptable à d'autres systèmes. Les règles doivent rester simples et système-agnostiques autant que possible. Testé précédemment sur D&D 5e.
 - **Format des sessions :** ~24 sessions de 3-4h par arc. Le rythme doit être fluide — éviter la surcharge d'information par session.
 
 ---

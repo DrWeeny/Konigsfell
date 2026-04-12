@@ -1,97 +1,165 @@
 # Jets de Dés
 
-*Le système de Königsfell repose sur un principe unique : le **Pool d'Action**. Tous les conflits — combat, duel social, magie, négociation — utilisent la même mécanique.*
+*Le système de Königsfell repose sur trois pools de dés distincts et une mécanique d'assignation tactique : on lance d'abord, on décide ensuite.*
 
 ---
 
-## Mécanique de Base
+## Les Trois Pools
 
-Chaque action se résout en lançant un nombre de **dés à 6 faces (D6)**.
+Chaque personnage possède trois pools indépendants de **dés à 10 faces (D10)** :
 
-**Réussite :** chaque dé affichant **5 ou plus** compte comme un **succès**.
-
-> 💡 Option héroïque : abaisser le seuil à 4+ pour des tables qui veulent plus de dynamisme.
-
-Le nombre de succès détermine la qualité de l'action :
-
-| Succès | Résultat |
+| Pool | Usage |
 |---|---|
-| 0 | Echec — conséquence négative possible |
-| 1 | Succès minimal — objectif atteint, mais avec une complication |
-| 2–3 | Succès franc |
-| 4+ | Succès exceptionnel — avantage supplémentaire |
+| **Dés d'Action (DA)** | Combat, mouvement physique, actions corporelles |
+| **Dés de Compétence (DC)** | Diplomatie, investigation, connaissances, artisanat |
+| **Dés de Pouvoir (DP)** | Magie, rituels, capacités spéciales |
+
+Chaque pool est utilisé séparément selon la nature de la situation.
 
 ---
 
-## Le Pool d'Action (PA)
+## Mécanique de Base — Lancer puis Assigner
 
-Au début de chaque **conflit** (séquence de combat, duel rhétorique, rituel magique…), chaque participant dispose d'un **Pool d'Action** égal à son total de Dés d'Action (AD) issus de ses caractéristiques.
+**1. Rassembler le pool**
+Déterminer combien de dés sont disponibles selon le pool concerné.
 
-Ces dés sont **dépensables** tout au long du conflit pour :
+**2. Lancer tous les dés en même temps**
+On ne lance pas en plusieurs fois — tout sort ensemble.
 
-- **Attaquer** — résoudre une agression physique
-- **Défendre** — absorber ou éviter une action adverse
-- **Influencer** — convaincre, mentir, intimider
-- **Lancer ou contrer un sort** — (voir Magie)
-- **Action tactique** — fouiller, se déplacer, créer une diversion, etc.
+**3. Regarder les résultats, puis assigner**
+Le joueur distribue librement ses dés entre les actions disponibles :
+- Attaques
+- Défenses (dés en réserve)
+- Mouvements
+- Sorts multiples
+- Actions tactiques
 
-Un dé dépensé est utilisé pour ce jet, puis retiré du pool jusqu'à la fin du conflit.
+**4. Résoudre contre les seuils ou l'opposition**
+
+---
+
+## Seuils de Difficulté
+
+Le MJ fixe un seuil avant le jet selon la difficulté de l'action :
+
+| Difficulté | Seuil |
+|---|---|
+| Automatique | Pas de jet |
+| Facile | 3+ |
+| Moyen | 5+ |
+| Difficile | 10+ |
+| Très difficile | 15+ |
+| Quasi-impossible | 25+ |
+
+Pour les jets opposés, le seuil est le résultat du défenseur.
+
+---
+
+## Combiner des Dés
+
+Plusieurs dés peuvent être **combinés sur une même action** en additionnant leurs valeurs.
 
 **Exemple :**
-Un PJ a PA = 6. Il fait face à deux adversaires.
-Il anticipe 3 attaques entrantes → il réserve 3 dés en défense.
-Il engage une attaque magique → il dépense 3 dés.
+Attaque avec 2 dés — résultats 5 et 3 → total 8. Utile pour surpasser une défense ennemie élevée.
 
 ---
 
-## Jets Opposés
+## La Règle des Doubles
 
-Quand deux participants s'affrontent directement, chacun jette ses dés.
+Quand deux dés (ou plus) affichent **la même valeur**, des règles spéciales s'appliquent.
 
-**Le défenseur annule les succès de l'attaquant un à un.**
+### Doubles positifs
 
-Le reste des succès de l'attaquant est la marge d'effet.
-
-**Exemple :**
-Attaque : 3 succès. Défense : 1 succès. → 2 succès nets — blessure significative.
-
-Les objets peuvent ajouter des **dés gratuits** à certaines actions (voir `creation-de-personnage.md`).
-
----
-
-## Complications
-
-Un jet peut être qualifié selon les circonstances :
-
-| Situation | Effet |
+| Double | Effet |
 |---|---|
-| Avantage (terrain, préparation, allié) | +1 dé au pool |
-| Désavantage (blessure, surprise, peur) | −1 dé au pool |
-| Action risquée sans dé de réserve | Tout échec entraîne une complication narrative |
+| Double 10 | Critique absolu — réussite automatique spectaculaire |
+| Double quelconque (ex: 7, 7) | Valeur combinée (7+7 = 14) + bonus égal à la valeur (+7) → **total 21**, effets doublés |
 
-Le MJ peut déclarer une complication narrative même sur un succès si la situation l'exige — l'objectif est atteint mais la situation se complique ailleurs.
+### Double 1 — Échec Critique
+
+Si le pool contient **deux ou plusieurs 1**, le joueur **doit** effectuer une action avec ces 1 en premier.
+
+| Résultats | Obligation |
+|---|---|
+| 1, 1, 6 | Action principale avec (1,1) = échec critique. Peut utiliser 6 séparément. |
+| 1, 1, 1, 6 | Action avec (1,1) = échec critique. Puis (1,6) ou deux actions séparées. |
+
+> ⚠️ Le double 1 annule toute réussite de cette action-là — les autres dés ne compensent pas.
 
 ---
 
-## Magie
+## Dés d'Action — Détail
 
-Les sorts fonctionnent comme des actions normales mais ont un **coût minimum en dés** :
+**Pool de départ :** 1 DA de base + 1 dé de Mouvement.
 
-| Coût | Niveau de sort |
+Le joueur lance tous ses DA simultanément et les assigne librement :
+
+**Exemple — Guerrier avec 3 DA (résultats : 7, 5, 2) :**
+- Option A : Attaque avec (7), défense en réserve (5), mouvement (2)
+- Option B : Attaque combinée (7+5 = 12), rien en réserve — risqué
+- Option C : Attaque massive (7+5+2 = 14 combinés) — tout investir
+
+---
+
+## Dés de Compétence — Détail
+
+**Pool de départ :** 1 DC de base + 1 DC bonus si la compétence est liée à l'archétype.
+
+Utilisé hors combat pour toute action de connaissance, sociale ou artisanale. Le pool est séparé des DA — les deux ne se mélangent pas.
+
+**Exemple — Enquêteur avec 2 DC + bonus métier +2 :**
+Lance 2D10 + 2 → résultats 7 et 3, + 2 = meilleur résultat retenu avec bonus.
+
+---
+
+## Dés de Pouvoir — Détail
+
+**Pool de départ :** 1 DP permanent (minimum pour tous).
+
+Des dés **éphémères** peuvent être achetés avec de l'XP.
+
+### Dés permanents vs Éphémères
+
+| Type | Comportement |
 |---|---|
-| 1 dé | Sort mineur ou de soutien |
-| 2 dés | Sort ciblé ou offensif |
-| 3 dés | Sort de zone ou rituel court |
+| **Permanents** | Toujours disponibles, ne se consomment jamais |
+| **Éphémères** | Ne se consomment PAS sur les sorts d'archétype ou sorts appris |
 
-**Chaque dé supplémentaire** dépensé au-delà du minimum améliore le sort : portée, durée, puissance, nombre de cibles.
+> Les dés éphémères représentent de la puissance supplémentaire disponible — ils ne disparaissent pas à l'usage normal.
 
-**Contrer un sort :** un adversaire peut dépenser ses propres dés pour s'opposer — le sort est réduit ou annulé selon les succès respectifs.
+**Exemple — Mage avec 3 DP (1 permanent + 2 éphémères) :**
+- Lance *Bouclier Aqueux* (sort d'archétype) avec 2 DP → aucun dé consommé
+- Lance *Prison de Glace* (sort appris) avec 3 DP → aucun dé consommé
+- Résultats : 8, 8, 5 → **Double 8 !** → 8+8 = 16, bonus +8 = **total 24**. Seuil 20+ dépassé → effet spectaculaire
 
-**Exemples :**
+---
 
-- *Brume illusoire* — coût 1+. Chaque dé supplémentaire étend la zone ou la durée.
-- *Projectiles d'argent* — coût 2+. Chaque dé = 1 projectile, +1 dé de dommage, +1 en précision.
-- *Lien de serment* — coût 2. Succès net requis ; les deux parties sont liées jusqu'à rupture active.
+## Recharge des Pools
+
+Les pools se rechargent **entre chaque scène**.
+
+| Pool | Recharge |
+|---|---|
+| Dés d'Action (DA) | ✅ Complet entre les scènes |
+| Dés de Compétence (DC) | ✅ Complet entre les scènes |
+| Dés de Pouvoir (DP) | ✅ Complet entre les scènes |
+
+> Une scène correspond à une unité narrative distincte (lieu, temps ou enjeu différent). Le MJ tranche en cas de doute.
+
+---
+
+## Résumé du Tour
+
+```
+1. Choisir le pool (Action / Compétence / Pouvoir)
+2. Lancer TOUS les dés du pool simultanément
+3. Vérifier les doubles :
+   - Double 1 → obligation d'action échouée en premier
+   - Doubles autres → combinables (bonus)
+4. Assigner les dés aux actions (attaque / défense / sort / mouvement)
+5. Résoudre contre seuil ou opposition
+6. Narrer
+```
 
 ---
 

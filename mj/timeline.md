@@ -3,6 +3,8 @@
 > **CONFIDENTIEL — NE PAS PARTAGER AUX JOUEURS**
 > Ce document contient l'intégralité des secrets, motivations cachées et vérités de l'univers.
 > La version publique épurée se trouve dans `univers/timeline.md`.
+> Référence de synchronisation (version longue): `mj/timeline-claude-sync.md`.
+> Dossier politique détaillé: `mj/comtes-dossier-complet.md`.
 
 ---
 
@@ -26,6 +28,28 @@
 - Chaotiques et organisés paradoxalement
 - Soif de conquête et de connaissances
 - Longévité très courte — multiplication rapide
+
+---
+
+## ⚔️ LA GRANDE GUERRE — La Chasse aux Dragons
+
+### Phase 1 — Alliance Elfes / Humains
+
+**Motivations initiales :**
+- Les Elfes cherchent un remède à leur folie liée à la longévité
+- Les Humains convoitent les ressources draconiques (armes, armures, prestige)
+
+**Départ du conflit :**
+- Chasses isolées de dragons solitaires
+- Succès rapides, puis ripostes draconiques
+
+### Phase 2 — Escalade
+
+- Les dragons sont forcés de coopérer entre eux
+- Guerre d'attrition entre les trois races
+- Pertes massives, risque d'extinction généralisée
+
+**Conséquence historique :** l'équilibre devient intenable. Cette impasse mène directement au Pacte Tripartite.
 
 ---
 
@@ -86,7 +110,7 @@ Un dragon **PARJURE** qui a rompu le Pacte. A vécu longtemps parmi les Hauts El
 **Le Grand Mensonge en 4 phases :**
 
 **Phase 1 — Les Visions :**
-Depuis ses siestes, envoie de fausses visions prophétiques aux humains. Se fait passer pour un dieu du progrès, de la civilisation et de la justice *(nom du dieu �� renommer — provisoire)*. Construit une religion autour de sa propre gloire déguisée. Un prophète charismatique émerge — sincèrement convaincu — et unifie les croyants.
+Depuis ses siestes, envoie de fausses visions prophétiques aux humains. Se fait passer pour un dieu du progrès, de la civilisation et de la justice *(nom du dieu a definir — provisoire)*. Construit une religion autour de sa propre gloire déguisée. Un prophète charismatique émerge — sincèrement convaincu — et unifie les croyants.
 
 **Phase 2 — La Fausse Mort :**
 Feint sa mort comme dragon. S'envole vers le Pays d'Akkadie pour "accomplir le Pacte". S'arrête en chemin. Lève une armée en secret.
@@ -219,20 +243,20 @@ Aujourd'hui : royaume abandonné lors de la migration du Roi suivant. Quelques A
 - Son esprit souffre et n'a pas guéri — son pouvoir affecte ses capacités mentales
 
 **La Purge :**
-Gore continue l'infiltration dans Königsfell après la guerre. Pourchasse les ennemis, terrorise la population. Incarne des villageois, remplace des enfants avec des clones. Commet des actes qu'une population cherchant à oublier la guerre trouve imperdonnable.
+Göre continue l'infiltration dans Königsfell après la guerre. Pourchasse les ennemis, terrorise la population. Incarne des villageois, remplace des enfants avec des clones. Commet des actes qu'une population cherchant à oublier la guerre trouve imperdonnable.
 
 Un groupe de riches marchands se rebella et fit une action en justice.
 
-Le jour du procès, Gore ne se présenta pas. La centaine de marchands comparurent et abandonnèrent leur plainte — ils dirent ne plus aimer la ville et avoir voulu chercher un bouc émissaire. Le lendemain, tous partis en caravane vers l'Est.
+Le jour du procès, Göre ne se présenta pas. La centaine de marchands comparurent et abandonnèrent leur plainte — ils dirent ne plus aimer la ville et avoir voulu chercher un bouc émissaire. Le lendemain, tous partis en caravane vers l'Est.
 
 Personne n'était dupe. Ce jour est appelé **La Purge**.
 
-> **Note de connaissance publique :** les habitants assez vieux le pensent. Ils conspuent Gore qui les terrorise dans chacune de ses apparitions publiques. Difficile de différencier légende et histoire — certains parlent de centaines de victimes, d'autres de milliers. Les faits sont consultables dans les archives judiciaires.
+> **Note de connaissance publique :** les habitants assez vieux le pensent. Ils conspuent Göre qui les terrorise dans chacune de ses apparitions publiques. Difficile de différencier légende et histoire — certains parlent de centaines de victimes, d'autres de milliers. Les faits sont consultables dans les archives judiciaires.
 
-Les 9 autres Comtes demandèrent à Gore de ne plus s'occuper d'espionnage en personne — former des guildes, profiter de la vie. *"La guerre est finie."*
+Les 9 autres Comtes demandèrent à Göre de ne plus s'occuper d'espionnage en personne — former des guildes, profiter de la vie. *"La guerre est finie."*
 
 **Le Puits des Morts :**
-Gore a enfoui les 100 corps (enfants, femmes, hommes, toutes races) dans un puits. Consciente d'avoir dépassé une limite, elle fit construire une chapelle au-dessus. Paie le prêtre akkadien **Ussuru**. Jamais en personne — toutes les semaines, envoie un doppelganger donner une pièce.
+Göre a enfoui les 100 corps (enfants, femmes, hommes, toutes races) dans un puits. Consciente d'avoir dépassé une limite, elle fit construire une chapelle au-dessus. Paie le prêtre akkadien **Ussuru**. Jamais en personne — toutes les semaines, envoie un doppelganger donner une pièce.
 
 ---
 
@@ -404,6 +428,21 @@ Questions ouvertes pour le MJ :
 - Mine située dans les **Monts Spectraux** (plusieurs semaines de voyage)
 - Le Silence surveille et protège activement cette mine
 - **Lien avec l'assèchement du Gouffre :** le Silence veut exploiter le Palladium dans la mine sous le Gouffre — c'est la vraie raison de leur intérêt pour le chantier
+
+---
+
+## ⚠️ NIVEAUX DE RÉVÉLATION (PACING MJ)
+
+| Niveau | Type de secrets | Exemples |
+|---|---|---|
+| 1 — Local | Enquête immédiate | La Purge, pattern des victimes, poison, Codex |
+| 2 — Régional | Jeu politique de cité | Agendas divergents des Comtes, infiltration du Silence |
+| 3 — Impérial | Crise de légitimité | Serment fragilisé, Princes Électeurs, phylactères |
+| 4 — Métaphysique | Structure du monde | Pacte Tripartite, Pilliers, Rêve, créatures sentientes |
+| 5 — Ultime | Vérité fondatrice | Le Pape est un dragon parjure |
+
+> Référence longue et détaillée: `mj/timeline-claude-sync.md`.
+> Dossier politique Comtes: `mj/comtes-dossier-complet.md`.
 
 ---
 

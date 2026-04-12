@@ -1,18 +1,19 @@
 # Systèmes de Jeu
 
-*Königsfell a été conçu avec un système homebrew D6 simple et adaptable. La campagne peut être jouée tel quel ou convertie vers d'autres systèmes.*
+*Königsfell a été conçu avec un système homebrew D10 simple et adaptable. La campagne peut être jouée tel quel ou convertie vers d'autres systèmes.*
 
 ---
 
-## Système Maison — D6 Pool d'Action
+## Système Maison — D10 Pool d'Action
 
 Le système natif de la campagne. Voir les fichiers dédiés :
 
 - [Jets de dés et mécanique centrale](jets-de-des.md)
 - [Création de personnage, archétypes, progression](creation-de-personnage.md)
+- [Archetypes et metiers (boite a outils)](archetypes.md)
 
 **Principes directeurs :**
-- Un seul type de dé (D6) pour toutes les résolutions
+- Un seul type de dé (D10) pour toutes les résolutions
 - Tous les conflits (combat, social, magie) utilisent la même mécanique
 - Les objets donnent des dés bonus, pas des modificateurs chiffrés
 - Les règles restent intentionnellement légères pour ne pas ralentir le rythme narratif
@@ -61,4 +62,4 @@ Si vous jouez sur un autre système, remplacez le Pool d'Action par le mécanism
 
 ---
 
-[← Retour à l'accueil](../index.html) · [Jets de dés](jets-de-des.md) · [Création de personnage](creation-de-personnage.md)
+[← Retour à l'accueil](../index.html) · [Jets de dés](jets-de-des.md) · [Création de personnage](creation-de-personnage.md) · [Archetypes et metiers](archetypes.md)

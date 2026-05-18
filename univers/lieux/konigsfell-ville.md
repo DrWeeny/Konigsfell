@@ -58,6 +58,10 @@ Quartier bourgeois et très religieux, siège de la cathédrale des **Erlösers*
 
 Ambiance : solennel, propre, prospère. Le quartier sent l'encens et l'argent propre.
 
+Au sein de l'Eau Calme, la branche officiellement chargée de la surveillance et de l'étude des Erlösers est appelée **la Custodia**. Avec le temps, cette fonction a perdu son tranchant scientifique : beaucoup de postes tournent aujourd'hui autour de la gestion de la cathédrale, de l'accueil des visiteurs et du protocole religieux.
+
+Dans les autres branches, on les surnomme souvent les **Chapeliers** — jeu de mots entre chapelle et chapeau, à moitié moquerie, à moitié mise au placard. Malgré ce mépris, les Erlösers restent presque saints pour la cité : leurs manifestations servent encore à anticiper les tsunamis. Pour beaucoup de mages de terrain, toutefois, la Custodia est vue comme une affectation de gardien de phare.
+
 ---
 
 ### 🟤 Fortecombles

@@ -16,6 +16,7 @@
 ## Termes Magiques
 
 - **Eau Calme (l')** : institution majeure de Königsfell issue d'une enquête post-guerre sur le tsunami des Croisades ; devenue un groupement de guildes civiques, militaires et académiques.
+- **Custodia** : branche de l'Eau Calme chargée de la veille autour des Erlösers, de la cathédrale et des visiteurs ; fonction réelle, mais prestige jugé artificiel.
 - **Die Rostra** : branche navale et militaire de l'Eau Calme ; fer de lance des expéditions vers le Nouveau Monde.
 - **Sturmbrecher** : mage de proue, briseur de vagues et combattant naval ; titre le plus visible de Die Rostra.
 - **Seekmeister** : mage navigateur d'élite, capable de conduire un navire dans les pires tempêtes et de trouver route et ressources en mer ouverte.
@@ -28,6 +29,7 @@
 ## Argot de la Cité
 
 - **Le Registre** : surnom populaire du Flumen Registratum, souvent utilisé avec méfiance.
+- **Chapeliers** : surnom dédaigneux donné à la Custodia ; jeu de mots entre chapelle et chapeau, utilisé pour parler d'une voie de garage.
 - **Prendre le bassin** : utiliser un Taufbecken pour traverser la ville.
 - **Sirenes de l'eau** : expression pour parler des présages lus par certains moines des Taufbecken.
 - **Coquilles** : embarcations légères à la proue incurvée, pour petits groupes sur les canaux étroits ; par extension, leurs conducteurs.

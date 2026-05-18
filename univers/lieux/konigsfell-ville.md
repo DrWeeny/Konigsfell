@@ -72,11 +72,40 @@ Ambiance : campagnard, méfiant envers les étrangers de la ville, traditions an
 
 ### 🔵 Léviathan
 
-Le quartier portuaire — tout neuf et remarquablement bien construit comparé au reste de la ville. C'est ici que se trouve le bâtiment principal de la **Guilde de l'Eau Calme**. Marins, magiciens et miliciens y circulent en nombre constant. Les docks travaillent jour et nuit. Depuis Léviathan partent les expéditions vers le Nouveau Continent.
+Le quartier portuaire de Königsfell est bâti en contrebas de la cité. Les canaux y tombent en lentes cascades vers la mer, entre des sculptures de dragons qui servent de fontaines. D'immenses lames de bois noir plongent dans l'eau comme des côtes de navire géant : vues du ciel, elles donnent l'impression que les gargouilles de la ville crachent une charpente vivante dans l'océan.
 
-Ambiance : dynamique, cosmopolite. Senteur de sel, de cordage mouillé et de magie aquatique. La ville la plus neuve dans la ville la plus vieille.
+Au coeur du quartier se trouve l'**Eau Calme**. Aujourd'hui, c'est un groupement de guildes (service civil, formation, transport, logistique, milice), mais tout commence avec le Comte Morgenwell : après le tsunami de la Croisade, il lança une enquête pour comprendre ce qui avait ravagé le champ de bataille (sort ennemi, sort allié, phénomène naturel, ou conséquence de la chute de Kette).
 
-*Lieux notables :* le bâtiment principal de l'Eau Calme, les grands docks, les bains-téléportation.
+La guerre terminée, un premier bâtiment modeste fut construit sur le littoral avec quelques apprentis. L'institution grossit vite quand l'Empire rejeta Königsfell : il fallait tout reconstruire localement - recensement, métiers, école, navigation, discipline militaire.
+
+L'**Université de l'Eau Calme** n'est plus à son site d'origine. Elle est adossée à la falaise, là où finissent les cascades. Le complexe est vaste : colonnades, fresques, mosaïques, escaliers en spirale, bibliothèque majeure, observatoire sur le toit. Les bassins d'exercice servent autant à la recherche qu'aux entraînements des mages.
+
+> *"A Königsfell, même l'eau a une mémoire. Elle transporte les rumeurs, les serments, et parfois les péchés."*
+
+La fonction principale de l'Eau Calme reste civilo-militaire. Les personnes inaptes à la magie y sont formées à la milice, à la médecine, à la charpenterie, à la navigation, à l'architecture ou à l'enseignement. Les profils aptes à la magie suivent ensuite des voies spécialisées : combat, navigation, purification de l'eau, étude du climat, analyse runique et sciences appliquées.
+
+Sous influence du Comte Auge, une branche dédiée a émergé : le **Flumen Registratum** (souvent appelé *le Registre*). Sa mission est de recenser Königsfell, percevoir les taxes, enregistrer les artefacts magiques, surveiller les runes et encadrer les arrestations de mages hors-la-loi. Son impopularité est proverbiale.
+
+Le transport quotidien sur les canaux est assuré par deux corps distincts : les **Coquilles** et les **Bacs**. Les premières doivent leur nom à la forme de leurs embarcations, légères et effilées, adaptées aux petits groupes et aux ruelles étroites. Les Bacs sont plus massifs, capables de transporter des chargements complets ou du bétail. Leurs conducteurs sont souvent de petites gens ou des mages sans ambition particulière — la guilde a peu de prestige et de moyens. Elle dispose en revanche d'un réseau d'information dense : personne ne voit plus de choses dans une journée qu'un bateleur des canaux.
+
+L'entretien de tout ce réseau hydrique est confié à **l'Unterhalt** (aussi appelé *le Service*). Dragage, dessalage, entretien des écluses, assainissement, promenlag, gestion des tourbières et marais, fontaines, pompes à incendie : l'Unterhalt est partout, discret et indispensable. La branche emploie beaucoup de mages intermédiaires — ceux qui ont reçu une formation à l'Eau Calme mais n'ont pas les ambitions ou les capacités d'une carrière d'élite. C'est une voie respectable, bien vue de l'administration, et souvent choisie par ceux qui veulent une vie stable à Königsfell.
+
+Le quartier abrite aussi les **Taufbecken**, bassins de transit runique. Deux cercles de mages activent des runes de part et d'autre : on peut d'abord voir et parler à l'autre bassin, puis traverser l'eau pour apparaître ailleurs en ville. Le passage est rapide et peu coûteux, mais la traversée n'emporte pas l'équipement ordinaire ; les voyageurs ressortent souvent en bure, puis récupèrent leurs effets via la blanchisserie du Taufbecken.
+
+La branche la plus prestigieuse de l'Eau Calme — et la plus enviée des aventuriers — est **Die Rostra**. Fer de lance de Königsfell sur les mers, c'est elle qui a conduit les premiers navires jusqu'au Nouveau Monde, perforant chaque vague. Le quartier du Léviathan abrite ses immenses installations : cales sèches, ateliers de charpenterie navale, ateliers de sculpture runique sur bois, casernes, cartographes, entrepôts d'avitaillement et écoles de capitaines.
+
+Deux titres concentrent le prestige absolu de Die Rostra :
+
+- Le **Sturmbrecher** se tient à la proue. Son rôle est de briser les vagues, de repousser les tempêtes et de défendre le navire en combat naval. C'est la figure la plus visible de la magie maritime — et la plus crainte des ennemis.
+- Le **Seekmeister** est l'âme invisible du bord. Maître de la navigation, il peut conduire les plus grands navires dans des tempêtes qui feraient fuir n'importe quel équipage, lire les courants, trouver nourriture et route là où d'autres ne voient que l'horizon vide.
+
+Autour d'eux gravitent les **Windrufer**, auxiliaires qui créent du vent, soulèvent de petites vagues ou assistent dans les manœuvres. Un Windrufer compétent peut faire la différence entre une sortie de port laborieuse et une embarcation qui glisse comme si la mer la portait.
+
+Ces dernières années, les Taufbecken sont devenus plus inquiétants : prières à Uberlieben, présages lus dans l'eau, chants rituels, pratiques divinatoires extrêmes. Leurs salles ressemblent à des temples dont l'acoustique a été raffinée pour produire un effet onirique et troublant.
+
+Ambiance : dynamique, cosmopolite et tendue. Senteur de sel, de bois humide, d'encre administrative et de magie aquatique. La ville la plus neuve dans la ville la plus vieille.
+
+*Lieux notables :* université de l'Eau Calme, quais du Léviathan, chantiers navals de Die Rostra, bureaux du Registre, Taufbecken principaux, observatoire côtier, remises des Coquilles, dépôts de l'Unterhalt.
 
 ---
 
@@ -96,7 +125,7 @@ Königsfell est une ville qui a survécu à trop de choses pour être naïve. Le
 
 C'est une ville où la magie est surveillée, où les morts ne restent pas toujours couchés, et où chaque citoyen a appris à avoir deux visages — l'un pour le Silence, l'autre pour la vie réelle.
 
-La **Guilde de l'Eau Calme** maintient l'ordre sur les canaux et propose un service de téléportation aquatique entre ses bâtiments dans chaque quartier — de grands bains de type onsen où plusieurs mages plongent les mains sur des runes. Accessible à tous pour un coût modique. Peut également servir à la communication à distance via le reflet dans l'eau.
+La **Guilde de l'Eau Calme** maintient l'ordre sur les canaux, forme une partie de l'administration civique et opère les Taufbecken : des bassins runiques permettant communication et transit entre quartiers. Le service est ouvert à tous contre quelques pièces, mais la surveillance des moines et les dérives mystiques récentes rendent une partie de la population méfiante.
 
 ---
 

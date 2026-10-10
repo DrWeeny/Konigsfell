@@ -54,7 +54,7 @@ Ambiance : chaque couloir de cristal reflète des conversations que l'on croyait
 
 ### 🟡 Déchaîné
 
-Quartier bourgeois et très religieux, siège de la cathédrale des **Erlösers** — érigée là où le Comte Kette s'est déchaîné dans son sacrifice final. La cathédrale **Uberlieben** est le centre spirituel de Königsfell, lieu de pèlerinage et de mémoire de guerre. Des processions de dévots y côtoient des marchands aisés.
+Quartier bourgeois et très religieux, siège de la cathédrale des **Erlösers** — érigée là où le Comte Kette s'est déchaîné dans son sacrifice final. La cathédrale **Überlieben** est le centre spirituel de Königsfell, lieu de pèlerinage et de mémoire de guerre. Des processions de dévots y côtoient des marchands aisés.
 
 Ambiance : solennel, propre, prospère. Le quartier sent l'encens et l'argent propre.
 
@@ -105,7 +105,7 @@ Deux titres concentrent le prestige absolu de Die Rostra :
 
 Autour d'eux gravitent les **Windrufer**, auxiliaires qui créent du vent, soulèvent de petites vagues ou assistent dans les manœuvres. Un Windrufer compétent peut faire la différence entre une sortie de port laborieuse et une embarcation qui glisse comme si la mer la portait.
 
-Ces dernières années, les Taufbecken sont devenus plus inquiétants : prières à Uberlieben, présages lus dans l'eau, chants rituels, pratiques divinatoires extrêmes. Leurs salles ressemblent à des temples dont l'acoustique a été raffinée pour produire un effet onirique et troublant.
+Ces dernières années, les Taufbecken sont devenus plus inquiétants : prières à Überlieben, présages lus dans l'eau, chants rituels, pratiques divinatoires extrêmes. Leurs salles ressemblent à des temples dont l'acoustique a été raffinée pour produire un effet onirique et troublant.
 
 Ambiance : dynamique, cosmopolite et tendue. Senteur de sel, de bois humide, d'encre administrative et de magie aquatique. La ville la plus neuve dans la ville la plus vieille.
 

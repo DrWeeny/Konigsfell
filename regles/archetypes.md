@@ -1,142 +1,179 @@
-# Archetypes et Metiers
+# Archétypes et Métiers
 
-*Boite a outils d'archetypes pour Konigsfell: deux archetypes complets + grille de metiers inspirants pour creer rapidement des PJ.*
+*Boîte à outils d'archétypes pour Königsfell : trois archétypes complets + une grille de métiers pour créer rapidement des PJ.*
 
 ---
 
-## Regles Generales (Rappel)
+## Règles Générales (Rappel)
 
-### Des de Pouvoir
+### Dés de Pouvoir
 
-- Les archetypes magiques commencent avec **1 de de pouvoir permanent**.
-- Les des supplementaires sont **ephemeres** (2 XP chacun).
-- Les des ephemeres **ne se consomment pas** sur les sorts d'archetype ou appris.
+- Les archétypes magiques commencent avec **1 dé de pouvoir permanent**.
+- Les dés supplémentaires sont **éphémères** (2 XP chacun).
+- Les dés éphémères sont **consommés** quand ils sont engagés et reviennent à la scène suivante (épuisement en test, voir [Jets de dés](jets-de-des.md#dés-de-pouvoir--détail)).
 
-### Seuils de difficulte
+### Seuils de difficulté
 
-| Difficulte | Seuil |
-|---|---|
-| Facile | 3+ |
-| Moyen | 5+ |
-| Difficile | 10+ |
-| Tres difficile | 15+ |
-| Extreme | 25+ |
+Voir la table de référence dans [Jets de dés](jets-de-des.md#seuils-de-difficulté) (3 / 5 / 10 / 15 / 25).
 
 ### Progression alternative
 
-- **Grimoire trouve**: +1 de de pouvoir permanent
-- **Parchemin**: sort gratuit (usage selon decision MJ)
-- **Rituel akkadien**: 1 PV permanent = 1 XP
+- **Grimoire trouvé** : +1 dé de pouvoir permanent
+- **Parchemin** : sort gratuit (usage selon décision du MJ)
+- **Rituel akkadien** : 1 PV permanent = 1 XP
 
 ---
 
-## Archetypes Complets
+## Archétypes Complets
 
 ## Mage-Protecteur de l'Eau Calme
 
-**Origine:** Guilde magique de Konigsfell, specialisee en magie aquatique.
+**Origine :** guilde magique de Königsfell, spécialisée en magie aquatique.
 
-**Role social:** patrouille des canaux, defense cotiere, maintenance des eaux usees, teleportation aquatique.
+**Rôle social :** patrouille des canaux, défense côtière, entretien des eaux usées, téléportation aquatique.
 
-**Equipement de depart:** uniforme Eau Calme, baton ferre/focus, permis de magie, badge ou gondole de service.
+**Équipement de départ :** uniforme de l'Eau Calme, bâton ferré/focus, permis de magie, insigne ou gondole de service.
 
-**Bonus proposes:**
+**Bonus proposés :**
 - Navigation +2
 - Natation +2
 - Infrastructure hydraulique +1
 
-**Sorts d'archetype (gratuits):**
-- **Deplacement de l'eau** (manipulation simple, usage utilitaire)
-- **Bouclier aqueux** (protection, duree variable)
-- **Surface de glace** (controle de terrain, pont temporaire)
+**Sorts d'archétype (gratuits) :**
+- **Déplacement de l'eau** (manipulation simple, usage utilitaire)
+- **Bouclier aqueux** (protection, durée variable)
+- **Surface de glace** (contrôle du terrain, pont temporaire)
 
-**Sorts de progression suggeres:**
-- Jet d'eau pressurise
+**Sorts de progression suggérés :**
+- Jet d'eau pressurisé
 - Brume dense
 - Respiration aquatique
 - Marche sur l'eau
 - Prison de glace
-- Vague devastatrice
+- Vague dévastatrice
 
-**Interdits doctrinaux:**
+**Interdits doctrinaux :**
 - Magie de soin
-- Controle mental
-- Invocation de creatures aquatiques dangereuses
+- Contrôle mental
+- Invocation de créatures aquatiques dangereuses
 
 ---
 
 ## Ritualiste Akkadien
 
-**Origine:** tradition funeraire des Pays d'Akkadie.
+**Origine :** tradition funéraire des Pays d'Akkadie.
 
-**Role social:** rites de passage, accompagnement des familles, lecture des morts.
+**Rôle social :** rites de passage, accompagnement des familles, lecture des morts.
 
-**Statut a Konigsfell:** tolere mais surveille (visa special, suspicion du Silence).
+**Statut à Königsfell :** toléré mais surveillé (visa spécial, suspicion du Silence).
 
-**Equipement de depart:** robe ceremonielle, encensoir, registre des defunts, visa, pieces d'offrande.
+**Équipement de départ :** robe cérémonielle, encensoir, registre des défunts, visa, pièces d'offrande.
 
-**Bonus proposes:**
-- Rituels funeraires +2
-- Theologie akkadienne +2
+**Bonus proposés :**
+- Rituels funéraires +2
+- Théologie akkadienne +2
 - Empathie +1
 
-**Capacite speciale:**
-- **Rituel de l'ame**: peut convertir des PV permanents en XP (1 pour 1), avec accord MJ.
+**Capacité spéciale :**
+- **Rituel de l'âme** : peut convertir des PV permanents en XP (1 pour 1), avec l'accord du MJ.
 
-**Sorts d'archetype (gratuits):**
-- **Murmure des defunts** (questions breves a un mort recent)
-- **Preservation funeraire** (ralentit decomposition)
-- **Lecture de la mort** (circonstances du deces)
+**Sorts d'archétype (gratuits) :**
+- **Murmure des défunts** (questions brèves à un mort récent)
+- **Préservation funéraire** (ralentit la décomposition)
+- **Lecture de la mort** (circonstances du décès)
 
-**Sorts de progression suggeres:**
-- Presence apaisante
+**Sorts de progression suggérés :**
+- Présence apaisante
 - Lien familial onirique
-- Memoire remanente
-- Convocation breve
+- Mémoire rémanente
+- Convocation brève
 
-**Interdits a Konigsfell:**
+**Interdits à Königsfell :**
 - Animation combative des morts
-- Controle d'esprit force
+- Contrôle d'esprit forcé
 - Magie de soin
 
 ---
 
-## Grille de Metiers (creation rapide)
+## Runiste du Registre
 
-Choisir 1 metier principal, puis adapter bonus/capacite selon le style de table.
+**Origine :** ateliers de sculpture runique de Die Rostra, cercles des Taufbecken, bureaux du Flumen Registratum.
+
+**Rôle social :** graver et entretenir les runes de la cité — alarmes, scellés, runes de dissipation des tribunaux, coques des navires, bassins de transit. Expertise des artefacts pour le Registre.
+
+**Statut à Königsfell :** légal, mais **enregistré** : chaque runiste dépose son poinçon au Registre, et une rune se reconnaît à la main qui l'a gravée. Un runiste sans poinçon est un clandestin.
+
+**Équipement de départ :** burins et poinçons, encre d'argent, carnet de sceaux, licence du Registre, lanterne à lentille.
+
+**Bonus proposés :**
+- Gravure et lecture runique +2
+- Artefacts et objets magiques +1
+- Serrurerie / architecture +1
+
+**Capacité spéciale — La magie préparée :**
+- Le runiste ne lance pas ses sorts : il les **grave**. Graver une rune est une action DP faite au calme (entre les scènes, ou dans une scène sans pression). Le total atteint fixe le **palier** de la rune.
+- La rune garde ce palier jusqu'à ce qu'elle se **déclenche** (une fois) ou soit effacée.
+- Chaque rune active **retient un dé éphémère** : il ne revient pas à la scène suivante tant que la rune existe. Le DP permanent ne peut pas être retenu.
+- Une rune est un objet du décor : elle se voit, se lit, s'efface, et sert de preuve.
+
+**Sorts d'archétype (gratuits) :**
+- **Rune d'alarme** (prévient le runiste quand on la franchit ; à 10+, il sait qui)
+- **Rune de dissipation** (dans la pièce, les sorts sous le palier de la rune ne prennent pas)
+- **Lecture runique** (identifier un artefact, lire la trace d'un sort récent et son palier)
+
+**Sorts de progression suggérés :**
+- Rune de scellement (une porte ou un coffre ne s'ouvre qu'en battant le palier de la rune)
+- Rune de garde (se déclenche quand le porteur est attaqué : 1 dé de garde dont la valeur est fixée à la gravure — verbe *verrouillage*)
+- Rune d'écoute (entendre à distance ce qui se dit près d'une eau gravée)
+- Rune de piège (se déclenche au contact : dégâts égaux à la somme brute de la gravure)
+- Rune de rappel (un objet gravé revient à sa rune jumelle)
+- Cercle de transit (à deux runistes : ouvrir un Taufbecken de fortune)
+
+**Interdits :**
+- Runes sur le vivant (la peau gravée rappelle la peausserie)
+- Graver sur le bien d'un Comte ou d'un temple sans autorisation
+- Effacer ou falsifier une rune enregistrée au Registre
+
+> *« Un mage oublie ses sorts. Une rune, elle, attend. »*
+
+---
+
+## Grille de Métiers (création rapide)
+
+Choisir 1 métier principal, puis adapter bonus et capacité selon le style de la table.
 
 ### Urbains
 
 - Gondolier / Batelier
-- Orfevre / Maitre artisan
+- Orfèvre / Maître artisan
 - Condottiere
 - Marchand de soie
 - Banquier / Changeur
-- Maitre verrier
-- Architecte / Ingenieur
+- Maître verrier
+- Architecte / Ingénieur
 
 ### Religieux
 
-- Pretre d'Abadar
-- Frere copiste
-- Inquisiteur du Silence (avance)
-- Pelerin / Moine errant
+- Prêtre d'Ewald
+- Frère copiste
+- Inquisiteur du Silence (avancé)
+- Pèlerin / Moine errant
 
-### Academiques
+### Académiques
 
-- Etudiant d'Auge
-- Archeologue de guilde
+- Étudiant d'Auge
+- Archéologue de guilde
 - Cartographe
 - Alchimiste
-- Medecin / Chirurgien
+- Médecin / Chirurgien
 - Naturaliste
 
 ### Militaires
 
 - Garde du Guet
-- Veteran croise
+- Vétéran croisé
 - Spadassin / Duelliste
-- Arbaletrier / Arquebusier
+- Arbalétrier / Arquebusier
 - Capitaine de navire
 
 ### Ombre
@@ -144,7 +181,7 @@ Choisir 1 metier principal, puis adapter bonus/capacite selon le style de table.
 - Voleur / Monte-en-l'air
 - Espion / Informateur
 - Contrebandier
-- Assassin (avance)
+- Assassin (avancé)
 - Faussaire
 
 ### Artistiques
@@ -152,12 +189,12 @@ Choisir 1 metier principal, puis adapter bonus/capacite selon le style de table.
 - Peintre / Portraitiste
 - Musicien / Barde
 - Acteur de Commedia
-- Mascaraio (fabricant de masques)
+- Mascheraio (fabricant de masques)
 
-### Marginales
+### Marginaux
 
 - Mendiant / Rat des rues
-- Rat d'egout
+- Rat d'égout
 - Courtisan(e)
 - Gladiateur
 - Ravageur (pilleur de ruines)
@@ -168,24 +205,23 @@ Choisir 1 metier principal, puis adapter bonus/capacite selon le style de table.
 - Cartographe du Nouveau Monde
 - Naturaliste exotique
 
-### Liees aux Comtes
+### Liés aux Comtes
 
 - Garde personnel d'un Comte
-- Erudit au service d'Auge
+- Érudit au service d'Auge
 - Organisateur pour Hahn
-- Gestionnaire des arenes (Gelieber)
+- Gestionnaire des arènes (Gelieber)
 
 ---
 
-## Creation d'Archetype Personnalise (5 etapes)
+## Créer un Archétype Personnalisé (5 étapes)
 
-1. **Concept social**: quel role concret dans la cite?
-2. **Bonus**: 2-3 competences (+1 ou +2)
-3. **Capacite speciale**: passive, active, ou sort gratuit
-4. **Equipement de depart**: 3 a 5 objets thematiques
-5. **Connexions**: guilde, faction, famille, dette
+1. **Concept social** : quel rôle concret dans la cité ?
+2. **Bonus** : 2 ou 3 compétences (+1 ou +2)
+3. **Capacité spéciale** : passive, active, ou sort gratuit
+4. **Équipement de départ** : 3 à 5 objets thématiques
+5. **Connexions** : guilde, faction, famille, dette
 
 ---
 
-[← Retour a l'accueil](../index.html) · [Creation de personnage](creation-de-personnage.md) · [Jets de des](jets-de-des.md)
-
+[← Retour à l'accueil](../index.html) · [Création de personnage](creation-de-personnage.md) · [Jets de dés](jets-de-des.md) · [Magie](magie.md)

@@ -1,61 +1,61 @@
-# Konigsfell : Les Trames du Onzieme - Pitch
+# Königsfell : Les Trames du Onzième — Pitch
 
-*Campagne de dark urban fantasy renaissance dans une cite de canaux, de complots et de serments fragiles.*
+*Campagne de dark urban fantasy Renaissance dans une cité de canaux, de complots et de serments fragiles.*
 
-Cette campagne place les PJ au coeur d'une intrigue urbaine a grande echelle : un meurtre en apparence local ouvre sur des rivalites politiques, religieuses et commerciales qui depassent largement les murs de Konigsfell.
+Cette campagne place les PJ au cœur d'une intrigue urbaine à grande échelle : un meurtre en apparence local ouvre sur des rivalités politiques, religieuses et commerciales qui dépassent largement les murs de Königsfell.
 
-- **Tonalite** : urbaine, sombre, politique, mystique
-- **Style de jeu** : enquete, tractations, infiltration, missions a choix moraux
-- **Cadre** : monde inspire de la Terre, recompose librement
-- **Objectif des PJ** : suivre les fils d'une affaire criminelle qui peut faire basculer l'equilibre de toute la region
+- **Tonalité** : urbaine, sombre, politique, mystique
+- **Style de jeu** : enquête, tractations, infiltration, missions à choix moraux
+- **Cadre** : monde inspiré de la Terre, recomposé librement
+- **Objectif des PJ** : suivre les fils d'une affaire criminelle qui peut faire basculer l'équilibre de toute la région
 
 ---
 
 ## Synopsis
 
-A Konigsfell, cite independante gouvernee par les Comtes, un meurtre brutal dans le Gouffre declenche une enquete sensible. Les preuves sont rares, les temoins peu fiables, et chaque piste mene vers une verite plus dangereuse que la precedente.
+À Königsfell, cité indépendante gouvernée par les Comtes, un meurtre brutal dans le Gouffre déclenche une enquête sensible. Les preuves sont rares, les témoins peu fiables, et chaque piste mène vers une vérité plus dangereuse que la précédente.
 
-Les PJ evoluent dans une ville ou la magie est surveillee, ou les institutions se neutralisent, et ou chaque faveur a un prix. En remontant la chaine des responsables, ils devront choisir qui proteger, qui exposer, et jusqu'ou aller pour rendre justice.
+Les PJ évoluent dans une ville où la magie est surveillée, où les institutions se neutralisent, et où chaque faveur a un prix. En remontant la chaîne des responsables, ils devront choisir qui protéger, qui exposer, et jusqu'où aller pour rendre justice.
 
 ---
 
-## Tonalite et inspirations
+## Tonalité et inspirations
 
-La campagne melange :
+La campagne mêle :
 
-- **Urban fantasy** : une ville vivante, dense, violente, avec ses guildes, ses rituels et ses reseaux d'information
-- **Dark fantasy** : corruption, peur sociale, verites dissimulees, violence qui laisse des traces
-- **Renaissance** : diplomatie, foi, commerce, essor des cites-etats, ambitions de cour
+- **Urban fantasy** : une ville vivante, dense, violente, avec ses guildes, ses rituels et ses réseaux d'information
+- **Dark fantasy** : corruption, peur sociale, vérités dissimulées, violence qui laisse des traces
+- **Renaissance** : diplomatie, foi, commerce, essor des cités-États, ambitions de cour
 
-Le rythme alterne scenes d'enquete, interactions politiques, exploration de quartiers et coups de pression institutionnels.
+Le rythme alterne scènes d'enquête, interactions politiques, exploration de quartiers et coups de pression institutionnels.
 
 ---
 
 ## Le monde en miroir
 
-Konigsfell est basee sur la Terre, mais reinterpretee librement pour servir le jeu.
+Königsfell est inspirée de la Terre, mais réinterprétée librement pour servir le jeu.
 
-- **Empire d'Alammania** : ancien nom de l'Allemagne, equivalent du Saint Empire Romain Germanique
-- **Konigsfell** : vaste region inspiree de l'Italie du Nord (Venise et Florence en references majeures)
-- **Suellie** : equivalent de la France
-- **Chimera** : grand Est proche d'un imaginaire ukrainien, cultures tribales liees a la nature
-- **Primordie** : royaume elfe au nord (vers le Danemark et au-dela), climat tempere
-- **Royaumes Perdus** : terres lointaines a dominante arctique (inspiration russe)
-- **Pays d'Akkadie** : au sud de Konigsfell, region souvent desertique, inspiree de la Mesopotamie et de l'Empire d'Akkad
-- **Nouveau Monde** : petite portion connue des Ameriques, frontiere recente d'exploration
+- **Empire d'Alammania** : ancien nom de l'Allemagne, équivalent du Saint Empire romain germanique
+- **Königsfell** : vaste région inspirée de l'Italie du Nord (Venise et Florence en références majeures)
+- **Suellie** : équivalent de la France
+- **Chimera** : grand Est proche d'un imaginaire ukrainien, cultures tribales liées à la nature
+- **Primordie** : royaume elfe au nord (vers le Danemark et au-delà), climat tempéré
+- **Royaumes Perdus** : terres lointaines à dominante arctique (inspiration russe)
+- **Pays d'Akkadie** : au sud de Königsfell, région souvent désertique, inspirée de la Mésopotamie et de l'Empire d'Akkad
+- **Nouveau Monde** : petite portion connue des Amériques, frontière d'exploration récente
 
 ---
 
-## Konigsfell, coeur de campagne
+## Königsfell, cœur de campagne
 
-Konigsfell est une cite de canaux, de ponts et de palais noirs, ou le prestige public masque des rapports de force permanents.
+Königsfell est une cité de canaux, de ponts et de palais noirs, où le prestige public masque des rapports de force permanents.
 
-- Le pouvoir officiel est partage entre les Comtes
-- Le Silence controle la magie et surveille les mouvements sensibles
+- Le pouvoir officiel est partagé entre les Comtes
+- Le Silence contrôle la magie et surveille les mouvements sensibles
 - Les quartiers ont chacun leur culture, leurs lois implicites et leurs dangers
 - Le commerce maritime, le renseignement et la foi s'y affrontent en permanence
 
-Dans ce contexte, les PJ peuvent devenir des acteurs incontournables... ou des pions brillamment manipules.
+Dans ce contexte, les PJ peuvent devenir des acteurs incontournables… ou des pions brillamment manipulés.
 
 ---
 
@@ -63,46 +63,46 @@ Dans ce contexte, les PJ peuvent devenir des acteurs incontournables... ou des p
 
 Selon leurs choix, les PJ vont :
 
-- enqueter sur des crimes lies entre eux
-- negocier avec autorites, factions et intermediaires
-- infiltrer des lieux sous controle administratif ou criminel
-- proteger des cibles, extraire des temoins, recuperer des preuves
-- arbitrer entre verite, stabilite politique et survie immediate
+- enquêter sur des crimes liés entre eux
+- négocier avec les autorités, les factions et les intermédiaires
+- infiltrer des lieux sous contrôle administratif ou criminel
+- protéger des cibles, extraire des témoins, récupérer des preuves
+- arbitrer entre vérité, stabilité politique et survie immédiate
 
-Chaque decision ouvre des opportunites, mais cree aussi de nouveaux ennemis.
+Chaque décision ouvre des opportunités, mais crée aussi de nouveaux ennemis.
 
 ---
 
 ## Structure de la campagne
 
-### Acte I - Le meurtre du Gouffre
+### Acte I — Le meurtre du Gouffre
 
-Un homicide anormal sert de point d'entree. Les PJ rassemblent les premiers indices et identifient un schema plus large.
+Un homicide anormal sert de point d'entrée. Les PJ rassemblent les premiers indices et identifient un schéma plus large.
 
-### Acte II - Les fils caches
+### Acte II — Les fils cachés
 
-L'enquete se deplace vers les institutions, les archives, le marche noir et les rivalites entre puissances locales.
+L'enquête se déplace vers les institutions, les archives, le marché noir et les rivalités entre puissances locales.
 
-### Acte III - Le choix des alliances
+### Acte III — Le choix des alliances
 
-Les PJ doivent choisir leurs appuis, proteger les bonnes personnes et anticiper une crise politique imminente.
+Les PJ doivent choisir leurs appuis, protéger les bonnes personnes et anticiper une crise politique imminente.
 
-### Acte IV - L'onde de choc
+### Acte IV — L'onde de choc
 
-Les consequences de l'enquete depassent Konigsfell : pression imperiale, enjeux regionaux, ouverture vers de nouveaux arcs (Jubile, Nouveau Monde, frontieres lointaines).
+Les conséquences de l'enquête dépassent Königsfell : pression impériale, enjeux régionaux, ouverture vers de nouveaux arcs (Jubilé, Nouveau Monde, frontières lointaines).
 
 ---
 
-## Pour la session zero
+## Pour la session zéro
 
 Cette campagne fonctionne bien avec des PJ :
 
-- capables d'agir en equipe malgre des interets differents
-- motives par l'enquete, la politique ou le renseignement
-- prets a prendre des decisions imparfaites dans une ville imparfaite
+- capables d'agir en équipe malgré des intérêts différents
+- motivés par l'enquête, la politique ou le renseignement
+- prêts à prendre des décisions imparfaites dans une ville imparfaite
 
-Le document presente volontairement une vue joueurs : les verites les plus dangereuses se decouvrent en jeu.
+Ce document présente volontairement une vue joueurs : les vérités les plus dangereuses se découvrent en jeu.
 
 ---
 
-[← Retour a l'accueil](../../index.html)
+[← Retour à l'accueil](../../index.html)

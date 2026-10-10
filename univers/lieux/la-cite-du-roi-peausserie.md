@@ -1,6 +1,6 @@
 # La Cité du Roi Peausserie
 
-*Extrait des Chroniques d'Akkadie — légende transmise par les prêtres errants du culte d'Uberlieben.*
+*Extrait des Chroniques d'Akkadie — légende transmise par les prêtres errants du culte d'Überlieben.*
 
 ---
 

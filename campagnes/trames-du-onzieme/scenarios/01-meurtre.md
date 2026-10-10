@@ -24,7 +24,7 @@ Gore a enfoui les 100 corps (enfants, femmes, hommes, toutes races) dans un puit
 
 ## 🎭 Introduction MJ — Le Présent
 
-Un descendant des marchands cherche vengeance. D'un murmure d'Uberlieben, il a rêvé du puits. Il en a percé les mystères mais sombre dans la dépression et les cauchemars. Perdu, il se laisse guider par Uberlieben plus loin dans **Le Rêve** — mi-éveillé, mi-endormi, voyage dans les ruines de Königsfell et trouve le **Codex Inspirationem**.
+Un descendant des marchands cherche vengeance. D'un murmure d'Überlieben, il a rêvé du puits. Il en a percé les mystères mais sombre dans la dépression et les cauchemars. Perdu, il se laisse guider par Überlieben plus loin dans **Le Rêve** — mi-éveillé, mi-endormi, voyage dans les ruines de Königsfell et trouve le **Codex Inspirationem**.
 
 Sur les pages de ce livre magique, de grandes idées se dessinent. Sa première inspiration : réunir sa famille — il passa de longs mois à remonter chacun des squelettes. Sa seconde : *"Venge-les."* Il décida de trouver les descendants des juges pour les tuer.
 
@@ -127,7 +127,7 @@ Deux individus sont arrivés :
 Quand les PJ l'approchent, il dit calmement en présentant ses papiers d'identité : *"Tout est en règle, je vous l'ai déjà dit."*
 
 **Le Temple :**
-Très petit. Une longue frise circulaire où figure une centaine de figurants en procession vers le centre — la rune d'Uberlieben et deux enfants. Symboles de popart et d'autres runes secondaires. Un autel fait de célestes pleurant, implorant, suppliant, qui soutiennent de leurs ailes et de leurs mains un **bol d'argent sobre**. Entre les colonnades, des citronniers que le prêtre vend sous forme de boisson fraîche.
+Très petit. Une longue frise circulaire où figure une centaine de figurants en procession vers le centre — la rune d'Überlieben et deux enfants. Symboles de popart et d'autres runes secondaires. Un autel fait de célestes pleurant, implorant, suppliant, qui soutiennent de leurs ailes et de leurs mains un **bol d'argent sobre**. Entre les colonnades, des citronniers que le prêtre vend sous forme de boisson fraîche.
 
 **Inscriptions sur la frise :** *Conscience — Dévotion — Repos*
 
@@ -157,7 +157,7 @@ Il est devenu prêtre un peu par hasard. Un vieux prêtre lui avait dit avant de
 
 **Description :** Un vieux de la vieille, filiforme et sec comme un pruneau. Expression pensive. Déteste les petites races et les Akkadiens — un humain plein de lieux communs qui se lisse la moustache en donnant des remontrances. Sent le cigare froid. **Yeux bleus très pâles** qui donnent à ce corps bosselé par les combats un air d'illuminé.
 
-Se dit humain — si on fait des remarques sur ses yeux à l'aspect elfique, il pourrait vous prendre une torgnole. Porte un **symbole d'Abadar** autour du cou : une jolie pyramide en or avec trois pierres précieuses.
+Se dit humain — si on fait des remarques sur ses yeux à l'aspect elfique, il pourrait vous prendre une torgnole. Porte un **symbole d'Ewald** autour du cou : une jolie pyramide en or avec trois pierres précieuses.
 
 Il demandera le maximum d'informations que les PJ ont à offrir.
 
@@ -166,7 +166,7 @@ Il demandera le maximum d'informations que les PJ ont à offrir.
 | Situation | Réaction |
 |---|---|
 | Un PJ a tenu tête au Silence | S'intéresse à son profil — propose de le payer s'il découvre le meurtrier, voire de rejoindre le guet |
-| PJ très convaincant contre le Silence | Signe le symbole d'Uberlieben à son départ (signe de confiance) |
+| PJ très convaincant contre le Silence | Signe le symbole d'Überlieben à son départ (signe de confiance) |
 | PJ prometteur pour rejoindre les rangs | L'invite à un **club de cigare privé chez des nobles** |
 | PJ demandent autorisation d'enquêter | Signe un document avec son sceau pour Hubert Eichel ou Giorgio della Gondola. Pour Giorgio seul : trouve ça trop vague, refuse |
 
@@ -233,10 +233,10 @@ Sur l'antidote : plutôt que de vendre le poison, il a engagé des gens pour cr�
 ---
 
 ## ═══════════════════════════════
-## ACTE 4 — Le Palais de Justice d'Abadar *(nom provisoire)*
+## ACTE 4 — Le Palais de Justice d'Ewald
 ## ═══════════════════════════════
 
-*Bâtiment rectangulaire fait de bric et de broc. La ville pense depuis longtemps à le restaurer mais il est en trop mauvais état — il faudrait le déplacer ou construire à neuf. Les étendards d'Abadar (une clef dans une pyramide) et du Silence se juxtaposent.*
+*Bâtiment rectangulaire fait de bric et de broc. La ville pense depuis longtemps à le restaurer mais il est en trop mauvais état — il faudrait le déplacer ou construire à neuf. Les étendards d'Ewald (une clef dans une pyramide) et du Silence se juxtaposent.*
 
 *Un long pont de bois mène au palais juché sur un îlot de pierre. Pour les grands procès, des gardes sont mobilisés sur le pont — seul point de sortie.*
 

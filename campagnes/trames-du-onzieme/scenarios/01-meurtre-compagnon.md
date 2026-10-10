@@ -1,120 +1,119 @@
-# Compagnon MJ — Scenario 01 (Variantes La Purge)
+# Compagnon MJ — Scénario 01 (Variantes La Purge)
 
-> **CONFIDENTIEL — RESERVE AU MAITRE DE JEU**
-> Modules optionnels issus des notes de conception. A utiliser pour enrichir `01-meurtre.md` sans changer le canon de base.
+> **CONFIDENTIEL — RÉSERVÉ AU MAÎTRE DE JEU**
+> Modules optionnels issus des notes de conception. À utiliser pour enrichir `01-meurtre.md` sans changer le canon de base.
 
 ---
 
 ## Garde-fous de canon
 
-- Gore reste au coeur du secret de **La Purge**.
+- Göre reste au cœur du secret de **La Purge**.
 - Le tueur reste instrumentalisé par le **Codex Inspirationem**.
-- Ussuru reste un temoin involontaire, pas un complice.
-- Le **Jubile Imperial (J+14)** reste la pression principale de l'arc suivant.
+- Ussuru reste un témoin involontaire, pas un complice.
+- Le **Jubilé Impérial (J+14)** reste la pression principale de l'arc suivant.
 
 ---
 
-## Resolutions optionnelles (choix moral final)
+## Résolutions optionnelles (choix moral final)
 
-| Resolution | Effet court terme | Effet long terme |
+| Résolution | Effet court terme | Effet long terme |
 |---|---|---|
-| Neutraliser le tueur | Stabilite immediate, Silence satisfait | Verite enterree, culpabilite PJ |
-| Arrestation + verite partielle | Justice controlee | Tensions entre Comtes |
-| Arrestation + revelation publique | Crise politique majeure | Arc paranoia/epuration possible |
-| Negociation avec le tueur | Infos precieuses sur le Codex et Antonio | PJ exposes aux critiques de toutes les factions |
+| Neutraliser le tueur | Stabilité immédiate, Silence satisfait | Vérité enterrée, culpabilité des PJ |
+| Arrestation + vérité partielle | Justice contrôlée | Tensions entre Comtes |
+| Arrestation + révélation publique | Crise politique majeure | Arc paranoïa/épuration possible |
+| Négociation avec le tueur | Infos précieuses sur le Codex et Antonio | PJ exposés aux critiques de toutes les factions |
 
-**Conseil MJ :** eviter la "bonne" fin. Faire payer chaque choix en reputation, alliances ou confiance.
+**Conseil MJ :** éviter la « bonne » fin. Faire payer chaque choix en réputation, alliances ou confiance.
 
 ---
 
-## Variante de crise — "Le Demon Contractuel"
+## Variante de crise — « Le Démon Contractuel »
 
 Cette variante remplace le climax classique si tu veux un ton corruption sociale / tentation.
 
 ### Pitch court
 
-Un demon civilise (surnom possible : **Monsieur Malafede**) ne massacre pas : il propose des contrats qui accelerent les pires travers de la ville.
+Un démon civilisé (surnom possible : **Monsieur Malafede**) ne massacre pas : il propose des contrats qui accélèrent les pires travers de la ville.
 
-### Structure rapide (1 a 2 sessions)
+### Structure rapide (1 à 2 sessions)
 
-1. **Decouverte** : traces d'invocation + premiers pactes visibles
-2. **Enquete** : victimes des pactes, clauses pieges, tentation des PJ
-3. **Sortie** : bannissement, negociation, piege juridique, ou laisser-faire
+1. **Découverte** : traces d'invocation + premiers pactes visibles
+2. **Enquête** : victimes des pactes, clauses pièges, tentation des PJ
+3. **Sortie** : bannissement, négociation, piège juridique, ou laisser-faire
 
-### Sorties conseillees
+### Sorties conseillées
 
-- **Bannir** : victoire nette, cout rituel eleve
-- **Negocier son depart** : efficace mais moralement douteux
-- **Le pieger legalement** : ideal avec PJ juriste
-- **Le laisser operer** : excellent pour un arc de corruption long
-
----
-
-## Recompenses (version simple et modulable)
-
-### Recompenses politiques
-
-- **Sceau d'Argent** : facilite l'acces administratif
-- Contact privilegie avec Von Murgen, Nivert, ou Ussuru
-- Audience limitee avec Hahn (selon conduite)
-
-### Recompenses de campagne
-
-- Le **Codex Inspirationem** (ou une copie partielle) passe en enjeu de faction
-- Un **artefact mineur** lie a Uberlieben ou au temple
-- Droit a une **base de groupe** (maison modeste / atelier / etude)
-
-### Recompense narrative
-
-Chaque PJ peut declarer un **allie fiable** (PNJ), valide par le MJ pour garder l'equilibre.
+- **Bannir** : victoire nette, coût rituel élevé
+- **Négocier son départ** : efficace mais moralement douteux
+- **Le piéger légalement** : idéal avec un PJ juriste
+- **Le laisser opérer** : excellent pour un long arc de corruption
 
 ---
 
-## Rythme conseille (3 sessions)
+## Récompenses (version simple et modulable)
 
-| Session | Focus | Fin de session ideale |
+### Récompenses politiques
+
+- **Sceau d'Argent** : facilite l'accès administratif
+- Contact privilégié avec Von Murgen, Nivert ou Ussuru
+- Audience limitée avec Hahn (selon la conduite des PJ)
+
+### Récompenses de campagne
+
+- Le **Codex Inspirationem** (ou une copie partielle) devient un enjeu de faction
+- Un **artefact mineur** lié à Überlieben ou au temple
+- Droit à une **base de groupe** (maison modeste / atelier / étude)
+
+### Récompense narrative
+
+Chaque PJ peut déclarer un **allié fiable** (PNJ), validé par le MJ pour garder l'équilibre.
+
+---
+
+## Rythme conseillé (3 sessions)
+
+| Session | Focus | Fin de session idéale |
 |---|---|---|
-| S1 | Scene de crime + temple + temoins | Revelation "La Purge" / urgence |
-| S2 | Guet + marche noir + archives | Identification cible suivante |
-| S3 | Localisation + confrontation + jugement | Consequence politique claire |
+| S1 | Scène de crime + temple + témoins | Révélation « La Purge » / urgence |
+| S2 | Guet + marché noir + archives | Identification de la cible suivante |
+| S3 | Localisation + confrontation + jugement | Conséquence politique claire |
 
 ---
 
-## Enjeux par scene (format table-ready)
+## Enjeux par scène (format table-ready)
 
-| Scene | Enjeu immediat | Si les PJ reussissent | Si les PJ echouent/ignorent | Fil debloque |
+| Scène | Enjeu immédiat | Si les PJ réussissent | Si les PJ échouent/ignorent | Fil débloqué |
 |---|---|---|---|---|
-| S1-1 Place de la Poterie | Comprendre qu'il ne s'agit pas d'un meurtre ordinaire | Poison identifie comme exotique + lien vers Guet | Le Silence prend la main, enquete ralentie | Guet du Gouffre |
-| S1-2 Temple des Cris | Relier le puits a une memoire collective violente | Voix/rituel confirment le mot-cle: "Purge" | Le puits reste une rumeur folklorique | Axe Ussuru / archives |
-| S1-3 Temoins (Anna, Lykke, Faje) | Trier le vrai du faux | Les PJ apprennent a recouper, evitent la fausse piste | Temps perdu, +pression sur la prochaine cible | Horloge d'escalade |
-| S2-1 Guet de Von Murgen | Obtenir legitimite et infos sur le pattern de victimes | Autres victimes confirmees, autorisations d'enquete | Blocage administratif, dependance au Silence | Archives / Stabler |
-| S2-2 Marche noir (Proteo) | Identifier la source du poison et les reseaux | Nom "Antonio il Pazzo" + antidote + hook palladium | Les PJ restent aveugles sur la chaine d'appro | Arc Antonio / mine |
-| S2-3 Palais de Justice / Nivert | Isoler le suspect et l'urgence active | Nom Giorgio + absence de Stabler = alerte rouge | Le tueur garde l'initiative, risque de victime en plus | Maison de Stabler |
-| S3-1 Maison/cave du tueur | Empcher l'escalade (rituel, enlvement, nouveau meurtre) | Preuves majeures + possibilite de sauver une cible | Rituel avance, confrontation plus dure | Choix moral final |
-| S3-2 Resolution politique | Choisir entre verite, stabilite et justice | Alliance claire avec une faction + recompense adaptee | Reputation fracturee + consequences au Jubile | Arc J+14 |
+| S1-1 Place de la Poterie | Comprendre qu'il ne s'agit pas d'un meurtre ordinaire | Poison identifié comme exotique + lien vers le Guet | Le Silence prend la main, enquête ralentie | Guet du Gouffre |
+| S1-2 Temple des Cris | Relier le puits à une mémoire collective violente | Voix/rituel confirment le mot-clé : « Purge » | Le puits reste une rumeur folklorique | Axe Ussuru / archives |
+| S1-3 Témoins (Anna, Lykke, Faje) | Trier le vrai du faux | Les PJ apprennent à recouper, évitent la fausse piste | Temps perdu, +pression sur la prochaine cible | Horloge d'escalade |
+| S2-1 Guet de Von Murgen | Obtenir légitimité et infos sur le schéma des victimes | Autres victimes confirmées, autorisations d'enquête | Blocage administratif, dépendance au Silence | Archives / Stäbler |
+| S2-2 Marché noir (Proteo) | Identifier la source du poison et les réseaux | Nom « Antonio il Pazzo » + antidote + piste du palladium | Les PJ restent aveugles sur la chaîne d'approvisionnement | Arc Antonio / mine |
+| S2-3 Palais de Justice / Nivert | Isoler le suspect et l'urgence active | Nom de Giorgio + absence de Stäbler = alerte rouge | Le tueur garde l'initiative, risque d'une victime de plus | Maison de Stäbler |
+| S3-1 Maison/cave du tueur | Empêcher l'escalade (rituel, enlèvement, nouveau meurtre) | Preuves majeures + possibilité de sauver une cible | Rituel avancé, confrontation plus dure | Choix moral final |
+| S3-2 Résolution politique | Choisir entre vérité, stabilité et justice | Alliance claire avec une faction + récompense adaptée | Réputation fracturée + conséquences au Jubilé | Arc J+14 |
 
 ### Horloge simple de pression (option)
 
-- Base: `0/6`
-- +1 si une scene cle est contournee sans resultat utile
-- +1 si conflit ouvert avec le Silence bloque l'enquete
-- +2 si Stabler n'est pas traite apres identification de l'urgence
+- Base : `0/6`
+- +1 si une scène clé est contournée sans résultat utile
+- +1 si un conflit ouvert avec le Silence bloque l'enquête
+- +2 si Stäbler n'est pas traité après identification de l'urgence
 
-Seuils recommandes:
+Seuils recommandés :
 
-- `3/6` : victime suivante en danger immediat
-- `5/6` : rituel presque pret
+- `3/6` : victime suivante en danger immédiat
+- `5/6` : rituel presque prêt
 - `6/6` : crise ouverte (version dure du final)
 
 ---
 
-## Ajustements de difficulte
+## Ajustements de difficulté
 
-- **Debutants** : indices plus directs, moins d'obstruction du Silence.
-- **Intermediaires** : pression de temps, temoins contradictoires, choix de faction.
-- **Experts** : contre-enquete active, doubles jeux de Comtes, consequence immediate au Jubilé.
+- **Débutants** : indices plus directs, moins d'obstruction du Silence.
+- **Intermédiaires** : pression de temps, témoins contradictoires, choix de faction.
+- **Experts** : contre-enquête active, doubles jeux des Comtes, conséquence immédiate au Jubilé.
 
 ---
 
-[Scenario principal](01-meurtre.md) · [Campagne](../pitch.md)
-
+[Scénario principal](01-meurtre.md) · [Campagne](../pitch.md)

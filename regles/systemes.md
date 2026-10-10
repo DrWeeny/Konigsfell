@@ -9,6 +9,8 @@
 Le système natif de la campagne. Voir les fichiers dédiés :
 
 - [Jets de dés et mécanique centrale](jets-de-des.md)
+- [Résolution & Combat (round, armure, mouvement, objets magiques)](resolution-et-combat.md)
+- [Magie (traditions, paliers, sorts) — brouillon](magie.md)
 - [Création de personnage, archétypes, progression](creation-de-personnage.md)
 - [Archetypes et metiers (boite a outils)](archetypes.md)
 
@@ -62,4 +64,4 @@ Si vous jouez sur un autre système, remplacez le Pool d'Action par le mécanism
 
 ---
 
-[← Retour à l'accueil](../index.html) · [Jets de dés](jets-de-des.md) · [Création de personnage](creation-de-personnage.md) · [Archetypes et metiers](archetypes.md)
+[← Retour à l'accueil](../index.html) · [Jets de dés](jets-de-des.md) · [Résolution & Combat](resolution-et-combat.md) · [Création de personnage](creation-de-personnage.md) · [Archetypes et metiers](archetypes.md)

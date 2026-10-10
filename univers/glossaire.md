@@ -22,7 +22,18 @@
 - **Seekmeister** : mage navigateur d'élite, capable de conduire un navire dans les pires tempêtes et de trouver route et ressources en mer ouverte.
 - **Windrufer** : auxiliaires magiques de Die Rostra, spécialisés dans la création de vent et l'assistance aux manœuvres navales.
 - **Taufbecken** : bassins runiques de communication et de transit aquatique entre quartiers.
-- **Uberlieben** : culte central de la cité ; omniprésent dans les rites publics et de nombreux lieux de passage.
+- **Überlieben** : culte central de la cité ; omniprésent dans les rites publics et de nombreux lieux de passage.
+
+---
+
+## Termes Akkadiens
+
+- **Waldu** : un Akkadien vivant. La naissance est la « première naissance ».
+- **Shanu** : un mort relevé après l'Incorporation — la « seconde naissance ». Un Shanu est libre : on ne l'appelle plus par son nom de vivant, sauf s'il en partage un nouveau.
+- **Incorporation (l')** : le réveil du défunt en Shanu, quelques heures après la mort. Le Waldu mourant reçoit une arme sur son lit de mort.
+- **Belshanu** : Shanu appelé par le Roi de la Nuit pour commander son armée. Les autres morts se lèvent pour l'escorter ; son nouveau nom est chanté dans les temples.
+- **Onguent mortuaire** : préparation magique des prêtresses qui préserve le corps avant l'Incorporation.
+- **Yakhtchal** : tour conique où l'on conserve la glace — pour les provisions et pour les Shanu.
 
 ---
 
@@ -38,4 +49,4 @@
 
 ---
 
-[← Retour à l'accueil](../index.html) · [Univers](index.html)
+[← Retour à l'accueil](../index.html) · [Univers](index.html) · [Conte : Journée en Akkadie](contes/journee-en-akkadie.md)

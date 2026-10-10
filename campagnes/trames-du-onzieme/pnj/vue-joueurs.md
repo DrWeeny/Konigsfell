@@ -114,7 +114,7 @@ Il a vu régulièrement un homme venir faire des offrandes et observer le puits.
 
 > *"Il se lisse la moustache avant de vous parler. C'est bon signe — ça veut dire qu'il réfléchit encore à s'il vous trouve utile."*
 
-Capitaine de la caserne du Gouffre. Vieux soldat, filiforme, sec, l'air perpétuellement pensif. Des yeux bleus très pâles dans un visage tout en cicatrices. Sent le cigare froid. Porte une pyramide d'Abadar en or à trois pierres précieuses autour du cou.
+Capitaine de la caserne du Gouffre. Vieux soldat, filiforme, sec, l'air perpétuellement pensif. Des yeux bleus très pâles dans un visage tout en cicatrices. Sent le cigare froid. Porte une pyramide d'Ewald en or à trois pierres précieuses autour du cou.
 
 Déteste les raccourcis, les excuses et les gens qui perdent son temps.
 

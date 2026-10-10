@@ -40,8 +40,11 @@ Konigsfell/
 ├── bestiaire/creatures.md
 ├── regles/
 │   ├── jets-de-des.md
+│   ├── resolution-et-combat.md
+│   ├── magie.md
 │   ├── systemes.md
-│   └── creation-de-personnage.md
+│   ├── creation-de-personnage.md
+│   └── archetypes.md
 ├── campagnes/trames-du-onzieme/
 │   ├── pitch.md
 │   ├── annexes.md

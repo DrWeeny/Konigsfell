@@ -110,7 +110,7 @@ Un dragon **PARJURE** qui a rompu le Pacte. A vécu longtemps parmi les Hauts El
 **Le Grand Mensonge en 4 phases :**
 
 **Phase 1 — Les Visions :**
-Depuis ses siestes, envoie de fausses visions prophétiques aux humains. Se fait passer pour un dieu du progrès, de la civilisation et de la justice *(nom du dieu a definir — provisoire)*. Construit une religion autour de sa propre gloire déguisée. Un prophète charismatique émerge — sincèrement convaincu — et unifie les croyants.
+Depuis ses siestes, envoie de fausses visions prophétiques aux humains. Se fait passer pour un dieu du progrès, de la civilisation et de la justice : **Ewald**. Construit une religion autour de sa propre gloire déguisée. Un prophète charismatique émerge — sincèrement convaincu — et unifie les croyants.
 
 **Phase 2 — La Fausse Mort :**
 Feint sa mort comme dragon. S'envole vers le Pays d'Akkadie pour "accomplir le Pacte". S'arrête en chemin. Lève une armée en secret.
@@ -264,7 +264,7 @@ Göre a enfoui les 100 corps (enfants, femmes, hommes, toutes races) dans un pui
 
 **Situation de Königsfell :**
 - Officiellement indépendante sous les 10 Comtes survivants
-- Uberlieben : cathédrale érigée là où Kette s'est sacrifié
+- Überlieben : cathédrale érigée là où Kette s'est sacrifié
 - Les Comtes vénérés presque comme des demi-dieux
 - Paradoxe : dans un Empire où quête d'immortalité = tabou, ils sont immortels
 
@@ -319,9 +319,9 @@ Le Serment lie magiquement les mages à l'Empereur. Tradition : *"Je le jure sur
 
 ### Jour -14 : Le Rêveur
 
-Un descendant des marchands de La Purge fait des rêves récurrents depuis des mois. Dans ces rêves : murmures d'**Uberlieben**, visions du puits. Il perce les mystères du puits, découvre les ossements de ses ancêtres. Sombre dans la dépression et les cauchemars.
+Un descendant des marchands de La Purge fait des rêves récurrents depuis des mois. Dans ces rêves : murmures d'**Überlieben**, visions du puits. Il perce les mystères du puits, découvre les ossements de ses ancêtres. Sombre dans la dépression et les cauchemars.
 
-Se laisse guider par Uberlieben plus profondément dans **Le Rêve** — dimension onirique. Mi-éveillé, mi-endormi, voyage dans les ruines de Königsfell.
+Se laisse guider par Überlieben plus profondément dans **Le Rêve** — dimension onirique. Mi-éveillé, mi-endormi, voyage dans les ruines de Königsfell.
 
 ### Jour -12 : Le Codex Inspirationem
 
@@ -404,7 +404,7 @@ Une vraie vampire a obtenu un **sauf-conduit donné par Comte Auge**. But : se r
 
 ---
 
-### Les Créatures Sentientes d'Uberlieben
+### Les Créatures Sentientes d'Überlieben
 
 Des créatures sentientes apparaissent mystérieusement à Königsfell. Liées au sacrifice du Comte Kette. Personne ne comprend leur origine.
 

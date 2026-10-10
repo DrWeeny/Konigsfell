@@ -50,7 +50,7 @@
 
 - Fausse Vampire / Vraie Vampire
 - Palladium et mine des Monts Spectraux
-- Creatures sentientes liees a Uberlieben
+- Creatures sentientes liees a Überlieben
 
 ### 7) Dossier etendu des 11 Comtes
 

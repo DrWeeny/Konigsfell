@@ -2,6 +2,8 @@
 
 *Le système de Königsfell repose sur trois pools de dés distincts et une mécanique d'assignation tactique : on lance d'abord, on décide ensuite.*
 
+> Pour le round de combat détaillé (initiative, gardes, attaque/défense, armure, mouvement) et le cadre de conception des objets magiques, voir [Résolution & Combat](resolution-et-combat.md).
+
 ---
 
 ## Les Trois Pools
@@ -27,18 +29,24 @@ Déterminer combien de dés sont disponibles selon le pool concerné.
 On ne lance pas en plusieurs fois — tout sort ensemble.
 
 **3. Regarder les résultats, puis assigner**
-Le joueur distribue librement ses dés entre les actions disponibles :
+Le joueur répartit ses dés en **actions**. Une action est formée d'un dé seul ou de plusieurs dés combinés :
 - Attaques
 - Défenses (dés en réserve)
 - Mouvements
-- Sorts multiples
+- Sorts
 - Actions tactiques
 
 **4. Résoudre contre les seuils ou l'opposition**
 
+### Plancher d'action
+
+**Une action demande un total minimum de 3.** Un 1 ou un 2 isolé ne peut rien tenter : il doit être combiné à un autre dé, placé en garde, ou laissé de côté.
+
 ---
 
 ## Seuils de Difficulté
+
+*Table de référence unique — les autres chapitres y renvoient.*
 
 Le MJ fixe un seuil avant le jet selon la difficulté de l'action :
 
@@ -51,7 +59,9 @@ Le MJ fixe un seuil avant le jet selon la difficulté de l'action :
 | Très difficile | 15+ |
 | Quasi-impossible | 25+ |
 
-Pour les jets opposés, le seuil est le résultat du défenseur.
+Les paliers 15+ et 25+ ne sont pas atteignables avec un pool de départ : ils passent par la magie, la progression, les objets et les doubles.
+
+Pour les jets opposés, le seuil est le résultat de l'adversaire. **L'égalité va au défenseur.**
 
 ---
 
@@ -62,27 +72,37 @@ Plusieurs dés peuvent être **combinés sur une même action** en additionnant 
 **Exemple :**
 Attaque avec 2 dés — résultats 5 et 3 → total 8. Utile pour surpasser une défense ennemie élevée.
 
+Un **bonus de compétence** (+1, +2…) s'ajoute **une fois au total de l'action**, pas à chaque dé.
+
 ---
 
 ## La Règle des Doubles
 
-Quand deux dés (ou plus) affichent **la même valeur**, des règles spéciales s'appliquent.
+Quand deux dés de même valeur sont **combinés sur une même action**, des règles spéciales s'appliquent. Les doubles se lisent sur les faces naturelles, avant tout bonus.
 
 ### Doubles positifs
 
 | Double | Effet |
 |---|---|
-| Double 10 | Critique absolu — réussite automatique spectaculaire |
-| Double quelconque (ex: 7, 7) | Valeur combinée (7+7 = 14) + bonus égal à la valeur (+7) → **total 21**, effets doublés |
+| Double quelconque (ex : 7, 7) | Vaut **V × 3** pour réussir (7,7 → 21) |
+| Double 10 | **Critique** — effet narratif décisif, ignore l'armure |
+
+- Le bonus du double ne compte que pour **réussir** (passer un seuil, battre une opposition).
+- Les **dégâts** se calculent sur la somme brute (7,7 → 14). Même règle en défense.
+- **Trois dés identiques** : on en choisit deux pour la paire, le troisième reste un dé normal. Pas de triple.
+
+::: dev
+Les doubles restent en test : la règle « effets doublés » de la première version rendait les dégâts trop violents. Voir `CLAUDE.md`, journal de conception.
+:::
 
 ### Double 1 — Échec Critique
 
-Si le pool contient **deux ou plusieurs 1**, le joueur **doit** effectuer une action avec ces 1 en premier.
+Si le pool contient **deux ou plusieurs 1**, le joueur **doit** former une action avec deux de ces 1, résolue en premier.
 
 | Résultats | Obligation |
 |---|---|
-| 1, 1, 6 | Action principale avec (1,1) = échec critique. Peut utiliser 6 séparément. |
-| 1, 1, 1, 6 | Action avec (1,1) = échec critique. Puis (1,6) ou deux actions séparées. |
+| 1, 1, 6 | Action avec (1,1) = échec critique. Le 6 peut agir séparément. |
+| 1, 1, 1, 6 | Action avec (1,1) = échec critique. Le troisième 1 ne peut agir seul (plancher) : il se combine au 6 (total 7) ou reste de côté. |
 
 > ⚠️ Le double 1 annule toute réussite de cette action-là — les autres dés ne compensent pas.
 
@@ -90,14 +110,18 @@ Si le pool contient **deux ou plusieurs 1**, le joueur **doit** effectuer une ac
 
 ## Dés d'Action — Détail
 
-**Pool de départ :** 1 DA de base + 1 dé de Mouvement.
+**Pool de départ : 2 dés** — 1 DA de base + 1 dé de Mouvement. L'équipement, les dons et l'archétype en ajoutent (une épée donne 1 DA **attaque uniquement**).
 
-Le joueur lance tous ses DA simultanément et les assigne librement :
+::: dev
+**En test — blessure grave :** un personnage gravement blessé perd 1 dé de son pool. Voir `CLAUDE.md`.
+:::
 
-**Exemple — Guerrier avec 3 DA (résultats : 7, 5, 2) :**
-- Option A : Attaque avec (7), défense en réserve (5), mouvement (2)
-- Option B : Attaque combinée (7+5 = 12), rien en réserve — risqué
-- Option C : Attaque massive (7+5+2 = 14 combinés) — tout investir
+Le joueur lance tous ses DA simultanément et les assigne librement. En combat, les dés de garde sont posés avant les actions — voir [Le round](resolution-et-combat.md#le-round).
+
+**Exemple — Escalade sous pression, 3 DA (2 de base + 1 de don) — résultats : 7, 5, 2 :**
+- Option A : grimper avec (7+5 = 12, Difficile réussi), le 2 reste de côté
+- Option B : grimper avec (5+2 = 7, Moyen réussi) et garder le 7 pour une autre action
+- Le 2 seul ne peut rien tenter (plancher d'action)
 
 ---
 
@@ -107,8 +131,10 @@ Le joueur lance tous ses DA simultanément et les assigne librement :
 
 Utilisé hors combat pour toute action de connaissance, sociale ou artisanale. Le pool est séparé des DA — les deux ne se mélangent pas.
 
-**Exemple — Enquêteur avec 2 DC + bonus métier +2 :**
-Lance 2D10 + 2 → résultats 7 et 3, + 2 = meilleur résultat retenu avec bonus.
+**Exemple — Enquêteur avec 2 DC et un bonus de métier +2 :**
+Résultats 7 et 3.
+- Une seule action : 7 + 3 + 2 = **12** → Difficile réussi
+- Ou deux actions : (7 + 2 = 9) et (3), par exemple fouiller une pièce et repérer une sortie
 
 ---
 
@@ -116,33 +142,36 @@ Lance 2D10 + 2 → résultats 7 et 3, + 2 = meilleur résultat retenu avec bonus
 
 **Pool de départ :** 1 DP permanent (minimum pour tous).
 
-Des dés **éphémères** peuvent être achetés avec de l'XP.
+Des dés **éphémères** peuvent être achetés avec de l'XP. Ils se distinguent à la table par une couleur différente.
 
 ### Dés permanents vs Éphémères
 
 | Type | Comportement |
 |---|---|
 | **Permanents** | Toujours disponibles, ne se consomment jamais |
-| **Éphémères** | Ne se consomment PAS sur les sorts d'archétype ou sorts appris |
+| **Éphémères** | **Consommés** dès qu'ils sont engagés dans une action — ils ne reviennent qu'à la scène suivante |
 
-> Les dés éphémères représentent de la puissance supplémentaire disponible — ils ne disparaissent pas à l'usage normal.
+> Les dés éphémères sont le carburant des sorts puissants : un mage peut frapper fort, mais pas à chaque tour.
+
+::: dev
+**En test — épuisement.** Si un personnage engage **tous** ses dés éphémères dans une même scène, l'un d'eux reste épuisé jusqu'à une nuit de repos complet. Objectif : limiter les scènes « tout ou rien » sans compter les sorts. Voir `CLAUDE.md`.
+:::
 
 **Exemple — Mage avec 3 DP (1 permanent + 2 éphémères) :**
-- Lance *Bouclier Aqueux* (sort d'archétype) avec 2 DP → aucun dé consommé
-- Lance *Prison de Glace* (sort appris) avec 3 DP → aucun dé consommé
-- Résultats : 8, 8, 5 → **Double 8 !** → 8+8 = 16, bonus +8 = **total 24**. Seuil 20+ dépassé → effet spectaculaire
+- Lance *Prison de Glace* avec les 3 DP → résultats : 8, 8, 5
+- **Double 8** → 8 × 3 = 24 pour réussir. Seuil Très difficile (15+) dépassé → la prison tient
+- Les 2 dés éphémères sont consommés pour la scène ; il ne lui reste que son DP permanent
 
 ---
 
 ## Recharge des Pools
 
-Les pools se rechargent **entre chaque scène**.
-
 | Pool | Recharge |
 |---|---|
 | Dés d'Action (DA) | ✅ Complet entre les scènes |
 | Dés de Compétence (DC) | ✅ Complet entre les scènes |
-| Dés de Pouvoir (DP) | ✅ Complet entre les scènes |
+| Dés de Pouvoir permanents | ✅ Complet entre les scènes |
+| Dés éphémères | Entre les scènes — sauf dé épuisé (nuit de repos) |
 
 > Une scène correspond à une unité narrative distincte (lieu, temps ou enjeu différent). Le MJ tranche en cas de doute.
 
@@ -154,13 +183,13 @@ Les pools se rechargent **entre chaque scène**.
 1. Choisir le pool (Action / Compétence / Pouvoir)
 2. Lancer TOUS les dés du pool simultanément
 3. Vérifier les doubles :
-   - Double 1 → obligation d'action échouée en premier
-   - Doubles autres → combinables (bonus)
-4. Assigner les dés aux actions (attaque / défense / sort / mouvement)
+   - Double 1 → action en échec critique, résolue en premier
+   - Autres doubles → V × 3 pour réussir, somme brute pour les dégâts
+4. Former les actions (total minimum 3) : attaque / défense / sort / mouvement
 5. Résoudre contre seuil ou opposition
 6. Narrer
 ```
 
 ---
 
-[← Retour à l'accueil](../index.html) · [Création de personnage](creation-de-personnage.md)
+[← Retour à l'accueil](../index.html) · [Résolution & Combat](resolution-et-combat.md) · [Création de personnage](creation-de-personnage.md)

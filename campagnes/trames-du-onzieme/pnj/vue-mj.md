@@ -94,7 +94,7 @@
 - Ancien espion recruté après la guerre, unique survivant d'une purge interne liée à Göre
 - A prêté le **Serment Impérial** et travaille encore pour l'organisation, contre son gré
 - Paranoïa chronique: contrôle compulsif de son reflet, peur d'être remplacé
-- Possède un vrai réseau d'informateurs via des faux temples d'Uberlieben
+- Possède un vrai réseau d'informateurs via des faux temples d'Überlieben
 - Son "code alcool" est réel: il encode des messages dans ses références de vin
 
 **Capacités utiles en jeu :**
@@ -165,7 +165,7 @@
 
 **Rôle :** Capitaine de la caserne du Gouffre. Point de contact officiel pour les enquêteurs.
 
-**Description physique :** Filiforme et sec comme un pruneau. Yeux bleus très pâles à l'aspect elfique (qu'il nie catégoriquement). Sent le cigare froid. Corps bosselé par les combats, couturé de blessures. Porte un symbole d'Abadar en or avec trois pierres précieuses.
+**Description physique :** Filiforme et sec comme un pruneau. Yeux bleus très pâles à l'aspect elfique (qu'il nie catégoriquement). Sent le cigare froid. Corps bosselé par les combats, couturé de blessures. Porte un symbole d'Ewald en or avec trois pierres précieuses.
 
 **Motivation affichée :** Faire son travail, maintenir l'ordre dans le Gouffre, ne pas avoir d'ennuis.
 
@@ -311,7 +311,7 @@
 - A vendu un échantillon de Palladium à Proteo et lui a donné la carte — sans savoir ce qu'il en ferait
 - Son **ancien assistant** s'est rebellé, a été transformé en chat par ses soins
 - Le chat familier parlant qu'elle peut donner comme récompense **est vraiment son ancien assistant** — peut parler, a sa propre volonté, veut se racheter pour retrouver sa forme humaine
-- Fait des recherches sur des **runes anciennes akkadiennnes** — lien potentiel avec Uberlieben et le Rêve
+- Fait des recherches sur des **runes anciennes akkadiennnes** — lien potentiel avec Überlieben et le Rêve
 
 **Secrets :**
 - En sait plus sur le Palladium qu'elle ne le dit — refuse de partager sans contrepartie

@@ -54,7 +54,7 @@ Lors d'une bataille décisive, le **Comte Kette** — l'un des Onze — invoqua 
 
 Victoire technique des croisés.
 
-Depuis ce jour, des tsunamis récurrents frappent les côtes de Königsfell. Personne ne comprend vraiment pourquoi. La cathédrale **Uberlieben** fut érigée à l'endroit du sacrifice, lieu de mémoire et de pèlerinage.
+Depuis ce jour, des tsunamis récurrents frappent les côtes de Königsfell. Personne ne comprend vraiment pourquoi. La cathédrale **Überlieben** fut érigée à l'endroit du sacrifice, lieu de mémoire et de pèlerinage.
 
 ---
 

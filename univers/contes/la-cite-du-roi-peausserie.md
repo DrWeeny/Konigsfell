@@ -62,5 +62,5 @@ Un nouveau Grand Nécromant fut élu, et tout le monde quitta Königsfell — la
 
 ---
 
-[← Königsfell, la Cité](konigsfell-ville.md) · [Univers](../index.html)
+[← Königsfell, la Cité](../lieux/konigsfell-ville.md) · [Univers](../index.html) · [Conte : Journée en Akkadie](journee-en-akkadie.md)
 

@@ -8,7 +8,7 @@
 
 Königsfell est une cité portuaire construite sur un réseau de canaux, d'îles et de ponts. Héritage du Roi Peausserie, elle est un enchevêtrement de palais extravagants, de tours reliées par des passerelles, de ruelles inondées et de quartiers suspendus au-dessus de l'eau sombre.
 
-> 📖 *Lore — [La Cité du Roi Peausserie](la-cite-du-roi-peausserie.md)*
+> 📖 *Lore — [La Cité du Roi Peausserie](../contes/la-cite-du-roi-peausserie.md)*
 
 La cité est traversée par deux grandes artères aquatiques et divisée en **huit quartiers**, chacun avec sa culture, son architecture et ses dangers propres.
 

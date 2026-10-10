@@ -49,4 +49,4 @@
 
 ---
 
-[← Retour à l'accueil](../index.html) · [Univers](index.html) · [Conte : Journée en Akkadie](contes/journee-en-akkadie.md)
+[← Retour à l'accueil](../index.html) · [Univers](index.html) · [Conte : Journée en Akkadie](contes/journee-en-akkadie.md) · [Conte : La Cité du Roi Peausserie](contes/la-cite-du-roi-peausserie.md)

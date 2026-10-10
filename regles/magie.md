@@ -36,7 +36,7 @@ Aucune tradition légale ne les enseigne. Ils existent dans les archives du Sile
 
 - **Nécromancie** — lever les morts, les commander. Le cœur de la guerre contre l'Akkadie.
 - **Magie de soin** — assimilée à la nécromancie : *repousser la mort est un blasphème*.
-- **Peausserie** — l'échange de peaux, art dissous par le Roi Peausserie (voir [La Cité du Roi Peausserie](../univers/lieux/la-cite-du-roi-peausserie.md)).
+- **Peausserie** — l'échange de peaux, art dissous par le Roi Peausserie (voir [La Cité du Roi Peausserie](../univers/contes/la-cite-du-roi-peausserie.md)).
 - **Contrôle mental** — interdit par toutes les traditions, pratiqué par certaines.
 
 Les runistes ne lancent pas leurs sorts, ils les **gravent** à l'avance : voir l'archétype [Runiste du Registre](archetypes.md#runiste-du-registre).

@@ -39,7 +39,7 @@ Aucune tradition légale ne les enseigne. Ils existent dans les archives du Sile
 - **Peausserie** — l'échange de peaux, art dissous par le Roi Peausserie (voir [La Cité du Roi Peausserie](../univers/contes/la-cite-du-roi-peausserie.md)).
 - **Contrôle mental** — interdit par toutes les traditions, pratiqué par certaines.
 
-Les runistes ne lancent pas leurs sorts, ils les **gravent** à l'avance : voir l'archétype [Runiste du Registre](archetypes.md#runiste-du-registre).
+Les runistes ne lancent pas leurs sorts, ils les **gravent** à l'avance : voir l'archétype [Runiste du Registre](archetypes.md#runiste-du-registre). Les alchimistes font de même avec leurs **préparations** : voir [Physicus](archetypes.md#physicus--docteur-chirurgien). Dans les deux cas, chaque effet en réserve retient un dé éphémère.
 
 ::: mj
 Les arts proscrits sont des **ressources de scénario**, pas des options de création. Un PJ peut les approcher (un grimoire, un prêtre véreux, un rituel akkadien), mais chaque usage est une prise que quelqu'un pourra exercer sur lui.

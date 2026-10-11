@@ -18,7 +18,8 @@ Chaque fiche contient 4 axes:
 
 ## 1) Comte Kette — L'Enchaîné
 
-- **Rôle public :** héros mort de la Deuxième Croisade, martyr du tsunami.
+- **Origine :** pupille de l'Empereur, élevé au palais avec Göre ; jeune, c'était un tieffelin (rêve de Göre, Le Sucret épisode 21).
+- **Rôle public :** héros mort de la Deuxième Croisade, martyr du tsunami. Mort dans l'esprit des gens : son siège de Comte est vacant (voir l'Hydre, `timeline.md`).
 - **Agenda secret :** survit sous forme altérée; ses résidus mentaux contaminent le Rêve.
 - **Levier PJ :** comprendre le lien `Codex Inspirationem` -> contamination -> escalade des crises.
 - **Accroche immédiate :** visions fragmentaires d'une grotte de palladium après contact avec le Codex.
@@ -27,7 +28,10 @@ Chaque fiche contient 4 axes:
 
 ## 2) Comte Hahn — Le Coq
 
+- **Race :** elfe (elfe et demi-elfe, c'est la même chose dans ce monde).
+- **Origine :** otage et pupille de l'Empereur, élevé par l'administration du palais avec Göre ; marqué lui aussi par la guerre, c'est lui qui a dit à Göre qu'elle pouvait faire ce qu'elle voulait pour être heureuse.
 - **Rôle public :** figure d'ordre, garant de la stabilité de Königsfell.
+- **Caractérisation :** veuf de **Francine la Grosse**, une Suéloise humaine épousée par alliance : signe d'une politique neutre, qui n'hésite pas à traiter avec la Suélie. Il ne s'est jamais remarié malgré sa longévité. Sa « nièce » **Katarina von Hahn** est en fait son arrière-petite-fille. Liaison discrète avec **Johan**, son bras droit, antagoniste facile qui fait contraste : Hahn, lui, arrondit toujours les angles.
 - **Agenda secret :** bâtir une guilde de surveillance équilibrée entre Comtes; contenir les scandales.
 - **Levier PJ :** professionnalisme, discrétion, résultats vérifiables.
 - **Accroche immédiate :** propose aux PJ une mission-test liée au Jubilé impérial.
@@ -38,6 +42,7 @@ Chaque fiche contient 4 axes:
 
 - **Rôle public :** observateur discret, maître du renseignement froid.
 - **Agenda secret :** provoquer un incident politique pour affaiblir l'héritier impérial et reprendre la main.
+- **Le funambule :** il aide les complots et finance les opposants, mais son serment lui interdit de s'impliquer dans un meurtre, même s'il sait que son argent peut y mener. Le Serment reposant en partie sur la perception, et Auge ne tenant pas Willensein pour le véritable Empereur, il marche sur une ligne fine sans se parjurer.
 - **Levier PJ :** informations rares, services occultes, opportunisme assumé.
 - **Accroche immédiate :** contacte les PJ via intermédiaire pour "sécuriser" un événement de manière ambiguë.
 
@@ -54,6 +59,7 @@ Chaque fiche contient 4 axes:
 
 ## 5) Comte NassernHund — Le Chien Mouillé
 
+- **Race :** nain.
 - **Rôle public :** seigneur excentrique, puissance brute peu impliquée en politique.
 - **Agenda secret :** protéger son confort et ses intérêts immédiats.
 - **Levier PJ :** faveurs matérielles, vin, spectacle, dette personnelle.
@@ -63,7 +69,9 @@ Chaque fiche contient 4 axes:
 
 ## 6) Comte Wildepfeife — Le Callumet
 
+- **Race :** nain.
 - **Rôle public :** frère/allié inséparable de NassernHund, acteur de coulisses.
+- **Réputation :** avec NassernHund, ils ont ramené drogue de contrebande et « prostituées de l'esprit » ; Serpentino Imondi les admire (notes du *Bal des Armes*).
 - **Agenda secret :** monnayer ses capacités au plus offrant sans se lier durablement.
 - **Levier PJ :** contrat clair, paiement, clause de sortie.
 - **Accroche immédiate :** propose une "aide" conditionnelle qui met les PJ en dette.
@@ -108,6 +116,7 @@ Chaque fiche contient 4 axes:
 
 ## 11) Comtesse Göre — La Gamine / Le Doppelgänger
 
+- **Origine :** Iggigi, sœur de la reine d'Akkadie, otage et pupille de l'Empereur, élevée au palais avec Kette et Hahn (Le Sucret, épisodes 19–21).
 - **Rôle public :** maîtresse des réseaux d'espionnage, figure instable et crainte.
 - **Agenda secret :** garder enterré le crime de La Purge tout en contenant sa propre fragmentation mentale.
 - **Levier PJ :** compassion cadrée + preuve de discrétion + résultat utile.

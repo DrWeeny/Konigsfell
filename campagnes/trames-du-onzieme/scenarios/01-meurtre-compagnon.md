@@ -10,7 +10,7 @@
 - Göre reste au cœur du secret de **La Purge**.
 - Le tueur reste instrumentalisé par le **Codex Inspirationem**.
 - Ussuru reste un témoin involontaire, pas un complice.
-- Le **Jubilé Impérial (J+14)** reste la pression principale de l'arc suivant.
+- Le **Jubilé Impérial (J+30 pour l'Empereur, J+45 pour le Jubilé)** reste la pression principale de l'arc suivant.
 
 ---
 
@@ -91,7 +91,7 @@ Chaque PJ peut déclarer un **allié fiable** (PNJ), validé par le MJ pour gard
 | S2-2 Marché noir (Proteo) | Identifier la source du poison et les réseaux | Nom « Antonio il Pazzo » + antidote + piste du palladium | Les PJ restent aveugles sur la chaîne d'approvisionnement | Arc Antonio / mine |
 | S2-3 Palais de Justice / Nivert | Isoler le suspect et l'urgence active | Nom de Giorgio + absence de Stäbler = alerte rouge | Le tueur garde l'initiative, risque d'une victime de plus | Maison de Stäbler |
 | S3-1 Maison/cave du tueur | Empêcher l'escalade (rituel, enlèvement, nouveau meurtre) | Preuves majeures + possibilité de sauver une cible | Rituel avancé, confrontation plus dure | Choix moral final |
-| S3-2 Résolution politique | Choisir entre vérité, stabilité et justice | Alliance claire avec une faction + récompense adaptée | Réputation fracturée + conséquences au Jubilé | Arc J+14 |
+| S3-2 Résolution politique | Choisir entre vérité, stabilité et justice | Alliance claire avec une faction + récompense adaptée | Réputation fracturée + conséquences au Jubilé | Arc du Jubilé (J+30 / J+45) |
 
 ### Horloge simple de pression (option)
 

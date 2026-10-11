@@ -22,7 +22,7 @@
 - Longévité exceptionnelle (plusieurs centaines d'années)
 - Vivent en communautés fermées
 - **Problème secret :** l'âge finit par leur faire perdre la raison — folie sénile inéluctable
-- Recherchent désespérément un remède
+- Recherchent désespérément un remède : leurs livres théologiques les disent **éternels**, et ils finiront par demander aux dragons la vie éternelle
 
 **Les Humains**
 - Chaotiques et organisés paradoxalement
@@ -87,7 +87,7 @@
 - Dirigé par un Roi/Reine de la Nuit
 - Tradition nomade : à chaque nouveau souverain, la capitale migre
 - **Raison stratégique :** maximiser la dispersion des caveaux dans tout le royaume — chaque caveau = potentiel pour l'armée éternelle
-- Les **Iggigi** : Princes et Princesses de la Nuit aux pouvoirs étranges
+- Les **Iggigi** : Princes et Princesses de la Nuit aux pouvoirs étranges (« jeune dieu » en akkadien). Ils peuvent aussi être élus par les créatures défuntes du Rêve : c'est le cas de **Lucie** (premier nom : Gouffre), qui erre dans son sommeil comme un cauchemar et protège sa famille de Kette ; son pouvoir donne des animaux totems (le guépard de Ketnis)
 
 Société nécromantique acceptée et normalisée. Les morts servent les vivants. Longue tradition de coexistence avec la mort.
 
@@ -95,6 +95,15 @@ Société nécromantique acceptée et normalisée. Les morts servent les vivants
 - Bénéficient de la protection et de la magie draconiques
 - Ont résolu leur problème de folie sénile grâce au Pacte
 - Relations distantes avec l'Akkadie
+- Ce sont les **Primordiaux**, elfes de **Primordie**, bénis par les dragons pour vivre à l'infini. Ils cherchent à préserver une certaine pureté. Une prophétie de cataclysme à Königsfell les fait tous rentrer chez eux (Le Sucret, épisode 11)
+
+### Deux peuples transformés, et tous les autres
+
+La guerre contre les dragons et le Pacte ont transformé une partie de chacun des deux peuples mortels :
+- une partie des **Elfes** est devenue les **Primordiaux** (vie infinie, sous la protection des dragons) ;
+- une partie des **Humains** est devenue les **Akkadiens** (le Rituel de Mort Éternelle).
+
+Les autres, au fil des générations, se sont tant mêlés que la frontière entre humain et elfe s'est diluée. **Les elfes et demi-elfes d'aujourd'hui sont la même chose** et n'ont plus grand-chose à voir avec les Elfes de l'ancien temps. Seuls les Primordiaux se tiennent à part.
 
 ---
 
@@ -235,7 +244,8 @@ Aujourd'hui : royaume abandonné lors de la migration du Roi suivant. Quelques A
 
 **Son identité :**
 - C'est une **Iggigi** (Akkadienne)
-- Était otage chez l'Empire quand elle était très jeune
+- Était otage chez l'Empire quand elle était très jeune : **pupille de l'Empereur** comme **Hahn**, élevée par l'administration du palais impérial avec Kette ; remarqués, ils ont noué des liens avec l'Empereur lui-même
+- Après la guerre, Hahn, qui en porte aussi les traumatismes, lui dit qu'elle n'a plus à faire la guerre et peut faire ce qu'elle veut pour être heureuse
 - Pouvoir : créer des **doppelgangers parfaits**
 - Était en charge de l'espionnage pendant la guerre
 - La guerre l'a poussée aux confins de ses pouvoirs
@@ -266,6 +276,7 @@ Göre a enfoui les 100 corps (enfants, femmes, hommes, toutes races) dans un pui
 - Officiellement indépendante sous les 10 Comtes survivants
 - Überlieben : cathédrale érigée là où Kette s'est sacrifié
 - Les Comtes vénérés presque comme des demi-dieux
+- **Un siège vacant** : Kette étant mort dans l'esprit des gens, une place de Comte reste libre. **L'Hydre**, guilde qui réunit les meilleurs profils, doit former une chambre de 11 représentants appelés à gouverner la ville ; l'une de ces onze têtes sera élue Comte (prévu pour être introduit par Trente-et-un, jamais joué)
 - Paradoxe : dans un Empire où quête d'immortalité = tabou, ils sont immortels
 
 **Le Dilemme du Pape :**
@@ -298,20 +309,21 @@ La plupart étaient des guerriers, pas des politiciens. N'ont aucun intérêt po
 ### La Crise Impériale
 
 **Abdication de l'Empereur :**
-L'Empereur abdique, donne temporairement son titre à son fils. Le fils veut reconquérir Königsfell.
+L'Empereur **Arhedell Sixte** abdique — il est toujours vivant — et confie la passation à son fils le temps de l'élection. Le fils, **Willensein Sieben**, est **Empereur non officiel** : demi-elfe, **fervent opposant de Königsfell** (blocus économique ; il voit d'un mauvais œil les Comtes tenir leur liberté, les mines et les cités du Nouveau Monde). Il est **populaire** : si le vote avait lieu, il serait sans doute élu. Le Pape ne l'a pas béni. Le fils veut reconquérir Königsfell.
 
 **Stratégie du fils :**
 - Envoie le Silence infiltrer la ville
 - Envoie des "volontaires" loyalistes
 - Reprendre petit à petit le contrôle politique
 
-**La Manipulation des Princes Électeurs :**
-- Le fils devrait être élu Empereur
-- Les Princes Électeurs repoussent exprès le vote
-- Objectif : discréditer le fils — plus le vote tarde, plus il perd en légitimité
+**Le Vote repoussé :**
+- Le candidat rival, **Rodolphe Vauburg**, d'une autre dynastie (famille humaine), a **moins d'influence** : son camp cherche à **gagner du temps**
+- Les partisans des Vauburg font repousser le vote et travaillent **lentement, dans l'ombre**, à déstabiliser l'autorité du fils et à le rendre **illégitime** à force d'attendre
+- Certains vont plus loin : **Hans d'Aragon**, « le duc », frère de Jeanne la Folle, déchu en Alamania, jaloux des Comtes dont le pouvoir dépasse son titre pourtant plus prestigieux, a sombré dans la sédition. En public, il réclame un vrai vote ; en secret, il **finance le meurtre de l'Empereur** (le feu grégeois du *Bal des Armes*, scénario 02) pour obtenir ensuite un vote qui lui soit favorable. Pendant qu'il prépare l'attentat, sa doublure Stefano tient le rallye des Enfants de la Lune
+- Une partie de la noblesse de Königsfell soutient Vauburg et voit le blocus comme un affront (Serpentino Imondi)
 
 **Conséquence sur le Serment Impérial :**
-Le Serment lie magiquement les mages à l'Empereur. Tradition : *"Je le jure sur la tête de l'Empereur"* = garantie absolue de vérité. **PROBLÈME :** sans Empereur élu, le Serment est fragilisé. Les Comtes avec phylactères sont-ils encore dignes de confiance ? Les joueurs pourront s'en servir comme levier.
+Le Serment lie magiquement les mages à l'Empereur. Il n'est pratiqué **que sur les mages puissants** : Willensein, comme beaucoup de nobles, n'y est pas soumis. Avoir un mage dans la famille, c'est un peu comme envoyer un fils dans les ordres au Moyen Âge (un noble ne peut d'ailleurs pas garder son titre s'il est mage). Tradition : *"Je le jure sur la tête de l'Empereur"* = garantie absolue de vérité. **PROBLÈME :** sans Empereur élu, le Serment est fragilisé. Il repose en partie sur la **perception** de celui qui jure : qui ne tient pas Willensein pour le véritable Empereur peut agir contre lui sans se parjurer, comme le Comte Auge, qui finance les opposants mais refuse de s'impliquer dans un meurtre. Les Comtes avec phylactères sont-ils encore dignes de confiance ? Les joueurs pourront s'en servir comme levier.
 
 ---
 
@@ -342,7 +354,7 @@ Troisième victime tuée : **Hubert Eichel**, avocat, 37 ans, célibataire. Plac
 
 Nouveau plan du tueur :
 1. Kidnapper **Ernst Stäbler** (juge, près du palais) — fait au Jour -1
-2. Invoquer un démon dans sa cave
+2. Dompter et fusionner, par un rituel dans sa cave (le temple sous l'horloge des Promeneurs), le serpent de la ménagerie d'Antonio il Pazzo, avec le sang du juge
 3. S'attaquer aux **Comtes** eux-mêmes
 
 ### Jour 0 : DÉBUT DE LA CAMPAGNE
@@ -364,15 +376,17 @@ Nouveau plan du tueur :
 | # | Victime | Profession | Grand-parent (La Purge) | Statut |
 |---|---|---|---|---|
 | 1 | Lothar Eichinger | — | Jira Eichinger | ☠️ Mort |
-| 2 | Jonas Härig | — | Virula Härig | ☠️ Mort |
+| 2 | Konrad Weidlinger | Greffier | Elsa Weidlinger | ☠️ Mort, aux Fortecombles |
 | 3 | Hubert Eichel | Avocat, 37 ans | Maggio Eichel | ☠️ Mort (Jour 0) |
-| 4 | Ernst Stäbler | Juge | Karina Stäbler | 🔴 Kidnappé |
-| 5 | Luna Leitgeb | — | Mario Leitgeb | 🎯 Prochaine cible |
+| 4 | Ernst Stäbler | Juge | Karina Stäbler | 🔴 Enlevé |
+| 5 | Jonas Härig | Consultant à Kristalblum | Virula Härig | 🎯 Prochaine cible |
+| 6 | Luna Leitgeb | — | Mario Leitgeb | 🎯 Cible suivante |
 
 ---
 
-### Jour +14 : Le Jubilé Impérial
+### Jour +30 à +45 : l'Empereur et le Jubilé Impérial
 
+- L'Empereur arrive vers **J+30**, le Jubilé suit vers **J+45** (calendrier de CGI, retenu en 2026-10-11). Le MJ peut toujours reculer la date en invoquant des intempéries
 - Célébration du Jubilé de l'Empire à Königsfell
 - **Une créature du Nouveau Monde sera livrée** — combat d'arène prévu par l'Empereur
 - Première rencontre formelle avec **Comte Hahn** qui évalue les PJ pour de futures missions
@@ -453,7 +467,7 @@ Questions ouvertes pour le MJ :
 | Le tueur et le Codex | 🔴 Immédiat | Enquête principale |
 | Ernst Stäbler kidnappé | 🔴 Immédiat | Enquête principale |
 | Luna Leitgeb (prochaine cible) | 🔴 Immédiat | Enquête principale |
-| Le Jubilé Impérial | 🟡 J+14 | Comte Hahn / Comte Auge |
+| Le Jubilé Impérial | 🟡 J+30 / J+45 | Comte Hahn / Comte Auge |
 | Le Palladium / la Mine | 🟠 Court terme | Proteo / Silence / Gouffre |
 | La Vraie Vampire | 🟠 Court terme | Pilliers / Nouveau Monde |
 | La Fausse Vampire | 🟢 Secondaire | Arc social |

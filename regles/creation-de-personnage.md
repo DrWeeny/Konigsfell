@@ -70,6 +70,8 @@ Un archétype oriente les bonus de pool et le lore du personnage. Il n'est pas e
 
 > Détesté par le Culte du Silence : *"Il s'approche trop de la frontière entre vie et non-vie."*
 
+📘 Version complète (préparations, chirurgie) : [Physicus — Docteur Chirurgien](archetypes.md#physicus--docteur-chirurgien).
+
 ---
 
 ### Le Théurge du Silence
@@ -81,6 +83,8 @@ Un archétype oriente les bonus de pool et le lore du personnage. Il n'est pas e
 - **Capacité — Contre-sort :** pendant la phase des gardes, peut poser des DP en garde contre la magie. Quand un sort vise lui ou un allié en vue, il engage ces dés : si leur total (doubles compris) égale ou dépasse celui du sort, le sort est annulé. Les dés engagés sont dépensés. Voir [Magie](magie.md#le-contre-sort).
 
 > Son dilemme : rester loyal à un serment dont l'ancre — l'Empereur — n'a pas encore été élu.
+
+📘 Version complète (sorts de progression, interdits) : [Théurge du Silence](archetypes.md#théurge-du-silence).
 
 ---
 

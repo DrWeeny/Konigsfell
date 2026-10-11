@@ -17,7 +17,7 @@ Les conventions générales du projet sont dans [.github/copilot-instructions.md
 ## Dossiers
 
 - `prive/` — **ignoré par git** : ressources de travail non publiables (notes Google Drive converties dans `prive/notes-drive/`, fiches écrites par les joueurs). On s'en sert comme source ; ce qui devient contenu de manuel est réécrit dans le dépôt.
-- `dev/sessions/` — résumés des sessions jouées (2020–2021, D&D 5e), noms des personnages uniquement, jamais ceux des joueurs. `dev/sessions/noms.md` = orthographe de référence.
+- `dev/sessions/` — **ignoré par git** : résumés des sessions jouées (2020–2021, D&D 5e), noms des personnages uniquement, jamais ceux des joueurs. `dev/sessions/noms.md` = orthographe de référence. Tout ce qui vient des joueurs ou sert seulement de référence pour écrire les livres reste local ; les manuels peuvent en tirer des **exemples de jeu** réécrits (« à la table, un groupe a… »).
 - Transcripts et audio : hors dépôt, `D:\dw_workspace\Konigsfell_Episodes\` (`outils/transcrire.py`).
 
 ## Canon à ne pas « corriger »
@@ -104,6 +104,11 @@ Format : date — sujet — décision / statut — pourquoi. Statuts : **acté**
 - **acté** — **Victimes du tueur** : Jonas Härig est vivant (prochaine cible), comme aux deux tables ; la deuxième victime, aux Fortecombles, s'appelle Konrad Weidlinger, greffier (nom arbitraire, rôle mineur). Le « démon » des notes devient la fusion avec le serpent de la ménagerie ; le « fils du juge » devient le juge Stäbler. `mj/timeline.md` aligné.
 - **en test** — Piste **magie par privation** (Oyuun, d'après le wu jen de *Complete Arcane*, D&D 3.5, une mécanique très roleplay appréciée du MJ) : un interdit choisi renforce le sort. À rapprocher des interdits de tradition dans `regles/magie.md`.
 
+### 2026-10-11 — Structure des scénarios : des blocs
+
+- **acté** — **Les scénarios sont des blocs, pas une suite.** Chaque bloc (la Purge, le Bal des Armes, les vampires, les orques, le Rêve…) se joue dans n'importe quel ordre et offre **une ou deux connexions** vers d'autres blocs. Le groupe peut continuer la progression du bloc en cours ou passer par une transition dans un autre. *Pourquoi :* c'est ainsi que la campagne a vraiment tourné : la table voulait tout faire et a joué « plein de petits bouts de blocs ».
+- **acté** — **La structure reste invisible pour les joueurs.** Ils peuvent déjouer un attentat (bloc Imondi) sans rien apprendre du Rêve, du Nouveau Monde ou du Pape-Dragon : chaque bloc a sa résolution propre, les grands secrets se gagnent en suivant les connexions. *Conséquence d'écriture :* chaque scénario finit par une section **Connexions** (« ce que ce bloc ouvre ») et dit d'où l'on peut y entrer ; le Manuel du maître aura une **carte des blocs**.
+
 ---
 
 ## Questions ouvertes
@@ -117,7 +122,8 @@ Format : date — sujet — décision / statut — pourquoi. Statuts : **acté**
 
 ## Chantiers à venir
 
-- Résumé session par session de la campagne (fourni par l'utilisateur) → rationaliser les scénarios.
+- ~~Résumé session par session de la campagne~~ → fait (`dev/sessions/`, local). Scénarios 01 et 02 refondus.
+- **Carte des blocs** : lister les blocs (notes MJ `Scenariotheque/`), leurs entrées et leurs connexions ; harmoniser la section « Connexions » des scénarios 01 et 02.
 - Devantures de la planque (12 idées dans `dev/brainstorm-chatgpt.md`) → recalibrer en D10 et rédiger une section « Planque ».
 - Bestiaire : extraire des notes MJ (Erlösers, vampires, créatures d'Überlieben) avec profils de combat.
 - Baliser `resolution-et-combat.md` en `::: mj` / `::: dev`, puis script de génération des deux manuels.

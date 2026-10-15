@@ -217,7 +217,7 @@ Königsfell et ses territoires leur seront donnés. Position stratégique face �
 **Le Sacrifice du Comte Kette :**
 - Grande bataille décisive en cours
 - Kette invoque des créatures d'énergie élémentaires
-- Ces créatures absorbent l'eau massivement
+- Ces créatures absorbent massivement la force de la vague (ce n'est pas l'eau qu'elles mangent, c'est l'énergie)
 - **Provoque un tsunami dévastateur** sur le champ de bataille
 - Kette meurt dans le processus
 - La Croisade profite du chaos — blesse mortellement le Roi de la Nuit
@@ -225,6 +225,8 @@ Königsfell et ses territoires leur seront donnés. Position stratégique face �
 
 **Conséquence mystérieuse — les Tsunamis Récurrents :**
 Depuis ce jour, des tsunamis frappent périodiquement les côtes. Personne ne comprend vraiment pourquoi. Théorie probable : les créatures invoquées par Kette ont perturbé quelque chose de fondamental dans l'équilibre élémentaire. Des créatures sentientes liées à ce sacrifice apparaissent mystérieusement à Königsfell. Sont-elles les créatures élémentaires qui ont évolué ? Investigation nécessaire dans le Nouveau Monde.
+
+**La vérité (MJ, 2026-10-15) :** au Nouveau Monde, les hommes-lézards ont voulu **éradiquer les orques par un tsunami**. La situation a dégénéré : une vague a traversé l'océan jusqu'au champ de bataille de la Croisade, et c'est contre elle que Kette a invoqué les Erlöser. Depuis, les orques **prient les Erlöser**, et de nouvelles vagues naissent de leur ferveur. Les orques sont des **prédateurs ultimes, fongiques** : ils poussent dans des grottes humides autour d'une **reine**, un énorme champignon semblable à un blob (*Physarum*) qui se divise pour donner des orques et ne cherche qu'à s'étendre. Ils évoluent en regardant, en se battant et en mangeant ; de force égale, ils s'observent sans animosité, liés par une conscience collective ; en mangeant un congénère, ils absorbent son âme. Les hommes-lézards les tiennent dans des réserves dont ils ne s'approchent plus. Voir `campagnes/trames-du-onzieme/blocs/orques.md`.
 
 ---
 
@@ -309,7 +311,7 @@ La plupart étaient des guerriers, pas des politiciens. N'ont aucun intérêt po
 ### La Crise Impériale
 
 **Abdication de l'Empereur :**
-L'Empereur **Arhedell Sixte** abdique — il est toujours vivant — et confie la passation à son fils le temps de l'élection. Le fils, **Willensein Sieben**, est **Empereur non officiel** : demi-elfe, **fervent opposant de Königsfell** (blocus économique ; il voit d'un mauvais œil les Comtes tenir leur liberté, les mines et les cités du Nouveau Monde). Il est **populaire** : si le vote avait lieu, il serait sans doute élu. Le Pape ne l'a pas béni. Le fils veut reconquérir Königsfell.
+L'Empereur **Arhedell Sixte** abdique — il est toujours vivant — et confie la passation à son fils le temps de l'élection. Le fils, **Willensein Sieben** (« Willen » pour les intimes), est **Empereur non officiel** : demi-elfe, **fervent opposant de Königsfell** (blocus économique ; il voit d'un mauvais œil les Comtes tenir leur liberté, les mines et les cités du Nouveau Monde). Il est **populaire** : si le vote avait lieu, il serait sans doute élu. Le Pape ne l'a pas béni. Le fils veut reconquérir Königsfell.
 
 **Stratégie du fils :**
 - Envoie le Silence infiltrer la ville
@@ -420,11 +422,13 @@ Une vraie vampire a obtenu un **sauf-conduit donné par Comte Auge**. But : se r
 
 ### 🌙 Le Rêve — la vérité
 
+**Ce que sont les Erlöser.** Des **créatures des astres et de l'espace** : des **parasites stellaires** qui se nourrissent des étoiles comme des sangsues ou des tiques s'attachent à une bête. Ils mangent **l'énergie et le chaos** : la force d'un tsunami, la ferveur d'une prière, la magie. L'eau n'est pas leur faim ; elle ne fait que suivre la force qu'ils aspirent.
+
 **La cité du Nord.** Dans les montagnes des Royaumes du Nord, aujourd'hui recouvertes par le permafrost, une cité avancée utilisait les **cinq Erlöser** comme source d'énergie, jusqu'à les perdre. La catastrophe a plongé la région dans une ère glaciaire.
 
 **Zeichen, le dernier habitant.** Un seul a survécu : **Zeichen**, le futur Comte Présage. Il a utilisé l'énergie des Erlöser pour créer un **monde virtuel : le Rêve**. Il y vit désormais. C'est là, dans le Nord, que Kette l'a rencontré, et c'est **Kette qui lui a permis de se reconnecter au monde** : depuis, Zeichen peut en sortir **temporairement** pour agir dans le monde réel (« quand il est là, tu le sais » ; des messages écrits sur les murs).
 
-**Kette, devenu Überlieben.** En invoquant les Erlöser contre le tsunami, Kette s'est sacrifié et **a rejoint le Rêve**. Il y est devenu Überlieben, une idée vivante tendue vers un but : renvoyer les Erlöser. Pour **gagner du temps**, il provoque des catastrophes qui les nourrissent sans détruire Königsfell, et il **recrute des agents** (Terry, frère Bartolo et Zamana Miccuci, Giorgio guidé par le Codex) pour « sauver » les gens en les envoyant dans le Rêve. **Mais les Erlöser se nourrissent encore de sa magie** : chaque effort d'Überlieben les renforce aussi.
+**Kette, devenu Überlieben.** En invoquant les Erlöser contre le tsunami, Kette s'est sacrifié et **a rejoint le Rêve**. Il y est devenu Überlieben, une idée vivante tendue vers un but : renvoyer les Erlöser. Pour **gagner du temps**, il provoque des catastrophes qui les nourrissent sans détruire Königsfell, et il **recrute des agents** (Terry, frère Bartolo et Zamana Miccuci, Giorgio guidé par le Codex) pour « sauver » les gens en les envoyant dans le Rêve. **Mais les Erlöser se nourrissent encore de sa magie** : chaque effort d'Überlieben les renforce aussi. Ceux de la cathédrale se nourrissent **surtout de Kette**, par le Rêve (voir l'orque qui prie, `campagnes/trames-du-onzieme/blocs/orques.md`).
 
 **Le Maître des rêves, c'est Kette.** Avec sa magie et l'énergie des nouveaux Erlöser, il a largement **étendu le Rêve** et l'a peuplé de nouvelles créatures. Ce sont elles qui l'appellent « Maître » ; le titre ne vient que de leur regard. Lucie tient de lui une partie de ses pouvoirs.
 
@@ -432,7 +436,7 @@ Une vraie vampire a obtenu un **sauf-conduit donné par Comte Auge**. But : se r
 
 **Éteindre le Rêve.** La source est dans les Royaumes du Nord : c'est là, sans doute, qu'on pourrait éteindre le Rêve, au prix de tout ce qu'il contient.
 
-**Ce que cela explique.** Les Erlöser grossissent avant chaque tsunami ; le Rêve est un monde où les morts et les souvenirs persistent (les rêves de Göre, Lucie et ses guides-esprits) ; le Codex Inspirationem pousse son porteur à « voir plus grand ».
+**Ce que cela explique.** Les Erlöser grossissent avant chaque tsunami, et ils se nourrissent jusque dans d'autres mondes : le vortex qui a amené les Suifs est leur succion, et l'eau a suivi la force (`campagnes/trames-du-onzieme/blocs/pic-des-empales.md`) ; le Rêve est un monde où les morts et les souvenirs persistent (les rêves de Göre, Lucie et ses guides-esprits) ; le Codex Inspirationem pousse son porteur à « voir plus grand ».
 
 ### Les Créatures Sentientes d'Überlieben
 

@@ -23,6 +23,7 @@
 - **Windrufer** : auxiliaires magiques de Die Rostra, spécialisés dans la création de vent et l'assistance aux manœuvres navales.
 - **Taufbecken** : bassins runiques de communication et de transit aquatique entre quartiers.
 - **Überlieben** : culte central de la cité ; omniprésent dans les rites publics et de nombreux lieux de passage.
+- **Gaïa** : l'unité du vivant, un tout, la vie qui avance. On ne la connaît que par les **arbres uniques** (l'arbre de métal, le Mortarbre…). Certains y voient un dieu, d'autres une force immatérielle ; les récits la citent quand on découvre un tel arbre.
 
 ---
 

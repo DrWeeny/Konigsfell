@@ -1,6 +1,6 @@
 # Création de Personnage
 
-*Un personnage de Königsfell se définit par ses trois pools de dés, son archétype, ses points de vie et ses repères secrets.*
+*Un personnage de Königsfell se définit par ses trois pools de dés, son archétype, ses compétences, ses points de vie et ses repères secrets.*
 
 ---
 
@@ -8,26 +8,41 @@
 
 | Pool | Départ | Bonus archétype |
 |---|---|---|
-| **Dés d'Action (DA)** | 2 dés : 1 DA + 1 dé de Mouvement | +1 DA si archétype martial ; équipement et dons en ajoutent |
-| **Dés de Compétence (DC)** | 1 DC | +1 DC si compétence liée à l'archétype |
+| **Dés d'Action (DA)** | 1 DA + 1 dé de Mouvement | +1 DA si archétype martial |
+| **Dés de Compétence (DC)** | 1 DC | +1 dé quand le jet relève d'une compétence majeure |
 | **Dés de Pouvoir (DP)** | 1 DP permanent | +1 DP éphémère si archétype magique |
 
 Pour le détail de fonctionnement de chaque pool, voir [Jets de dés](jets-de-des.md).
 
 ---
 
-## Objets — Dés Bonus
+## Compétences
 
-Les objets accordent des **dés bonus** sur certaines actions. Ils s'ajoutent au pool concerné pour ce jet. Pour l'armure, les restrictions d'usage en combat (épée = attaque uniquement, bouclier = garde uniquement) et le cadre de conception des objets magiques (« grammaire des dés »), voir [Résolution & Combat](resolution-et-combat.md#équipement-et-dés-spécialisés).
+À la création :
+
+- **Compétences majeures :** 2 au choix dans la liste de votre archétype. Seulement 1 si l'archétype donne déjà un bonus de pool (Théurge, Landsknecht, Akkadien).
+- **Compétences mineures :** 2 au rang 1, inventées selon la grammaire *geste + circonstance*.
+
+Il n'y a pas de caractéristiques. Voir [Compétences](competences.md).
+
+---
+
+## Objets
+
+L'équipement de base accorde des **dés bonus** sur certaines actions. Ils s'ajoutent au pool concerné pour ce jet.
 
 | Objet | Bonus |
 |---|---|
-| Épée / arme de corps | +1 dé de combat (DA) |
-| Bouclier / protection | +1 dé de défense (DA) |
+| Arme | +1 dé d'attaque (DA) |
+| Armure | Réduit les dommages subis |
+| Bouclier | +1 dé de défense (DA) |
+| Tenue d'assassin / tenue légère | +1 dé de mouvement (DA) |
 | Bâton magique / focus | +1 DP pour canaliser un sort |
 | Grimoire (trouvé en jeu) | +1 DP permanent (gratuit) |
 | Parchemin | Accès à un sort gratuitement (usage unique) |
 | Outil de guilde | +1 DC sur une action spécialisée (défini à l'achat) |
+
+Les objets de meilleure facture (bonne facture, maître, magique, légendaire) ajoutent des bonus gradués, et parfois des malus. Le MJ les chiffre avec l'[Échelle de puissance](echelle-de-puissance.md).
 
 ---
 
@@ -38,13 +53,13 @@ Les objets accordent des **dés bonus** sur certaines actions. Ils s'ajoutent au
 Quand les PV tombent à 0, le personnage est hors combat.
 À −4 PV, il est mourant sans intervention.
 
-> Les PV peuvent être augmentés avec de l'XP (voir Progression). Pour les soins (1d6/jour de repos complet, remèdes de plantes, tabou des soins magiques) et la règle de mise hors de combat, voir [Résolution & Combat](resolution-et-combat.md#points-de-vie-et-soins).
+> Les PV peuvent être augmentés avec de l'XP (voir Progression).
 
 ---
 
 ## Archétypes
 
-Un archétype oriente les bonus de pool et le lore du personnage. Il n'est pas exclusif — il définit le point de départ.
+Un archétype oriente les bonus de pool, les compétences majeures et le lore du personnage. Il n'est pas exclusif — il définit le point de départ. Une compétence majeure peut être empruntée à un autre archétype, ou remplacée par un domaine proche, avec l'accord du MJ.
 
 > 📘 Pour des variantes étendues (Eau Calme, Ritualiste Akkadien, grille de métiers), voir [Archetypes et metiers](archetypes.md).
 
@@ -54,7 +69,7 @@ Un archétype oriente les bonus de pool et le lore du personnage. Il n'est pas e
 
 *Espion, receleur, tenancier, agent de l'ombre.*
 
-- **Bonus :** +1 DC pour détecter une embuscade, filer quelqu'un, repérer un mensonge
+- **Compétences majeures (2 au choix) :** *Filature*, *Embuscades*, *Mensonges et faux-semblants*, *Rumeurs des bas-fonds*
 - **Capacité :** Peut dépenser 1 DC pour déclarer *"Je connais quelqu'un ici"* — crée un contact mineur jouable immédiatement
 
 > *"Il écoute trop. Il parle peu."* — signalement type du Silence.
@@ -65,7 +80,7 @@ Un archétype oriente les bonus de pool et le lore du personnage. Il n'est pas e
 
 *Médecin, alchimiste, savant de la Renaissance.*
 
-- **Bonus :** +1 DC pour un diagnostic, une autopsie, une analyse de poison ou d'alchimie
+- **Compétences majeures (2 au choix) :** *Diagnostic et chirurgie*, *Autopsie*, *Poisons*, *Alchimie*
 - **Capacité :** Peut utiliser sa planque apothicaire entre les scènes pour générer des ressources de soin (1 usage par session)
 
 > Détesté par le Culte du Silence : *"Il s'approche trop de la frontière entre vie et non-vie."*
@@ -79,8 +94,9 @@ Un archétype oriente les bonus de pool et le lore du personnage. Il n'est pas e
 *Mage loyaliste, prêtre impérial, inquisiteur modéré.*
 
 - **Bonus :** +1 DP éphémère de départ
+- **Compétence majeure (1 au choix) :** *Théologie du Silence*, *Liturgie et serments*, *Interrogatoire*, *Hérésies et sacrilèges*
 - **Sorts d'archétype :** *Détection du sacrilège*, *Lien de serment* (seuil 10+), *Flamme purificatrice*
-- **Capacité — Contre-sort :** pendant la phase des gardes, peut poser des DP en garde contre la magie. Quand un sort vise lui ou un allié en vue, il engage ces dés : si leur total (doubles compris) égale ou dépasse celui du sort, le sort est annulé. Les dés engagés sont dépensés. Voir [Magie](magie.md#le-contre-sort).
+- **Capacité :** Peut dépenser 2 DC pour annuler une action magique adverse (jet opposé)
 
 > Son dilemme : rester loyal à un serment dont l'ancre — l'Empereur — n'a pas encore été élu.
 
@@ -93,6 +109,7 @@ Un archétype oriente les bonus de pool et le lore du personnage. Il n'est pas e
 *Vétéran des Croisades, mercenaire germanophone, soldat fatigué.*
 
 - **Bonus :** +1 DA de départ
+- **Compétence majeure (1 au choix) :** *Vie de campagne*, *Intimidation*, *Fortifications et sièges*, *Armes et équipement*
 - **Capacité :** Une fois par session, peut convertir une blessure mortelle en blessure grave en dépensant 1 DA avant la résolution
 
 > Superstitieux, traumatisé. Respecte les nécromants. Ne leur tourne jamais le dos.
@@ -168,9 +185,10 @@ Un archétype oriente les bonus de pool et le lore du personnage. Il n'est pas e
 | +1 DA permanent (3e+) | +4 XP supplémentaires |
 | +1 DC (même système incrémental) | 4 / 8 / 12… XP |
 | +1 DP éphémère | 2 XP |
-| +1 bonus de compétence (+flat) | 1 XP |
-| Nouveau sort | 4 XP |
-| Nouvelle capacité | Variable (MJ) |
+| Compétence mineure : rang 2 | 2 XP |
+| Compétence mineure : rang 3 | 4 XP |
+| Nouvelle compétence majeure (justifiée en jeu) | 4 XP |
+| Nouveau sort / capacité | Variable (MJ) |
 | Relance ponctuelle d'un dé | 2 XP |
 
 > Cette table se cumule avec la **progression en co-écriture** (planque, PNJ loyal, secret, rumeur vraie…) décrite dans [Résolution & Combat](resolution-et-combat.md#progression-en-co-écriture) : l'XP fait grandir les dés, la co-écriture fait grandir le monde.
@@ -179,6 +197,7 @@ Un archétype oriente les bonus de pool et le lore du personnage. Il n'est pas e
 
 | Source | Gain |
 |---|---|
+| Scène marquante en jeu | Compétence mineure de rang 1 (une par session au maximum) |
 | Grimoire trouvé | +1 DP permanent (gratuit) |
 | Parchemin | Sort gratuit (usage unique) |
 | Rituel akkadien | Sacrifier 1 PV permanent = +1 XP |

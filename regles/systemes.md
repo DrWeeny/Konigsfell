@@ -13,11 +13,14 @@ Le système natif de la campagne. Voir les fichiers dédiés :
 - [Magie (traditions, paliers, sorts) — brouillon](magie.md)
 - [Création de personnage, archétypes, progression](creation-de-personnage.md)
 - [Archetypes et metiers (boite a outils)](archetypes.md)
+- [Compétences](competences.md)
+- [Échelle de puissance (outil MJ)](echelle-de-puissance.md)
 
 **Principes directeurs :**
 - Un seul type de dé (D10) pour toutes les résolutions
 - Tous les conflits (combat, social, magie) utilisent la même mécanique
-- Les objets donnent des dés bonus, pas des modificateurs chiffrés
+- L'équipement de base donne des dés bonus ; les objets de qualité ajoutent des bonus gradués, chiffrés sur une échelle commune
+- Pas de caractéristiques : les pools et les compétences suffisent
 - Les règles restent intentionnellement légères pour ne pas ralentir le rythme narratif
 
 ---

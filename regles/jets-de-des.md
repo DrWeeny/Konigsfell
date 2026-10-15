@@ -103,12 +103,13 @@ Le joueur lance tous ses DA simultanément et les assigne librement :
 
 ## Dés de Compétence — Détail
 
-**Pool de départ :** 1 DC de base + 1 DC bonus si la compétence est liée à l'archétype.
+**Pool de départ :** 1 DC de base, +1 DC quand le jet relève d'une [compétence majeure](competences.md).
 
-Utilisé hors combat pour toute action de connaissance, sociale ou artisanale. Le pool est séparé des DA — les deux ne se mélangent pas.
+Utilisé hors combat pour toute action de connaissance, sociale ou artisanale. Le pool est séparé des DA — les deux ne se mélangent pas. Comme pour les autres pools, les dés assignés à une même action **s'additionnent**.
 
-**Exemple — Enquêteur avec 2 DC + bonus métier +2 :**
-Lance 2D10 + 2 → résultats 7 et 3, + 2 = meilleur résultat retenu avec bonus.
+**Exemple — Juriste avec 1 DC, compétence majeure *Droit impérial* :**
+Il cherche une faille dans un contrat de guilde (seuil 10). *Droit impérial* lui donne un 2e dé : 7 et 3 → **10**, réussite.
+S'il avait plutôt utilisé sa compétence mineure *Je débusque les clauses piégées des contrats de guilde* (rang 2), il n'aurait lancé que son dé de base : 7 + 2 = 9, échec. Une seule compétence par jet.
 
 ---
 
@@ -148,19 +149,32 @@ Les pools se rechargent **entre chaque scène**.
 
 ---
 
+## Ordre de Résolution
+
+Les bonus ne s'appliquent qu'**après** la lecture des doubles, qui se fait **sur les faces naturelles**. Un bonus ne crée jamais de double et n'en casse jamais un.
+
+**Exemple — 4/4 assignés à une attaque, épée +1 par dé :**
+4+4 = 8, bonus de double +4 → 12, puis +1 par dé → **14** (et non 5+5+5 = 15).
+
+---
+
 ## Résumé du Tour
 
 ```
 1. Choisir le pool (Action / Compétence / Pouvoir)
+   + 1 dé si une compétence majeure s'applique
 2. Lancer TOUS les dés du pool simultanément
-3. Vérifier les doubles :
-   - Double 1 → obligation d'action échouée en premier
-   - Doubles autres → combinables (bonus)
+3. Double 1 → obligation d'action échouée en premier
 4. Assigner les dés aux actions (attaque / défense / sort / mouvement)
-5. Résoudre contre seuil ou opposition
-6. Narrer
+5. Relances (compétence de rang 3, objet…) sur les dés de l'action concernée
+   — jamais sur un 1
+6. Lire les doubles sur les faces naturelles (bonus = valeur du double)
+7. Ajouter les bonus par dé, puis les bonus au total
+   (une seule compétence par jet)
+8. Résoudre contre seuil ou opposition
+9. Narrer
 ```
 
 ---
 
-[← Retour à l'accueil](../index.html) · [Création de personnage](creation-de-personnage.md)
+[← Retour à l'accueil](../index.html) · [Création de personnage](creation-de-personnage.md) · [Compétences](competences.md) · [Échelle de puissance](echelle-de-puissance.md)

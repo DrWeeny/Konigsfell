@@ -22,6 +22,12 @@
 | Tres difficile | 15+ |
 | Extreme | 25+ |
 
+### Competences
+
+- **Majeures**: domaines larges tires de la liste de l'archetype (+1 de au pool du jet).
+- **Mineures**: inventees par le joueur, grammaire *geste + circonstance* (+1 / +2 / +2 et relance).
+- Pas de caracteristiques. Detail: [Competences](competences.md).
+
 ### Progression alternative
 
 - **Grimoire trouve**: +1 de de pouvoir permanent
@@ -40,10 +46,11 @@
 
 **Equipement de depart:** uniforme Eau Calme, baton ferre/focus, permis de magie, badge ou gondole de service.
 
-**Bonus proposes:**
-- Navigation +2
-- Natation +2
-- Infrastructure hydraulique +1
+**Competences majeures (2 au choix):**
+- Navigation
+- Natation (pool DA)
+- Infrastructure hydraulique
+- Canaux de Konigsfell
 
 **Sorts d'archetype (gratuits):**
 - **Deplacement de l'eau** (manipulation simple, usage utilitaire)
@@ -75,10 +82,10 @@
 
 **Equipement de depart:** robe ceremonielle, encensoir, registre des defunts, visa, pieces d'offrande.
 
-**Bonus proposes:**
-- Rituels funeraires +2
-- Theologie akkadienne +2
-- Empathie +1
+**Competences majeures (2 au choix):**
+- Rituels funeraires
+- Theologie akkadienne
+- Accompagnement des endeuilles
 
 **Capacite speciale:**
 - **Rituel de l'ame**: peut convertir des PV permanents en XP (1 pour 1), avec accord MJ.
@@ -180,7 +187,7 @@ Choisir 1 metier principal, puis adapter bonus/capacite selon le style de table.
 ## Creation d'Archetype Personnalise (5 etapes)
 
 1. **Concept social**: quel role concret dans la cite?
-2. **Bonus**: 2-3 competences (+1 ou +2)
+2. **Competences majeures**: une liste de 3 a 5 domaines (le joueur en choisit 2, ou 1 si l'archetype donne aussi un bonus de pool)
 3. **Capacite speciale**: passive, active, ou sort gratuit
 4. **Equipement de depart**: 3 a 5 objets thematiques
 5. **Connexions**: guilde, faction, famille, dette

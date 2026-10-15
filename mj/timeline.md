@@ -418,12 +418,28 @@ Une vraie vampire a obtenu un **sauf-conduit donné par Comte Auge**. But : se r
 
 ---
 
+### 🌙 Le Rêve — la vérité
+
+**La cité du Nord.** Dans les montagnes des Royaumes du Nord, aujourd'hui recouvertes par le permafrost, une cité avancée utilisait les **cinq Erlöser** comme source d'énergie, jusqu'à les perdre. La catastrophe a plongé la région dans une ère glaciaire.
+
+**Zeichen, le dernier habitant.** Un seul a survécu : **Zeichen**, le futur Comte Présage. Il a utilisé l'énergie des Erlöser pour créer un **monde virtuel : le Rêve**. Il y vit désormais. C'est là, dans le Nord, que Kette l'a rencontré, et c'est **Kette qui lui a permis de se reconnecter au monde** : depuis, Zeichen peut en sortir **temporairement** pour agir dans le monde réel (« quand il est là, tu le sais » ; des messages écrits sur les murs).
+
+**Kette, devenu Überlieben.** En invoquant les Erlöser contre le tsunami, Kette s'est sacrifié et **a rejoint le Rêve**. Il y est devenu Überlieben, une idée vivante tendue vers un but : renvoyer les Erlöser. Pour **gagner du temps**, il provoque des catastrophes qui les nourrissent sans détruire Königsfell, et il **recrute des agents** (Terry, frère Bartolo et Zamana Miccuci, Giorgio guidé par le Codex) pour « sauver » les gens en les envoyant dans le Rêve. **Mais les Erlöser se nourrissent encore de sa magie** : chaque effort d'Überlieben les renforce aussi.
+
+**Le Maître des rêves, c'est Kette.** Avec sa magie et l'énergie des nouveaux Erlöser, il a largement **étendu le Rêve** et l'a peuplé de nouvelles créatures. Ce sont elles qui l'appellent « Maître » ; le titre ne vient que de leur regard. Lucie tient de lui une partie de ses pouvoirs.
+
+**Ce que Zeichen ignore.** Zeichen pourrait aller voir Kette, mais il **ne sait pas que Kette s'est réfugié dans son monde**. Le Rêve n'a aucun rapport avec la géographie du monde réel : on n'y trouve personne en marchant. Zeichen est donc **le guide tout désigné** pour qui voudrait vraiment trouver Kette, ou pour tuer Lucie.
+
+**Éteindre le Rêve.** La source est dans les Royaumes du Nord : c'est là, sans doute, qu'on pourrait éteindre le Rêve, au prix de tout ce qu'il contient.
+
+**Ce que cela explique.** Les Erlöser grossissent avant chaque tsunami ; le Rêve est un monde où les morts et les souvenirs persistent (les rêves de Göre, Lucie et ses guides-esprits) ; le Codex Inspirationem pousse son porteur à « voir plus grand ».
+
 ### Les Créatures Sentientes d'Überlieben
 
 Des créatures sentientes apparaissent mystérieusement à Königsfell. Liées au sacrifice du Comte Kette. Personne ne comprend leur origine.
 
 Questions ouvertes pour le MJ :
-- Sont-elles les créatures élémentaires invoquées par Kette qui ont évolué ?
+- Sont-elles des émanations du Rêve, ou des Erlöser (voir *Le Rêve — la vérité* ci-dessus) ?
 - Sont-elles dangereuses ou cherchent-elles quelque chose ?
 - **Lien avec les tsunamis récurrents** — investigation dans le Nouveau Monde nécessaire
 

@@ -108,6 +108,9 @@ Format : date — sujet — décision / statut — pourquoi. Statuts : **acté**
 
 - **acté** — **Les scénarios sont des blocs, pas une suite.** Chaque bloc (la Purge, le Bal des Armes, les vampires, les orques, le Rêve…) se joue dans n'importe quel ordre et offre **une ou deux connexions** vers d'autres blocs. Le groupe peut continuer la progression du bloc en cours ou passer par une transition dans un autre. *Pourquoi :* c'est ainsi que la campagne a vraiment tourné : la table voulait tout faire et a joué « plein de petits bouts de blocs ».
 - **acté** — **La structure reste invisible pour les joueurs.** Ils peuvent déjouer un attentat (bloc Imondi) sans rien apprendre du Rêve, du Nouveau Monde ou du Pape-Dragon : chaque bloc a sa résolution propre, les grands secrets se gagnent en suivant les connexions. *Conséquence d'écriture :* chaque scénario finit par une section **Connexions** (« ce que ce bloc ouvre ») et dit d'où l'on peut y entrer ; le Manuel du maître aura une **carte des blocs**.
+- **en test** — **Carte des blocs** (`campagnes/trames-du-onzieme/blocs.md`) : 15 blocs tirés de la `Scenariotheque/` et des parties jouées, leurs entrées, connexions et état ; leviers d'improvisation (PNJ passeur, objet, commanditaire, horloge, historique de PJ, échec) ; **six portes d'entrée** pour la campagne (le Secret, agents d'Auge, explorateurs du Nouveau Monde, Akkadiens en quête du corps du Roi de la Nuit, agents du Silence contre Göre, enfants du Rêve), chacune relisant la Purge à sa façon ; secrets de fond par bloc. *Pourquoi :* une grande partie du jeu est l'improvisation ; le MJ doit pouvoir raccorder des blocs variés plutôt que suivre un ordre.
+
+- **acté** — **Origine du Rêve** : dans les montagnes du Nord, sous le permafrost, une cité avancée tirait son énergie des cinq Erlöser jusqu'à les perdre. Son dernier habitant, **Zeichen** (le Comte Présage), a créé avec cette énergie **le Rêve**, un monde virtuel, dont il ne sort plus que temporairement. Kette l'y a rencontré. En se sacrifiant, **Kette a rejoint le Rêve** (= Überlieben) : il gagne du temps en provoquant des catastrophes qui nourrissent les Erlöser, et recrute des agents pour « sauver » les gens dans le Rêve, mais les Erlöser se nourrissent encore de sa magie. **Kette est le Maître des rêves** : c'est lui qui a reconnecté Zeichen au monde, et qui a étendu le Rêve et l'a peuplé de créatures (le titre vient d'elles). Zeichen ignore que Kette s'y est réfugié ; le Rêve n'a pas de géographie réelle, et Zeichen serait le guide pour trouver Kette ou tuer Lucie. On pourrait sans doute éteindre le Rêve dans les Royaumes du Nord. Reporté dans `mj/timeline.md`, `mj/comtes-dossier-complet.md` et la carte des blocs.
 
 ---
 
@@ -123,7 +126,7 @@ Format : date — sujet — décision / statut — pourquoi. Statuts : **acté**
 ## Chantiers à venir
 
 - ~~Résumé session par session de la campagne~~ → fait (`dev/sessions/`, local). Scénarios 01 et 02 refondus.
-- **Carte des blocs** : lister les blocs (notes MJ `Scenariotheque/`), leurs entrées et leurs connexions ; harmoniser la section « Connexions » des scénarios 01 et 02.
+- ~~Carte des blocs~~ → `campagnes/trames-du-onzieme/blocs.md` (sommaire). Suite : une fiche d'une page par bloc (enjeu, entrées, horloge, connexions).
 - Devantures de la planque (12 idées dans `dev/brainstorm-chatgpt.md`) → recalibrer en D10 et rédiger une section « Planque ».
 - Bestiaire : extraire des notes MJ (Erlösers, vampires, créatures d'Überlieben) avec profils de combat.
 - Baliser `resolution-et-combat.md` en `::: mj` / `::: dev`, puis script de génération des deux manuels.

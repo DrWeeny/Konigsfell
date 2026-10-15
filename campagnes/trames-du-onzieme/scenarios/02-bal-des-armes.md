@@ -218,7 +218,7 @@ Le garde survivant parle d'« un duc », quelqu'un de plus puissant qui a payé.
 
 ---
 
-## Ce que le bal ouvre
+## Connexions
 
 | Piste | Mène vers |
 |---|---|
@@ -248,4 +248,4 @@ Le garde survivant parle d'« un duc », quelqu'un de plus puissant qui a payé.
 **À vérifier en playtest :** le dégât non létal du bracelet (avec 8 PV, huit fautes mettent hors jeu) ; le seuil des runes ; la durée réelle en deux séances.
 :::
 
-[Scénario 01](01-meurtre.md) · [Campagne](../pitch.md)
+[Scénario 01](01-meurtre.md) · [Carte des blocs](../blocs.md) · [Campagne](../pitch.md)

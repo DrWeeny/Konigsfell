@@ -34,6 +34,8 @@ L'aventure débute lorsqu'il vient de tuer le **troisième descendant**. Le Code
 
 ---
 
+> 🗺️ **Autres portes d'entrée :** ce briefing suppose que les PJ sont le Secret. Le même meurtre peut ouvrir la campagne pour des agents d'Auge, des explorateurs du Nouveau Monde, des Akkadiens, des agents du Silence ou des enfants du Rêve : voir la [carte des blocs](../blocs.md).
+
 ## 🎲 Briefing Initial — Jacques la Savate
 
 Le premier contact opérationnel des PJ est **Jacques la Savate** (ancien espion, mentor de terrain). C'est lui qui remet la mission du Jour 0:
@@ -402,7 +404,7 @@ Le rituel avance pendant que les PJ enquêtent. Comptez une case par scène d'en
 
 ---
 
-## 📎 Résumé des Fils à Tirer
+## 📎 Connexions (fils à tirer)
 
 | Indice | Où le trouver | Mène vers |
 |---|---|---|

@@ -20,7 +20,7 @@ Chaque fiche contient 4 axes:
 
 - **Origine :** pupille de l'Empereur, élevé au palais avec Göre ; jeune, c'était un tieffelin (rêve de Göre, Le Sucret épisode 21).
 - **Rôle public :** héros mort de la Deuxième Croisade, martyr du tsunami. Mort dans l'esprit des gens : son siège de Comte est vacant (voir l'Hydre, `timeline.md`).
-- **Agenda secret :** survit sous forme altérée; ses résidus mentaux contaminent le Rêve.
+- **Agenda secret :** il a rejoint le Rêve en se sacrifiant et y est devenu Überlieben. Il gagne du temps contre les Erlöser en provoquant des catastrophes qui les nourrissent, et recrute des agents pour « sauver » les gens dans le Rêve. Les Erlöser se nourrissent encore de sa magie (voir `timeline.md`, *Le Rêve — la vérité*). C'est lui, le **Maître des rêves** : il a étendu le Rêve et l'a peuplé de créatures qui l'appellent ainsi.
 - **Levier PJ :** comprendre le lien `Codex Inspirationem` -> contamination -> escalade des crises.
 - **Accroche immédiate :** visions fragmentaires d'une grotte de palladium après contact avec le Codex.
 
@@ -107,7 +107,8 @@ Chaque fiche contient 4 axes:
 
 ## 10) Comte/Comtesse Zeichen — Le Présage
 
-- **Rôle public :** présence quasi mythique, rarement vue, entourée de rumeurs.
+- **Rôle public :** présence quasi mythique, rarement vue, entourée de rumeurs. On le dit gnome illusionniste ; seul Jagenwilde sait un peu le pister. « Ne vous faites jamais passer pour lui » (Hahn).
+- **Vérité :** dernier survivant d'une cité avancée des Royaumes du Nord, qui tirait son énergie des Erlöser jusqu'à les perdre. Il a créé **le Rêve**, un monde virtuel, avec cette énergie, et il y vit. Kette l'a rencontré dans les montagnes du Nord et lui a permis de se reconnecter au monde : Zeichen en sort désormais temporairement. **Il ignore que Kette s'est réfugié dans le Rêve** ; il serait le guide idéal pour le trouver, ou pour tuer Lucie.
 - **Agenda secret :** survivre entre deux plans et éviter que des forces anciennes repassent le seuil.
 - **Levier PJ :** objets/ancrages, noms vrais, rites de passage.
 - **Accroche immédiate :** phénomène onirique local qui exige une intervention hors logique ordinaire.

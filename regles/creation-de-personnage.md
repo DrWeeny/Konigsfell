@@ -1,195 +1,121 @@
 # Création de Personnage
 
-*Un personnage de Königsfell se définit par ses trois pools de dés, son archétype, ses compétences, ses points de vie et ses repères secrets.*
+*Un personnage de Königsfell tient sur une page : trois pools de dés, un archétype, quelques compétences, des points de vie, un pack d'équipement et deux secrets. Comptez une demi-heure, à faire ensemble à la session zéro.*
+
+> Imprimez une [fiche de personnage](fiche-de-personnage.md) et suivez les étapes. Un exemple complet est donné en fin de chapitre.
 
 ---
 
-## Les Trois Pools de Départ
+## Avant de commencer : la session zéro
 
-| Pool | Départ | Bonus archétype |
+La table décide ensemble **qui sont les personnages** et **pour qui ils travaillent** (une police secrète, une guilde, une expédition, une famille…). Le MJ présente le point de départ ; le groupe choisit sa **planque commune**, qui grandira avec la campagne (voir [Progression en co-écriture](resolution-et-combat.md#progression-en-co-écriture)).
+
+Il n'y a **pas de caractéristiques** : ni Force, ni Intelligence. Si vous avez une idée brillante, votre personnage peut l'avoir. Les dés diront s'il la met en œuvre.
+
+---
+
+## Les étapes
+
+### 1. Un concept et un lieu de vie
+
+En une phrase : qui est votre personnage, et que fait-il dans la cité ? Choisissez aussi **où il vit** et justifiez-le par son histoire. Voir [La Cité](../univers/lieux/konigsfell-ville.md) pour les quartiers.
+
+### 2. Un archétype
+
+Choisissez l'un des [dix archétypes](archetypes.md#les-dix-archétypes). Il vous donne **deux avantages de départ** :
+
+- un archétype **mondain** : 2 compétences majeures au choix dans sa liste ;
+- un archétype **de tradition** (mage) : sa **Tradition** (+1 dé éphémère, 3 sorts) et 1 compétence majeure ;
+- le **Landsknecht** : *Endurci* (+1 DA, +3 PV) et 1 compétence majeure.
+
+Notez aussi sa **capacité** et, pour un mage, ses sorts d'archétype.
+
+### 3. Deux compétences mineures
+
+Inventez **deux compétences mineures de rang 1**. Chacune est une phrase : **un geste + une circonstance**.
+
+> *Je désarme les duellistes trop sûrs d'eux. — Je reconnais les blasons et les lignées nobles. — Je me bats sale dans les tavernes et les ruelles.*
+
+Pas de circonstance, pas de compétence ; et une mineure ne doit pas servir dans plus d'une scène sur deux. Le MJ aide à resserrer. Voir [Compétences](competences.md#compétences-mineures).
+
+### 4. Les pools
+
+| Pool | Au départ | S'y ajoutent |
 |---|---|---|
-| **Dés d'Action (DA)** | 1 DA + 1 dé de Mouvement | +1 DA si archétype martial |
-| **Dés de Compétence (DC)** | 1 DC | +1 dé quand le jet relève d'une compétence majeure |
-| **Dés de Pouvoir (DP)** | 1 DP permanent | +1 DP éphémère si archétype magique |
+| **Dés d'Action (DA)** — corps, combat, mouvement | **2 DA libres** : attaque, garde ou mouvement, au choix | +1 si *Endurci* ; les dés d'équipement, spécialisés (arme : attaque ; bouclier : garde ; tenue légère : mouvement) |
+| **Dés de Compétence (DC)** — savoir, social, artisanat | **1** | +1 dé quand une compétence majeure s'applique ; +1 avec un outil de guilde |
+| **Dés de Pouvoir (DP)** — volonté, magie | **1 permanent** (tout le monde) | +1 dé **éphémère** par tradition |
 
-Pour le détail de fonctionnement de chaque pool, voir [Jets de dés](jets-de-des.md).
+Le fonctionnement des pools est expliqué dans [Jets de dés](jets-de-des.md).
 
----
+### 5. Les points de vie
 
-## Compétences
+**8 PV**, +3 avec *Endurci*. À 0 PV, le personnage est hors combat ; à −4, il meurt sans soins.
 
-À la création :
+Un personnage sans armure est vulnérable, et c'est voulu. Les soins sont lents (1d6 par jour de repos complet) et la magie de soin est un tabou : voir [Points de vie et soins](resolution-et-combat.md#points-de-vie-et-soins).
 
-- **Compétences majeures :** 2 au choix dans la liste de votre archétype. Seulement 1 si l'archétype donne déjà un bonus de pool (Théurge, Landsknecht, Akkadien).
-- **Compétences mineures :** 2 au rang 1, inventées selon la grammaire *geste + circonstance*.
+::: dev
+**En test.** 8 PV et une armure de −1 à −4 : à vérifier à la table. Si les personnages tombent en un coup, monter les PV de départ (10 ou 12) ou renforcer l'armure. *Endurci* reste pour l'instant le seul bonus de PV d'archétype.
+:::
 
-Il n'y a pas de caractéristiques. Voir [Compétences](competences.md).
+### 6. L'équipement
 
----
+Prenez le **pack** que suggère votre archétype (ou un autre) et ajoutez **un objet personnel**. Voir l'[Armurerie](armurerie.md#les-packs-de-départ).
 
-## Objets
+### 7. Deux repères secrets
 
-L'équipement de base accorde des **dés bonus** sur certaines actions. Ils s'ajoutent au pool concerné pour ce jet.
+Deux informations que les autres joueurs ne connaissent pas encore :
 
-| Objet | Bonus |
-|---|---|
-| Arme | +1 dé d'attaque (DA) |
-| Armure | Réduit les dommages subis |
-| Bouclier | +1 dé de défense (DA) |
-| Tenue d'assassin / tenue légère | +1 dé de mouvement (DA) |
-| Bâton magique / focus | +1 DP pour canaliser un sort |
-| Grimoire (trouvé en jeu) | +1 DP permanent (gratuit) |
-| Parchemin | Accès à un sort gratuitement (usage unique) |
-| Outil de guilde | +1 DC sur une action spécialisée (défini à l'achat) |
+- une dette envers quelqu'un ;
+- un lien avec un événement de la cité (la Purge, les Croisades, la mine du Gouffre…) ;
+- une allégeance cachée (le Silence, une guilde, les Pilliers…) ;
+- une peur ou une obsession.
 
-Les objets de meilleure facture (bonne facture, maître, magique, légendaire) ajoutent des bonus gradués, et parfois des malus. Le MJ les chiffre avec l'[Échelle de puissance](echelle-de-puissance.md).
+Le MJ en prend connaissance à la session zéro. Il peut vous proposer de **rattacher** un repère à un fil de la campagne : il vous dira si l'enjeu est dangereux, sans vous dévoiler la suite, et vous restez libre de refuser.
 
----
+### 8. Un nom
 
-## Points de Vie (PV)
-
-**PV de départ : 8**
-
-Quand les PV tombent à 0, le personnage est hors combat.
-À −4 PV, il est mourant sans intervention.
-
-> Les PV peuvent être augmentés avec de l'XP (voir Progression).
+Les noms de Königsfell mêlent l'allemand de l'Empire, l'italien des marchands et l'akkadien des Inondés : *Ilse Wenger*, *Tommaso Verdi*, *Ussuru*. Voir le [Glossaire](../univers/glossaire.md).
 
 ---
 
-## Archétypes
+## Les Archétypes en bref
 
-Un archétype oriente les bonus de pool, les compétences majeures et le lore du personnage. Il n'est pas exclusif — il définit le point de départ. Une compétence majeure peut être empruntée à un autre archétype, ou remplacée par un domaine proche, avec l'accord du MJ.
+| Archétype | Avantages de départ | Pack |
+|---|---|---|
+| Regrattier | 2 majeures (*Filature*, *Embuscades*, *Mensonges et faux-semblants*, *Rumeurs des bas-fonds*) | Espion |
+| Landsknecht | *Endurci* + 1 majeure (*Vie de campagne*, *Intimidation*, *Fortifications et sièges*, *Armes et équipement*) | Militaire |
+| Juriste | 2 majeures (*Droit impérial*, *Contrats*, *Négociation*, *Rhétorique formelle*) | Courtisan |
+| Artisan de guilde | 2 majeures (*Mécanique*, *Architecture*, *Sabotage*, *Navigation urbaine*) | Artisan |
+| Émissaire | 2 majeures (*Influence*, *Étiquette de cour*, *Manipulation*, *Négociation*) | Courtisan |
+| Eau Calme | Tradition + 1 majeure (*Navigation*, *Natation*, *Infrastructure hydraulique*, *Canaux de Königsfell*) | Eau Calme |
+| Ritualiste akkadien | Tradition + 1 majeure (*Théologie akkadienne*, *Accompagnement des endeuillés*, *Lecture des sigils*, *Langues et coutumes akkadiennes*) | Pèlerin |
+| Runiste du Registre | Tradition + 1 majeure (*Artefacts et objets magiques*, *Serrurerie*, *Architecture*, *Procédures du Registre*) | Artisan |
+| Théurge du Silence | Tradition + 1 majeure (*Théologie du Silence*, *Liturgie et serments*, *Interrogatoire*, *Hérésies et sacrilèges*) | Silence |
+| Physicus | Tradition + 1 majeure (*Diagnostic et chirurgie*, *Autopsie*, *Poisons*, *Herboristerie*) | Savant |
 
-> 📘 Pour des variantes étendues (Eau Calme, Ritualiste Akkadien, grille de métiers), voir [Archetypes et metiers](archetypes.md).
-
----
-
-### Le Regrattier / Informateur des Bas-Fonds
-
-*Espion, receleur, tenancier, agent de l'ombre.*
-
-- **Compétences majeures (2 au choix) :** *Filature*, *Embuscades*, *Mensonges et faux-semblants*, *Rumeurs des bas-fonds*
-- **Capacité :** Peut dépenser 1 DC pour déclarer *"Je connais quelqu'un ici"* — crée un contact mineur jouable immédiatement
-
-> *"Il écoute trop. Il parle peu."* — signalement type du Silence.
-
----
-
-### Le Physicus / Docteur Chirurgien
-
-*Médecin, alchimiste, savant de la Renaissance.*
-
-- **Compétences majeures (2 au choix) :** *Diagnostic et chirurgie*, *Autopsie*, *Poisons*, *Alchimie*
-- **Capacité :** Peut utiliser sa planque apothicaire entre les scènes pour générer des ressources de soin (1 usage par session)
-
-> Détesté par le Culte du Silence : *"Il s'approche trop de la frontière entre vie et non-vie."*
-
-📘 Version complète (préparations, chirurgie) : [Physicus — Docteur Chirurgien](archetypes.md#physicus--docteur-chirurgien).
-
----
-
-### Le Théurge du Silence
-
-*Mage loyaliste, prêtre impérial, inquisiteur modéré.*
-
-- **Bonus :** +1 DP éphémère de départ
-- **Compétence majeure (1 au choix) :** *Théologie du Silence*, *Liturgie et serments*, *Interrogatoire*, *Hérésies et sacrilèges*
-- **Sorts d'archétype :** *Détection du sacrilège*, *Lien de serment* (seuil 10+), *Flamme purificatrice*
-- **Capacité :** Peut dépenser 2 DC pour annuler une action magique adverse (jet opposé)
-
-> Son dilemme : rester loyal à un serment dont l'ancre — l'Empereur — n'a pas encore été élu.
-
-📘 Version complète (sorts de progression, interdits) : [Théurge du Silence](archetypes.md#théurge-du-silence).
-
----
-
-### Le Landsknecht Retraité
-
-*Vétéran des Croisades, mercenaire germanophone, soldat fatigué.*
-
-- **Bonus :** +1 DA de départ
-- **Compétence majeure (1 au choix) :** *Vie de campagne*, *Intimidation*, *Fortifications et sièges*, *Armes et équipement*
-- **Capacité :** Une fois par session, peut convertir une blessure mortelle en blessure grave en dépensant 1 DA avant la résolution
-
-> Superstitieux, traumatisé. Respecte les nécromants. Ne leur tourne jamais le dos.
-
----
-
-### L'Akkadien Converti / Fugitif
-
-*Survivant du front, praticien de la tradition funéraire, étranger toléré.*
-
-- **Bonus :** +1 DP éphémère de départ ; +1 DC pour les rituels, la lecture de sigils, la détection de magie
-- **Disciplines funéraires :** *Parler aux souvenirs d'un mort* (seuil 5–15 selon ancienneté), *Lecture d'aura déclinante* (seuil 5)
-
-> Surveillé par l'Inquisition. Toléré à Königsfell car les Akkadiens font partie du ciment de la ville.
-
----
-
-### Le Juriste / Notaire des Comtes
-
-*Expert en droit impérial, contrats, serments magiques.*
-
-- **Bonus :** +1 DC pour le droit, la négociation, les contrats, la rhétorique formelle
-- **Capacité :** Peut dépenser 1 DC pour déclarer une *faille légale* — crée un avantage narratif ou annule une contrainte administrative
-
-> Sa hantise : sans Empereur couronné, tout serment magique perd son ancre. Personne n'est véritablement lié à rien.
-
----
-
-### L'Artisan de Guilde / Maître Bâtisseur
-
-*Ingénieur, saboteur, artificier, maître d'atelier.*
-
-- **Bonus :** +1 DC en mécanique, architecture, sabotage, navigation urbaine
-- **Capacité :** Peut dépenser 2 DC pour fabriquer un gadget de scène (crochet, fumée, faux cadenas, etc.)
-
-> Les guildes sont les vrais pouvoirs de Königsfell. Certains artisans sont des agents impériaux infiltrés.
-
----
-
-### L'Émissaire / Diplomate de Cour
-
-*Ambassadeur, noble, négociateur, manipulateur de cour.*
-
-- **Bonus :** +1 DC pour influencer, convaincre, manipuler, négocier
-- **Capacité :** Une fois par scène, peut déclarer une *connexion noble* — une porte politique s'ouvre, un personnage devient accessible
-
-> Coincé·e entre Königsfell et l'Empereur, la disgrâce est une épée permanente au-dessus de la tête.
-
----
-
-## Repères Secrets
-
-À la création, chaque joueur définit **deux repères secrets** — informations que les autres joueurs ne connaissent pas encore. Exemples :
-
-- Une dette envers un PNJ
-- Un lien familial avec les victimes de La Purge ou les Croisades
-- Une allégeance cachée (Silence, guilde, Pilliers…)
-- Une peur ou une obsession
-
-> Les repères secrets sont le moteur des arcs personnels. Le MJ en prend connaissance à la session 0.
+Le détail (capacités, sorts, statut, interdits) est dans [Archétypes](archetypes.md).
 
 ---
 
 ## Progression — Coûts XP
 
-**Gains par session : ~4 XP** (ajustable selon qualité de la session).
+**Gains par session : ~4 XP** (selon la session). En cinq sessions, un personnage peut par exemple s'offrir un dé d'action, une compétence majeure et quelques PV.
 
 | Achat | Coût |
 |---|---|
 | +1 PV permanent | 1 XP |
 | +1 DA permanent (1er) | 4 XP |
 | +1 DA permanent (2e) | 8 XP |
-| +1 DA permanent (3e+) | +4 XP supplémentaires |
+| +1 DA permanent (3e et suivants) | +4 XP à chaque fois |
 | +1 DC (même système incrémental) | 4 / 8 / 12… XP |
 | +1 DP éphémère | 2 XP |
 | Compétence mineure : rang 2 | 2 XP |
 | Compétence mineure : rang 3 | 4 XP |
 | Nouvelle compétence majeure (justifiée en jeu) | 4 XP |
-| Nouveau sort / capacité | Variable (MJ) |
-| Relance ponctuelle d'un dé | 2 XP |
+| Entrer dans une tradition (compétence majeure de tradition, avec un maître ou une guilde) | 4 XP |
+| Nouveau sort de sa tradition | 4 XP |
+| Nouvelle capacité | Variable (MJ) |
 
 > Cette table se cumule avec la **progression en co-écriture** (planque, PNJ loyal, secret, rumeur vraie…) décrite dans [Résolution & Combat](resolution-et-combat.md#progression-en-co-écriture) : l'XP fait grandir les dés, la co-écriture fait grandir le monde.
 
@@ -204,4 +130,31 @@ Un archétype oriente les bonus de pool, les compétences majeures et le lore du
 
 ---
 
-[← Retour à l'accueil](../index.html) · [Jets de dés](jets-de-des.md) · [Résolution & Combat](resolution-et-combat.md) · [Systèmes](systemes.md) · [Archetypes et metiers](archetypes.md)
+## Exemple complet : Ilse Wenger, runiste
+
+**1. Concept.** Ilse grave les runes d'alarme des entrepôts du Gouffre, et elle en sait trop sur ce qu'on y range. Elle vit dans un **atelier sous la Place de la Poterie**, au milieu des mosaïques runiques des potiers nains.
+
+**2. Archétype : Runiste du Registre.**
+- *Tradition runique* : +1 dé éphémère ; sorts *Rune d'alarme*, *Rune de dissipation*, *Lecture runique*.
+- Compétence majeure : *Serrurerie*.
+- Capacité : la magie préparée. Avec un seul dé éphémère, elle n'a qu'**une** rune active à la fois.
+
+**3. Compétences mineures (rang 1).**
+- *Je repère les poinçons falsifiés.*
+- *Je me faufile dans les combles et les charpentes.*
+
+**4. Pools.** DA 2 (+1 dé d'attaque avec son marteau) · DC 1 · DP 1 permanent + 1 éphémère.
+
+**5. PV.** 8.
+
+**6. Équipement : pack Artisan.** Marteau (+1 dé d'attaque), tablier de cuir (armure −1), outil : *loupe et burins* (+1 DC pour expertiser un objet), carnet de plans, licence du Registre. Objet personnel : le premier poinçon de son maître, qu'elle n'a jamais rendu.
+
+**7. Repères secrets.**
+- Pour payer une dette, elle a gravé **sans poinçon** une rune de scellement dont elle ignore l'usage.
+- Son frère cadet a disparu dans les galeries pendant l'assèchement du Gouffre.
+
+**À la table.** Ilse veut ouvrir le coffre d'un receleur (seuil 10). C'est de la serrurerie : elle lance son DC de base **plus 1 dé** pour *Serrurerie* : 6 et 5 → **11**, le coffre s'ouvre. Plus tard, poursuivie, elle passe par les toits : elle lance ses 2 DA (5 et 3 = 8) et ajoute **+1** pour *Je me faufile dans les combles et les charpentes* → **9**.
+
+---
+
+[← Retour à l'accueil](../index.html) · [Fiche de personnage](fiche-de-personnage.md) · [Archétypes](archetypes.md) · [Compétences](competences.md) · [Armurerie](armurerie.md) · [Jets de dés](jets-de-des.md) · [Magie](magie.md)

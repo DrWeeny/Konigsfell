@@ -94,7 +94,7 @@ L'armure ne réduit **ni les critiques ni le poison**.
 
 ## Équipement et dés spécialisés
 
-Les dés spécialisés sont le principal levier de progression — mieux que les PV, mieux que les bonus plats. Voir aussi la table d'objets de [Création de personnage](creation-de-personnage.md#objets--dés-bonus) pour les équivalences de départ.
+Les dés spécialisés sont le principal levier de progression — mieux que les PV, mieux que les bonus plats. Les armes, protections et packs de départ sont dans l'[Armurerie](armurerie.md).
 
 | Objet | Apport |
 | --- | --- |
@@ -106,7 +106,7 @@ Les dés spécialisés sont le principal levier de progression — mieux que les
 
 ## Points de vie et soins
 
-- **8 PV** au niveau 1. La montée en puissance passe par les dés, pas par les PV — voir [Création de personnage](creation-de-personnage.md#points-de-vie-pv) pour l'achat de PV supplémentaires à l'XP.
+- **8 PV** au niveau 1 (+3 avec *Endurci*). La montée en puissance passe par les dés, pas par les PV — voir [Création de personnage](creation-de-personnage.md#progression--coûts-xp) pour l'achat de PV supplémentaires à l'XP.
 - **Soins :** 1d6 par journée de repos complet. Les remèdes de plantes rendent 1 PV ponctuellement.
 - Les soins magiques sont perçus comme de la nécromancie : rares, illégaux, compromettants. Un prêtre véreux est une ressource politique autant que médicale.
 
@@ -118,7 +118,7 @@ Les dés spécialisés sont le principal levier de progression — mieux que les
 
 Pas de distances chiffrées. Un personnage est **au contact** ou **à distance**, tranché par la fiction.
 
-Le dé de mouvement ne sort que lorsque l'action est contestée ou difficile : esquiver, franchir, grimper, se dégager.
+Se déplacer ne coûte un dé que lorsque l'action est contestée ou difficile : esquiver, franchir, grimper, se dégager. Sinon, on bouge sans lancer, et tous ses DA libres restent disponibles pour frapper ou parer.
 
 ### Se désengager (tour 0)
 
@@ -149,14 +149,14 @@ Si le poursuivant n'a plus aucun dé disponible, la fuite réussit automatiqueme
 
 Tout objet magique, sort, bénédiction ou malédiction s'écrit en combinant six verbes appliqués à des dés individuels.
 
-| Verbe | Effet | Puissance |
+| Verbe | Effet | Palier ([Échelle de puissance](echelle-de-puissance.md)) |
 | --- | --- | --- |
-| **Ajustement** | +N / −N sur un dé | mineur |
-| **Relance** | relancer un dé, garder le nouveau | mineur |
-| **Transfert** | déplacer un dé d'un pool vers un autre | moyen |
-| **Dé supplémentaire** | +1 dé avant le jet | majeur |
-| **Multiplicateur** | ×2 sur un dé | majeur |
-| **Verrouillage** | fixer un dé à une valeur donnée | **majeur** |
+| **Ajustement** | +N au total d'une action, ou +N par dé | Léger (+1 au total) à Fort (+1 par dé) |
+| **Relance** | relancer un dé de l'action, garder le nouveau | Léger |
+| **Transfert** | déplacer un dé d'un pool vers un autre | Exceptionnel |
+| **Dé supplémentaire** | +1 dé avant le jet | Exceptionnel |
+| **Multiplicateur** | ×2 sur un dé | Relique |
+| **Verrouillage** | fixer un dé à une valeur donnée | **Relique** |
 
 Le verrouillage permet de **fabriquer un doublon** (fixer un dé sur la valeur d'un autre → V × 3). À réserver aux reliques.
 
@@ -166,15 +166,15 @@ Le verrouillage permet de **fabriquer un doublon** (fixer un dé sur la valeur d
 constitution du pool
   → dés ajoutés / retirés
   → JET
-  → relances et verrouillages
-  → LECTURE DES DOUBLES
-  → ajustements (+N)
-  → multiplicateurs
   → assignation
+  → relances et verrouillages (sur les dés de l'action concernée)
+  → LECTURE DES DOUBLES
+  → ajustements (+N par dé, puis +N au total)
+  → multiplicateurs
   → résolution
 ```
 
-**Les doubles ne se lisent que sur les faces naturelles**, après relance et verrouillage, avant tout ajustement. Sans cette règle, le moindre objet à +1 se met à imprimer des critiques.
+On assigne d'abord, on relance ensuite : la relance sert une action précise (voir [Compétences](competences.md#les-rangs)). **Les doubles ne se lisent que sur les faces naturelles**, après relance et verrouillage, avant tout ajustement. Sans cette règle, le moindre objet à +1 se met à imprimer des critiques.
 
 ### Malédictions
 
@@ -192,10 +192,10 @@ Les objets se rechargent **par scène**, comme les pools. Les augmentations **pe
 
 | Pool | Départ niveau 1 | Recharge |
 | --- | --- | --- |
-| **Dés d'Action (DA)** | 2 : 1 de base + 1 mouvement, puis équipement, dons | entre les scènes |
-| **Dés de Compétence (DC)** | 1 (+1 si lié à l'archétype) | entre les scènes |
+| **Dés d'Action (DA)** | 2 libres (attaque, garde ou mouvement), puis dés d'équipement spécialisés, dons | entre les scènes |
+| **Dés de Compétence (DC)** | 1 (+1 dé quand une compétence majeure s'applique) | entre les scènes |
 | **Dés de Pouvoir (DP)** | 1 permanent | entre les scènes |
-| **Dés éphémères** | achetés à l'XP | entre les scènes, **consommés** à l'usage — épuisement en test |
+| **Dés éphémères** | 1 par tradition, puis achetés à l'XP | entre les scènes, **consommés** à l'usage — épuisement en test |
 
 Les dés éphémères sont **consommés** dès qu'ils sont engagés : ils limitent le nombre de sorts puissants par scène. Règle d'épuisement en test (tout engager dans une scène → un dé épuisé jusqu'à la nuit) : voir [Jets de dés](jets-de-des.md#dés-de-pouvoir--détail).
 
@@ -252,4 +252,4 @@ Cette récompense se cumule avec la progression à l'XP décrite dans [Création
 
 ---
 
-[← Retour à l'accueil](../index.html) · [Jets de dés](jets-de-des.md) · [Création de personnage](creation-de-personnage.md) · [Systèmes](systemes.md) · [Archetypes et metiers](archetypes.md)
+[← Retour à l'accueil](../index.html) · [Jets de dés](jets-de-des.md) · [Création de personnage](creation-de-personnage.md) · [Systèmes](systemes.md) · [Archétypes](archetypes.md)

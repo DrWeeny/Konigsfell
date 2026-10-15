@@ -16,7 +16,7 @@ On devient **pratiquant** en appartenant à une **tradition**. La tradition donn
 - un **statut légal** (permis, visa, tolérance, clandestinité) ;
 - des **interdits** — ce que la tradition refuse, ou ce que la loi lui refuse.
 
-Les archétypes magiques commencent avec **+1 dé éphémère**.
+On entre dans une tradition par sa **compétence majeure de tradition** (*Tradition de l'Eau Calme*, *Théurgie du Silence*…). Elle donne **+1 dé éphémère** au pool DP et les trois sorts d'archétype. Les archétypes de tradition l'ont dès la création. Un autre personnage peut l'acheter en jeu (4 XP), auprès d'un maître ou d'une guilde : il reçoit le dé éphémère et **un** sort d'archétype, les autres s'apprennent ensuite.
 
 ---
 
@@ -58,21 +58,21 @@ Un sort est une **action** formée avec des dés de Pouvoir. Il suit la mécaniq
 
 ### Les paliers
 
-Les paliers reprennent la [table des seuils](jets-de-des.md#seuils-de-difficulté) : la magie n'a pas d'échelle à part.
+Les paliers sont les [seuils de difficulté](jets-de-des.md#seuils-de-difficulté), avec leurs noms : la magie n'a ni échelle ni vocabulaire à part. On dit « un sort à 10+ ».
 
-| Total | Palier | Ordre de grandeur |
+| Total | Seuil | Ordre de grandeur |
 |---|---|---|
-| 3+ | **Mineur** | un effet utile et bref : éteindre une lanterne, sentir une rune |
-| 5+ | **Standard** | l'effet décrit par le sort |
-| 10+ | **Puissant** | plus grand, plus long, plusieurs cibles |
-| 15+ | **Majeur** | un effet qui change la scène |
-| 25+ | **Prodige** | un effet dont on parlera en ville |
+| 3+ | **Facile** | un effet utile et bref : éteindre une lanterne, sentir une rune |
+| 5+ | **Moyen** | l'effet de base du sort |
+| 10+ | **Difficile** | plus grand, plus loin, plusieurs cibles |
+| 15+ | **Très difficile** | un effet qui change la scène |
+| 25+ | **Quasi impossible** | un effet dont on parlera en ville |
 
-Un sort précise ce qu'il fait à chaque palier. Un sort qui n'a pas de palier Mineur ne peut pas être lancé sous 5.
+Un sort précise ce qu'il fait à chaque palier ; ce seuil se calcule avec la [formule](#écrire-un-sort--la-formule). Un sort qui n'a pas d'effet à 3+ ne peut pas être lancé sous 5.
 
 ### Dés éphémères
 
-Les dés éphémères engagés dans un sort sont **consommés** pour la scène. Le DP permanent ne l'est jamais. C'est la règle qui limite les sorts puissants : un mage peut atteindre le palier Majeur une fois, rarement deux, dans la même scène.
+Les dés éphémères engagés dans un sort sont **consommés** pour la scène. Le DP permanent ne l'est jamais. C'est la règle qui limite les sorts puissants : un mage peut atteindre 15+ une fois, rarement deux, dans la même scène.
 
 ::: dev
 Question ouverte (n° 4 de `CLAUDE.md`) : les éphémères se lancent-ils avec le pool, de couleur différente, et le joueur choisit ensuite lesquels engager ? Proposition : oui. Le joueur sait ce qu'il dépense, et la décision reste dans l'assignation.
@@ -97,8 +97,8 @@ Les dégâts d'un sort physique suivent la règle des attaques : somme brute −
 
 Chaque sort laisse une trace que les runistes et les théurges savent lire.
 
-- Un sort **Majeur ou Prodige**, ou un **contrecoup**, se remarque : le Silence ou le Registre peut en entendre parler.
-- Dans un lieu protégé par des runes de dissipation (Palais de Justice d'Ewald, temples, bureaux du Registre), aucun sort ne prend en dessous du palier Majeur.
+- Un sort à **15+**, un sort **improvisé**, ou un **contrecoup**, se remarque : le Silence ou le Registre peut en entendre parler.
+- Dans un lieu protégé par des runes de dissipation (Palais de Justice d'Ewald, temples, bureaux du Registre), aucun sort ne prend en dessous de 15.
 
 ::: dev
 La trace est le principal frein à la magie, et il est **politique** plutôt que mécanique : conforme au ton de la campagne. À tester : est-ce que ça suffit à empêcher le mage de tout résoudre hors combat ?
@@ -137,7 +137,8 @@ Le contre-sort ne pare pas les coups : des DP posés contre la magie ne servent 
 
 | Source | Effet |
 |---|---|
-| Archétype | 3 sorts d'archétype dès la création |
+| Archétype de tradition | 3 sorts d'archétype dès la création |
+| Entrer dans une tradition en jeu | **4 XP** (compétence majeure de tradition) : le dé éphémère et 1 sort d'archétype |
 | XP | 1 nouveau sort de sa tradition : **4 XP** |
 | Grimoire trouvé | +1 DP permanent, et souvent un sort |
 | Parchemin | lancer un sort une fois, sans le connaître |
@@ -147,14 +148,45 @@ Un sort coûte 4 XP, comme un dé permanent : il ouvre une action nouvelle.
 
 ---
 
-## Écrire un sort
+## Écrire un sort : la formule
+
+Le seuil d'un effet se **calcule**. On additionne les composantes, puis on **arrondit au seuil supérieur** (3, 5, 10, 15, 25). Le MJ s'en sert pour écrire un sort, pour chiffrer un sort inventé par un joueur, et pour arbitrer une improvisation.
+
+| Composante | Valeur |
+|---|---|
+| **Verbe** | Percevoir 3 · Altérer 5 · Créer ou Contrôler 10 |
+| **Portée** (dans l'espace ou dans le temps) | contact, ou moins d'un jour : 0 · à vue, ou moins d'un mois : +5 · hors de vue, ou moins d'un an : +10 |
+| **Durée** | instant : 0 · la scène : +5 · permanent : +10 |
+| **Cibles** | une : 0 · un groupe : +5 |
+| **Effet sur les dés** ([Échelle de puissance](echelle-de-puissance.md)) | aucun ou Léger : 0 · Notable ou Fort : +5 · Exceptionnel : +10 · Relique : réservé aux artefacts |
+| **Restrictions** | une circonstance (consentement, eau présente, de nuit) : −5 · un prix réel (PV, serment, interdit personnel) : −10 |
+
+- **Minimum 3.** Le domaine (l'eau, les morts, les serments) n'entre pas dans le calcul : c'est la tradition qui le fixe.
+- **La précision achète la puissance**, comme pour les compétences mineures. Un interdit personnel choisi en apprenant le sort (ne jamais le lancer à jeun, jamais contre un enfant, jamais sans avoir prié) compte comme un prix réel.
+- Un sort écrit, c'est la formule déjà calculée pour chacun de ses paliers.
+
+::: dev
+**En test.** Formule tirée du journal de conception (`mj/journal-de-conception.md`, d'après Ars Magica et les restrictions du Nen). Ajouts : la portée vaut aussi dans le temps (pour les morts et les souvenirs), et l'effet sur les dés se chiffre avec l'échelle de puissance. La restriction par interdit personnel rejoint la piste « magie par privation » de `CLAUDE.md`. Il faudra un **inventaire** verbe × domaine, 2 ou 3 exemples par case, pour donner la tonalité de Königsfell.
+:::
+
+### Improviser
+
+Un pratiquant peut tenter un effet qu'il n'a pas appris, **dans le domaine de sa tradition** :
+
+- on calcule le seuil avec la formule, puis on monte d'**un seuil** (5 → 10, 10 → 15…) ;
+- l'improvisation laisse **toujours une trace**, même sous 15 ;
+- hors du domaine de sa tradition, on n'improvise pas : c'est le territoire des arts proscrits.
+
+Un sort appris, c'est une improvisation devenue routine : les 4 XP achètent la fiabilité et la discrétion.
+
+### La fiche d'un sort
 
 | Champ | Contenu |
 |---|---|
 | **Nom** | |
 | **Tradition** | et statut légal |
 | **Type** | physique / esprit / objet-lieu |
-| **Paliers** | ce que fait le sort à 3+, 5+, 10+, 15+, 25+ (au moins deux paliers) |
+| **Paliers** | ce que fait le sort à 3+, 5+, 10+, 15+, 25+ (au moins deux paliers), avec le calcul |
 | **Grammaire** | le verbe utilisé s'il modifie des dés (relance, transfert, verrouillage…) |
 | **Trace** | discret / visible / signé |
 
@@ -162,25 +194,27 @@ Un sort coûte 4 XP, comme un dé permanent : il ouvre une action nouvelle.
 
 **Bouclier aqueux** — *Eau Calme, protection, physique*
 - **Spécial** : permet de poser des DP en garde pendant le round.
-- **5+** : une lame d'eau protège le mage.
-- **10+** : le bouclier couvre aussi un allié au contact.
-- **15+** : le bouclier tient jusqu'à la fin de la scène pour une seule garde de 1 dé, sans le dépenser.
+- **5+** : une lame d'eau protège le mage. *(Altérer 5)*
+- **10+** : le bouclier couvre aussi un allié au contact. *(Altérer 5 + groupe 5)*
+- **15+** : le bouclier tient jusqu'à la fin de la scène pour une seule garde de 1 dé, sans la dépenser. *(Altérer 5 + scène 5 + effet Fort 5)*
 
 **Jet d'eau pressurisé** — *Eau Calme, attaque, physique*
-- **5+** : projette, renverse, éteint un feu.
-- **10+** : inflige les dégâts de l'action, comme une attaque à distance.
-- **15+** : traverse une garde — la cible ne peut engager qu'un seul dé de garde pour parer.
+- **5+** : au contact, projette, renverse, éteint un feu. *(Altérer 5)*
+- **10+** : à vue ; mêmes effets, ou inflige les dégâts de l'action, comme une attaque à distance. *(Altérer 5 + vue 5)*
+- **15+** : traverse une garde — la cible ne peut engager qu'un seul dé de garde pour parer. *(Altérer 5 + vue 5 + effet Fort 5)*
 
 **Murmure des défunts** — *funéraire akkadienne, esprit, discret*
-- **5+** : une question à un mort de moins d'un jour.
-- **10+** : trois questions, ou un mort de moins d'un mois.
-- **15+** : le mort répond avec sa voix, et se souvient de ce qu'il a vu.
+- **3+** : une question à un mort de moins d'un jour. *(Percevoir 3)*
+- **10+** : trois questions, ou un mort de moins d'un mois. *(Percevoir 3 + scène 5, ou + un mois 5 → 8, arrondi à 10)*
+- **15+** : un mort de moins d'un an répond avec sa voix, et se souvient de ce qu'il a vu. *(Percevoir 3 + un an 10 → 13, arrondi à 15)*
 
 **Lien de serment** — *Théurgie du Silence, esprit, signé*
-- **10+** : deux personnes consentantes sont liées par une promesse ; celui qui la rompt le sait, et le théurge aussi.
-- **15+** : la rupture fait souffrir. Un PJ lié ne peut pas engager de DP contre l'autre partie.
+- **10+** : deux personnes consentantes sont liées par une promesse ; celui qui la rompt le sait, et le théurge aussi. *(Contrôler 10 + permanent 10 + groupe 5 − consentement 5 − prix réel 10 : le théurge porte le serment)*
+- **15+** : la rupture fait souffrir. Un PJ lié ne peut pas engager de DP contre l'autre partie. *(+ effet Fort 5)*
 - **Interdit** : sans Empereur couronné, l'ancre du serment est incertaine. Le MJ peut décider qu'un lien ne tient pas.
 
+**Improvisation — geler une serrure** — *Eau Calme*
+Une mage veut geler l'intérieur d'une serrure à vue pour bloquer une porte jusqu'à la fin de la scène : Altérer 5 + vue 5 + scène 5 = 15. Elle ne connaît pas ce sort : elle improvise, donc **25+**. Elle préfère s'approcher : au contact, 10, improvisé **15+**, et une trace.
 ---
 
-[← Retour à l'accueil](../index.html) · [Jets de dés](jets-de-des.md) · [Résolution & Combat](resolution-et-combat.md) · [Archetypes et metiers](archetypes.md)
+[← Retour à l'accueil](../index.html) · [Jets de dés](jets-de-des.md) · [Résolution & Combat](resolution-et-combat.md) · [Archétypes](archetypes.md)

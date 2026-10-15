@@ -41,10 +41,10 @@ Gain moyen sur la somme. Les 1 ne se relancent jamais.
 
 | Palier | Valeur | Effets typiques | Usage conseillé |
 |---|---|---|---|
-| **Mineur** | ~1–2 | +1 au total, une relance | Compétence de rang 1, objet de bonne facture, petite bénédiction |
+| **Léger** | ~1–2 | +1 au total, une relance | Compétence de rang 1, objet de bonne facture, petite bénédiction |
 | **Notable** | ~2–3 | +2 au total, deux relances | Compétence de rang 2, objet de maître |
 | **Fort** | ~3–5 | +2 au total et une relance, +1 par dé | Compétence de rang 3, sort, objet magique |
-| **Majeur** | ~5–6 | +1 dé, transfert entre pools | Compétence majeure, objet exceptionnel, dé éphémère |
+| **Exceptionnel** | ~5–6 | +1 dé, transfert entre pools | Compétence majeure, objet exceptionnel, dé éphémère |
 | **Relique** | 6+ | +2 par dé, ×2, verrouiller un dé | Une fois par scène, artefact légendaire |
 
 **Zone stable / zone instable :**
@@ -79,15 +79,17 @@ L'équipement ordinaire, c'est le point de départ de tout le monde. On ne le ch
 | Facture | Palier | Exemple sur une épée (déjà +1 dé d'attaque) |
 |---|---|---|
 | Ordinaire | — | Rien de plus |
-| Bonne facture | Mineur | +1 au total de l'attaque |
+| Bonne facture | Léger | +1 au total de l'attaque |
 | Œuvre de maître | Notable | +2 au total, ou une relance sur l'attaque |
 | Magique | Fort | +1 par dé d'attaque, ou un effet propre (feu, lumière, frappe les esprits) |
-| Exceptionnelle | Majeur | Un deuxième dé d'attaque |
+| Exceptionnelle | Exceptionnel | Un deuxième dé d'attaque |
 | Légendaire | Relique | +2 par dé, ou ×2 sur le meilleur dé une fois par scène |
 
 **Exemple de répartition avec une épée +2 au total :** 4, 6, 8, 4. Mouvement 6, attaque 8, attaque 4/4.
-- Le +2 va sur une seule attaque : **10**, ou 4+4+4 (double) +2 = **14**.
-- Avec +1 par dé d'attaque à la place, les deux attaques en profitent : 8+1 = **9** et 4+4+4 (double) +2 = **14**.
+- Le +2 va sur une seule attaque : 8+2 = **10**, ou la paire 4/4 : **14 pour toucher** (4+4, double +4, épée +2), mais **10 de dégâts** (4+4, épée +2).
+- Avec +1 par dé d'attaque à la place, les deux attaques en profitent : 8+1 = **9**, et la paire 4/4 : **14 pour toucher**, **10 de dégâts**.
+
+> Le bonus du double sert à **réussir**, jamais aux dégâts. Les bonus d'objet et de compétence comptent dans les deux cas. Voir [La règle des doubles](jets-de-des.md#la-règle-des-doubles).
 
 ### Bonus et malus : le solde
 

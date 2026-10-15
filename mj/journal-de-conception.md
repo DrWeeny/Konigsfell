@@ -75,8 +75,8 @@ Seuil = verbe (Percevoir 3 · Altérer 5 · Contrôler/Créer 10)
 3. Coûts en XP des rangs (2 / 4) et d'une nouvelle majeure (4) : à tester.
 4. Une majeure et une mineure peuvent-elles se cumuler sur un même jet ? Pour l'instant, non.
 5. Listes de compétences majeures de Théurge, Landsknecht, Akkadien, Eau Calme et Ritualiste : ce sont des **propositions** à valider.
-6. Valeur de l'armure (réduction des dommages) : à fixer avec les règles de combat.
-7. **Initiative** (règle hors de ce repo) : le +1 par dé vaut plus qu'une compétence de rang 3. Passer à +2 au total, ou plafonner à 3 dés. Le cran légendaire (« 1 relance ») doit monter : deux relances ou un verrouillage.
+6. Valeur de l'armure (réduction des dommages) : réduction fixe, voir [Résolution & Combat](../regles/resolution-et-combat.md#armure) ; valeurs à calibrer.
+7. **Initiative** ([Résolution & Combat](../regles/resolution-et-combat.md#récompense-dinitiative)) : le +1 par dé vaut plus qu'une compétence de rang 3. Passer à +2 au total, ou plafonner à 3 dés. Le cran légendaire (« 1 relance ») doit monter : deux relances ou un verrouillage.
 8. Magie : relire Ars Magica, tester la formule, commencer l'inventaire.
 9. Failles : déclenchement, contrepartie, nombre maximum.
 

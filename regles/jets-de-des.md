@@ -88,7 +88,7 @@ Quand deux dés de même valeur sont **combinés sur une même action**, des rè
 | Double 10 | **Critique** — effet narratif décisif, ignore l'armure |
 
 - Le bonus du double ne compte que pour **réussir** (passer un seuil, battre une opposition).
-- Les **dégâts** se calculent sur la somme brute (7,7 → 14). Même règle en défense.
+- Les **dégâts** se calculent sur la somme brute (7,7 → 14), plus les bonus d'objet ou de compétence : seul le bonus du double est réservé à la réussite. Même règle en défense.
 - **Trois dés identiques** : on en choisit deux pour la paire, le troisième reste un dé normal. Pas de triple.
 
 ::: dev
@@ -110,7 +110,7 @@ Si le pool contient **deux ou plusieurs 1**, le joueur **doit** former une actio
 
 ## Dés d'Action — Détail
 
-**Pool de départ : 2 dés** — 1 DA de base + 1 dé de Mouvement. L'équipement, les dons et l'archétype en ajoutent (une épée donne 1 DA **attaque uniquement**).
+**Pool de départ : 2 DA libres.** Chacun peut servir à attaquer, à parer ou à se déplacer : un personnage qui n'a pas besoin de bouger met ses deux dés ailleurs. L'équipement, les dons et l'archétype en ajoutent, mais les dés d'équipement sont **spécialisés** (une épée donne 1 DA **attaque uniquement**, un bouclier 1 dé de garde, une tenue légère 1 dé de mouvement).
 
 ::: dev
 **En test — blessure grave :** un personnage gravement blessé perd 1 dé de son pool. Voir `CLAUDE.md`.
@@ -131,10 +131,11 @@ Le joueur lance tous ses DA simultanément et les assigne librement. En combat, 
 
 Utilisé hors combat pour toute action de connaissance, sociale ou artisanale. Le pool est séparé des DA — les deux ne se mélangent pas. Comme pour les autres pools, les dés assignés à une même action **s'additionnent**.
 
-**Exemple — Enquêteur avec 2 DC et un bonus de métier +2 :**
+**Exemple — Enquêteur avec 2 DC et une compétence mineure de rang 2 (*Je fouille les bureaux en désordre*) :**
 Résultats 7 et 3.
 - Une seule action : 7 + 3 + 2 = **12** → Difficile réussi
-- Ou deux actions : (7 + 2 = 9) et (3), par exemple fouiller une pièce et repérer une sortie
+- Ou deux actions : fouiller le bureau (7 + 2 = 9) et repérer une sortie (3) ; le +2 ne va qu'à l'action que décrit la compétence
+
 **Exemple — Juriste avec 1 DC, compétence majeure *Droit impérial* :**
 Il cherche une faille dans un contrat de guilde (seuil 10). *Droit impérial* lui donne un 2e dé : 7 et 3 → **10**, réussite.
 S'il avait plutôt utilisé sa compétence mineure *Je débusque les clauses piégées des contrats de guilde* (rang 2), il n'aurait lancé que son dé de base : 7 + 2 = 9, échec. Une seule compétence par jet.
@@ -177,8 +178,30 @@ Les pools se rechargent **entre chaque scène**.
 | Dés de Compétence (DC) | ✅ Complet entre les scènes |
 | Dés de Pouvoir permanents | ✅ Complet entre les scènes |
 | Dés éphémères | Entre les scènes — sauf dé épuisé (nuit de repos) |
+| Dé **épuisé** (quel que soit le pool) | Après une nuit de repos complet |
 
 > Une scène correspond à une unité narrative distincte (lieu, temps ou enjeu différent). Le MJ tranche en cas de doute.
+
+---
+
+## Payer un Dé
+
+Certaines capacités **coûtent un dé** (« payer 1 DC », « payer 1 DA »). Elles se déclarent **à tout moment**, sans lancer : c'est le personnage qui tire sur la corde. Le joueur choisit comment il paie.
+
+| Paiement | Effet |
+|---|---|
+| **Comptant** | un dé du pool est **épuisé** jusqu'à une nuit de repos complet |
+| **À crédit** | au **prochain jet** de ce pool, un des dés est posé sur **1** d'office, avant de lancer les autres |
+
+- Le 1 posé à crédit ne sert à rien, sauf à **former un double 1** avec un 1 naturel : plus le pool est gros, plus le risque monte (environ 10 % avec 1 autre dé, 19 % avec 2, 27 % avec 3).
+- Un pool ne descend jamais sous 1 dé : **le dernier dé ne se paie qu'à crédit**.
+- On peut payer plusieurs fois, mais pas deux fois à crédit sur le même jet : la seconde dette se paie comptant.
+
+**Exemple — le Regrattier, 1 DC :** dans une taverne du Dédale, il déclare *« Je connais quelqu'un ici »*. Son pool ne compte qu'un dé : il paie à crédit. Au prochain jet de DC, il pose un 1 et lance son dé normalement (et le dé de sa compétence majeure s'il en a une) : si un autre 1 tombe, c'est un double 1.
+
+::: dev
+**En test.** Comptant = coût lourd et sûr ; à crédit = coût léger et risqué, qui grandit avec le pool. Le verbe « payer » est réservé à ces coûts : « dépenser » reste celui des dés de garde engagés.
+:::
 
 ---
 
@@ -199,9 +222,11 @@ Les bonus ne s'appliquent qu'**après** la lecture des doubles, qui se fait **su
 2. Lancer TOUS les dés du pool simultanément
 3. Double 1 → obligation d'action échouée en premier
 4. Assigner les dés aux actions (attaque / défense / sort / mouvement)
+   — total minimum 3 par action
 5. Relances (compétence de rang 3, objet…) sur les dés de l'action concernée
    — jamais sur un 1
-6. Lire les doubles sur les faces naturelles (bonus = valeur du double)
+6. Lire les doubles sur les faces naturelles (bonus = valeur du double,
+   pour réussir seulement : les dégâts restent sur la somme brute)
 7. Ajouter les bonus par dé, puis les bonus au total
    (une seule compétence par jet)
 8. Résoudre contre seuil ou opposition

@@ -72,6 +72,12 @@ L'attaquant combine les dés qu'il veut sur une attaque. Le défenseur engage ce
 
 Le défenseur peut toujours choisir de ne pas parer.
 
+### Les tirs
+
+- **Un tir ne se pare pas, il s'esquive.** Contre une arme à distance, seuls servent les DA libres et les dés de **mouvement** (tenue légère) posés en garde. Le **bouclier** pare aussi un tir, si son porteur fait face au tireur.
+- **Au contact**, une arme à distance ne donne pas son dé d'attaque.
+- **Les armes à feu** divisent l'armure par deux, arrondi à l'inférieur : plaque −2, mailles −1, cuir 0.
+
 ### Épuisement et nombre
 
 Une garde ne se renouvelle pas en cours de round. Concentrer les attaques sur une cible perce sa réserve, puis les suivantes passent à nu — la coordination et la supériorité numérique sont décisives.
@@ -110,7 +116,13 @@ Les dés spécialisés sont le principal levier de progression — mieux que les
 - **Soins :** 1d6 par journée de repos complet. Les remèdes de plantes rendent 1 PV ponctuellement.
 - Les soins magiques sont perçus comme de la nécromancie : rares, illégaux, compromettants. Un prêtre véreux est une ressource politique autant que médicale.
 
-**La mise hors de combat n'est pas la mort.** Celui qui porte le coup décisif choisit l'issue. Capturer vaut presque toujours mieux que tuer : un prisonnier parle, s'échange, se retourne.
+**La mise hors de combat n'est pas la mort.** À 0 PV, le personnage est hors de combat, et celui qui porte le coup décisif choisit l'issue :
+
+- **la capture** : assommé, désarmé, à la merci du vainqueur ;
+- **la blessure grave** : il survit avec une séquelle durable (un bras, une main, un œil, des côtes mal ressoudées). Il perd **1 dé** dans le pool que la blessure touche (DA par défaut) jusqu'à ce que la fiction la répare : une prothèse, des mois de convalescence, ou jamais ;
+- **la mort**.
+
+Capturer vaut presque toujours mieux que tuer : un prisonnier parle, s'échange, se retourne.
 
 ---
 
@@ -195,9 +207,9 @@ Les objets se rechargent **par scène**, comme les pools. Les augmentations **pe
 | **Dés d'Action (DA)** | 2 libres (attaque, garde ou mouvement), puis dés d'équipement spécialisés, dons | entre les scènes |
 | **Dés de Compétence (DC)** | 1 (+1 dé quand une compétence majeure s'applique) | entre les scènes |
 | **Dés de Pouvoir (DP)** | 1 permanent | entre les scènes |
-| **Dés éphémères** | 1 par tradition, puis achetés à l'XP | entre les scènes, **consommés** à l'usage — épuisement en test |
+| **Dés éphémères** (réserve) | 1 par tradition, +1 avec un focus, puis achetés à l'XP | après une nuit de repos |
 
-Les dés éphémères sont **consommés** dès qu'ils sont engagés : ils limitent le nombre de sorts puissants par scène. Règle d'épuisement en test (tout engager dans une scène → un dé épuisé jusqu'à la nuit) : voir [Jets de dés](jets-de-des.md#dés-de-pouvoir--détail).
+Les dés éphémères forment une **réserve** : on y puise pour renforcer un sort, et les dés puisés sont épuisés jusqu'à la nuit. Ils limitent le nombre de sorts puissants par jour : voir [Magie](magie.md#la-réserve--les-dés-éphémères).
 
 ---
 

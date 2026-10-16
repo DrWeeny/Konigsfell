@@ -28,7 +28,7 @@ Tout l'équipement de départ est **ordinaire**. Les objets de bonne facture et 
 | **Bouclier** | +1 dé de garde (DA) | garde uniquement, ne frappe jamais |
 | **Armure** | réduit les dégâts subis (−1, −2 ou −4) | ni les critiques ni le poison |
 | **Tenue légère** | +1 dé de mouvement (DA) | mouvement uniquement ; perdu avec les mailles ou la plaque |
-| **Focus** (bâton, pyramide-clef…) | +1 DP pour canaliser un sort | il faut le tenir en main |
+| **Focus** (bâton, pyramide-clef…) | +1 dé éphémère dans la réserve ; de bonne facture, +1 DP permanent réservé aux sorts | il faut le tenir en main ; un seul à la fois (voir [Les focus](magie.md#les-focus)) |
 | **Outil de guilde** | +1 DC sur une action précise, définie à l'achat | *crocheter*, *opérer*, *graver*… |
 
 Les dés d'équipement sont **spécialisés** : ils ne servent qu'à leur usage. Les 2 DA de départ, eux, sont libres. Un dé d'objet n'existe que si l'objet sert : pas de dé d'attaque à mains nues, pas de dé de garde sans bouclier.
@@ -43,12 +43,14 @@ Toutes les armes donnent **+1 dé d'attaque**. Ce qui les distingue, c'est la fi
 | Gourdin, matraque | **discrète**, assomme sans tuer si le joueur le veut | libre |
 | Rapière, épée de côté | **duel** | libre pour les nobles et les gardes ; sinon toléré |
 | Sabre d'abordage, hache | **mêlée** | toléré sur les docks, mal vu ailleurs |
+| Masse, marteau | **mêlée** | libre pour le clergé (masse) et les artisans (marteau de travail) ; sinon toléré |
+| Bâton ferré | **deux mains**, peut servir de focus | libre |
 | Épée à deux mains, hallebarde | **allonge**, **deux mains** (pas de bouclier) | réservé au Guet et aux compagnies enregistrées |
 | Arbalète, arc | **distance** | toléré hors des quartiers nobles |
 | Pistolet à rouet, arquebuse | **distance**, **bruyante**, **rechargement** (une attaque sur deux rounds) | sur permis |
 
 ::: dev
-Les mots-clés sont narratifs (qui peut frapper qui, qui remarque l'arme) sauf *deux mains* et *rechargement*. Si la table veut distinguer les armes mécaniquement, passer par la facture (bonne facture = +1 au total) plutôt que par des dés différents.
+Les mots-clés sont narratifs (qui peut frapper qui, qui remarque l'arme) sauf *deux mains*, *rechargement* et *distance* : un tir s'esquive, et les armes à feu divisent l'armure par deux (voir [Les tirs](resolution-et-combat.md#les-tirs)). Si la table veut distinguer les armes mécaniquement, passer par la facture (bonne facture = +1 au total) plutôt que par des dés différents.
 :::
 
 ### Protections
@@ -78,6 +80,8 @@ Les mots-clés sont narratifs (qui peut frapper qui, qui remarque l'arme) sauf *
 | **Pèlerin** | couteau | — | focus : *encensoir* | robe cérémonielle, registre des défunts, visa, pièces d'offrande |
 
 Le bâton ferré de l'Eau Calme sert de focus **ou** d'arme dans un même round, pas les deux.
+
+**Le focus des traditions.** Un personnage de tradition commence avec un focus ordinaire (+1 dé éphémère, voir [Les focus](magie.md#les-focus)). Il est déjà dans les packs Eau Calme (bâton ferré), Silence (pyramide-clef) et Pèlerin (encensoir). Sinon, on l'ajoute au pack : un *poinçon* pour le runiste, un *mortier d'alchimiste* pour le Physicus.
 
 ---
 

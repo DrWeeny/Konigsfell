@@ -10,6 +10,7 @@
 - **Comtes de Königsfell** : les dix dirigeants de la cité ; ils partagent le pouvoir politique, militaire et magique.
 - **Flumen Registratum (le Registre)** : branche de l'Eau Calme influencée par le Comte Auge ; recensement, taxes, contrôle des artefacts et police magique.
 - **Silence (le)** : inquisition impériale chargée du contrôle de la magie et de l'ordre public.
+- **Sirènes (les)** : ordre du Silence, privé d'odorat, qui sent la magie lancée autour de lui ; leur cri interrompt les sorts et ébranle ceux qui l'entendent. À ne pas confondre avec les *sirènes de l'eau* de l'argot.
 
 ---
 

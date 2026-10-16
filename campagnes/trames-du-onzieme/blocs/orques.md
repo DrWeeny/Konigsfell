@@ -36,9 +36,9 @@ Le navire du capitaine **Assur Sandergul** (Akkadien élevé à l'orphelinat, l'
 
 - **Il ne reste qu'un orque sur huit.** Certains n'ont pas survécu à la traversée ; les autres, le plus gros les a **décapités et a mangé leurs têtes** en vue des côtes, puis il est redevenu calme.
 - **Variante : trois survivants.** Si la table s'intéresse aux orques, faites-en arriver **trois sur les huit**, de force semblable, qui s'observent sans s'attaquer. Le MJ l'avait prévu ainsi ; à la table, les joueurs s'en préoccupaient peu, et il n'en a gardé qu'un. Trois orques, c'est trois destins possibles (l'arène, la Bergerie, la chasse), une conscience commune qui se voit, et le risque permanent que l'un mange les autres s'il devient plus fort. Il mesure 2,30 m, il est attaché et sédaté (cinq fois la dose). Les corps des autres sont conservés par des parchemins d'embaumement akkadiens, interdits par le Silence.
-- **Le Silence** tient le quai : une **Sirène** (ordre mental qui blesse) et une dizaine de soldats imposent la quarantaine. Chaque passager est examiné, ses affaires fouillées, ses vêtements gardés quarante jours. La douane estime l'orque à 1 000 pièces d'or.
+- **Le Silence** tient le quai : une **Sirène** (elle sent la magie ; son cri interrompt les sorts et ébranle, voir [Les sens du Silence](../../../regles/magie.md#les-sens-du-silence)) et une dizaine de soldats imposent la quarantaine. Chaque passager est examiné, ses affaires fouillées, ses vêtements gardés quarante jours. La douane estime l'orque à 1 000 pièces d'or.
 - **Le sabotage.** Si une foule se forme au marché aux poissons, **trois rebelles armés de sarbacanes** tirent un poison enrageant sur l'orque. Un quatrième garde un parchemin de folie pour le dernier recours. Si la foule est tenue à distance, l'un d'eux grimpe sur les toits des docks.
-- **La magie sur le quai** : les hommes du Silence arrêtent les lanceurs **dans l'ordre des sorts lancés**. Seul leur prêtre détecte la magie.
+- **La magie sur le quai** : les hommes du Silence arrêtent les lanceurs **dans l'ordre des sorts lancés**. Seule la Sirène détecte la magie.
 - **Si l'orque se libère**, il tue à mains nues. Sandergul crie « ne le tuez pas, éloignez-vous ! ». Il y a des tranquillisants dans la barque.
 - **Si l'orque meurt ici**, c'est la catastrophe : trouver qui peut le ramener (et à quel prix), ou fuir la ville.
 

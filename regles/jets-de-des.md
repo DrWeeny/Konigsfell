@@ -113,7 +113,7 @@ Si le pool contient **deux ou plusieurs 1**, le joueur **doit** former une actio
 **Pool de départ : 2 DA libres.** Chacun peut servir à attaquer, à parer ou à se déplacer : un personnage qui n'a pas besoin de bouger met ses deux dés ailleurs. L'équipement, les dons et l'archétype en ajoutent, mais les dés d'équipement sont **spécialisés** (une épée donne 1 DA **attaque uniquement**, un bouclier 1 dé de garde, une tenue légère 1 dé de mouvement).
 
 ::: dev
-**En test — blessure grave :** un personnage gravement blessé perd 1 dé de son pool. Voir `CLAUDE.md`.
+**En test — blessure grave :** une issue possible de la mise hors de combat (un membre perdu, un œil crevé) : 1 dé de moins dans le pool touché. Voir [Points de vie et soins](resolution-et-combat.md#points-de-vie-et-soins).
 :::
 
 Le joueur lance tous ses DA simultanément et les assigne librement. En combat, les dés de garde sont posés avant les actions — voir [Le round](resolution-et-combat.md#le-round).
@@ -146,25 +146,22 @@ S'il avait plutôt utilisé sa compétence mineure *Je débusque les clauses pi�
 
 **Pool de départ :** 1 DP permanent (minimum pour tous).
 
-Des dés **éphémères** peuvent être achetés avec de l'XP. Ils se distinguent à la table par une couleur différente.
+Les dés **éphémères** viennent d'une tradition, d'un [focus](magie.md#les-focus) ou de l'XP. Ils ne se lancent pas avec le pool : ils forment une **réserve**, la fatigue du mage, où il puise pour renforcer un sort ([Magie](magie.md#la-réserve--les-dés-éphémères)).
 
 ### Dés permanents vs Éphémères
 
 | Type | Comportement |
 |---|---|
 | **Permanents** | Toujours disponibles, ne se consomment jamais |
-| **Éphémères** | **Consommés** dès qu'ils sont engagés dans une action — ils ne reviennent qu'à la scène suivante |
+| **Éphémères** | **Puisés** à la demande, après avoir vu ses dés de base — épuisés jusqu'à une nuit de repos complet |
 
 > Les dés éphémères sont le carburant des sorts puissants : un mage peut frapper fort, mais pas à chaque tour.
 
-::: dev
-**En test — épuisement.** Si un personnage engage **tous** ses dés éphémères dans une même scène, l'un d'eux reste épuisé jusqu'à une nuit de repos complet. Objectif : limiter les scènes « tout ou rien » sans compter les sorts. Voir `CLAUDE.md`.
-:::
-
-**Exemple — Mage avec 3 DP (1 permanent + 2 éphémères) :**
-- Lance *Prison de Glace* avec les 3 DP → résultats : 8, 8, 5
+**Exemple — Mage avec 1 DP permanent et 2 éphémères en réserve :**
+- Lance *Prison de Glace* (15+) avec son DP permanent → 8. Trop peu
+- Il puise ses deux éphémères → 8 et 5
 - **Double 8** → 8 × 3 = 24 pour réussir. Seuil Très difficile (15+) dépassé → la prison tient
-- Les 2 dés éphémères sont consommés pour la scène ; il ne lui reste que son DP permanent
+- Sa réserve est vide jusqu'à la nuit : le reste de la journée, il lance avec son seul DP permanent
 
 ---
 
@@ -177,7 +174,7 @@ Les pools se rechargent **entre chaque scène**.
 | Dés d'Action (DA) | ✅ Complet entre les scènes |
 | Dés de Compétence (DC) | ✅ Complet entre les scènes |
 | Dés de Pouvoir permanents | ✅ Complet entre les scènes |
-| Dés éphémères | Entre les scènes — sauf dé épuisé (nuit de repos) |
+| Dés éphémères (réserve) | Après une nuit de repos complet |
 | Dé **épuisé** (quel que soit le pool) | Après une nuit de repos complet |
 
 > Une scène correspond à une unité narrative distincte (lieu, temps ou enjeu différent). Le MJ tranche en cas de doute.

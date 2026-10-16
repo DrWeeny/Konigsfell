@@ -39,7 +39,18 @@ Aucune tradition légale ne les enseigne. Ils existent dans les archives du Sile
 - **Peausserie** — l'échange de peaux, art dissous par le Roi Peausserie (voir [La Cité du Roi Peausserie](../univers/contes/la-cite-du-roi-peausserie.md)).
 - **Contrôle mental** — interdit par toutes les traditions, pratiqué par certaines.
 
-Les runistes ne lancent pas leurs sorts, ils les **gravent** à l'avance : voir l'archétype [Runiste du Registre](archetypes.md#runiste-du-registre). Les alchimistes font de même avec leurs **préparations** : voir [Physicus](archetypes.md#physicus--docteur-chirurgien). Dans les deux cas, chaque effet en réserve retient un dé éphémère.
+### La magie préparée
+
+Les runistes **gravent** leurs sorts, les alchimistes les **préparent** en fioles : voir [Runiste du Registre](archetypes.md#runiste-du-registre) et [Physicus](archetypes.md#physicus--docteur-chirurgien). Leur avantage, c'est le temps : au calme, ils ne lancent pas les dés.
+
+- **Pas de jet.** Le palier vaut **5 par DP engagé** : 1 dé → 5+, 2 → 10+, 3 → 15+, 5 → 25+. Ni double, ni contrecoup.
+- **Le temps.** Quelques minutes jusqu'à 5+, une heure à 10+, une nuit à 15+, une semaine à 25+. Sous la pression d'une scène, on lance comme pour un sort ordinaire.
+- **Le prix.** Chaque effet en réserve **retient un dé éphémère**, quel que soit son palier, jusqu'à ce qu'il se déclenche ou soit effacé. Le DP permanent ne se retient pas : le nombre d'éphémères fixe le nombre de runes ou de fioles actives. Les autres dés puisés reviennent après une nuit, comme toujours.
+- **La durée ne compte pas** dans la formule : l'effet tient jusqu'à son déclenchement, et c'est le dé retenu qui le paie : il ne revient pas avec la nuit tant que l'effet existe.
+
+::: dev
+**En test (2026-10-16).** « 5 par dé » est un peu sous la moyenne d'un d10 (5,5) : prendre son temps garantit le résultat moyen, sans la chance des doubles. Le runiste et le Physicus perdent la surprise mais gagnent la fiabilité.
+:::
 
 ::: mj
 Les arts proscrits sont des **ressources de scénario**, pas des options de création. Un PJ peut les approcher (un grimoire, un prêtre véreux, un rituel akkadien), mais chaque usage est une prise que quelqu'un pourra exercer sur lui.
@@ -49,12 +60,13 @@ Les arts proscrits sont des **ressources de scénario**, pas des options de cré
 
 ## Lancer un sort
 
-Un sort est une **action** formée avec des dés de Pouvoir. Il suit la mécanique de base : on lance tout le pool DP, on regarde, puis on assigne.
+Un sort est une **action** formée avec des dés de Pouvoir. Il suit la mécanique de base : on lance, on regarde, on assigne, et si besoin on **puise** dans sa réserve.
 
 1. Le joueur annonce le sort et sa cible.
-2. Il forme une action avec un ou plusieurs DP (plancher : total 3).
-3. Le total détermine le **palier** atteint.
-4. Si le sort vise une créature, elle s'y oppose (voir *Résister*).
+2. Il lance ses **DP de base** (le DP permanent, un focus de bonne facture, les DP gagnés en jeu) et forme une action avec un ou plusieurs d'entre eux (plancher : total 3).
+3. Avant la résolution, il peut **puiser** dans sa réserve de dés éphémères (voir *La réserve*).
+4. Le total détermine le **palier** atteint.
+5. Si le sort vise une créature, elle s'y oppose (voir *Résister*).
 
 ### Les paliers
 
@@ -70,12 +82,40 @@ Les paliers sont les [seuils de difficulté](jets-de-des.md#seuils-de-difficult�
 
 Un sort précise ce qu'il fait à chaque palier ; ce seuil se calcule avec la [formule](#écrire-un-sort--la-formule). Un sort qui n'a pas d'effet à 3+ ne peut pas être lancé sous 5.
 
-### Dés éphémères
+### Un sort par round
 
-Les dés éphémères engagés dans un sort sont **consommés** pour la scène. Le DP permanent ne l'est jamais. C'est la règle qui limite les sorts puissants : un mage peut atteindre 15+ une fois, rarement deux, dans la même scène.
+En combat, un personnage lance **un seul sort par round**. Avec 5, 10, 8 et 7 sur ses DP de base, un mage ne fait pas trois petits sorts : il en lance un, avec les dés qu'il veut, et les autres ne servent pas ce round, sauf s'il les a posés en garde au début (voir *Le mage en combat*).
+
+- **Les dés de base** servent aux sorts faciles, round après round : ils ne s'usent pas.
+- **La réserve** sert aux gros sorts : atteindre 10+ ou 15+, passer un contre-sort ou une rune de dissipation.
 
 ::: dev
-Question ouverte (n° 4 de `CLAUDE.md`) : les éphémères se lancent-ils avec le pool, de couleur différente, et le joueur choisit ensuite lesquels engager ? Proposition : oui. Le joueur sait ce qu'il dépense, et la décision reste dans l'assignation.
+**En test (2026-10-16).** Poser des DP en garde (sort de protection, contre-sort) ne compte pas comme le sort du round.
+:::
+
+### La réserve : les dés éphémères
+
+Les dés éphémères ne se lancent pas avec le pool. Ils forment une **réserve** où le mage puise : c'est sa fatigue. Elle se remplit avec la **tradition** (+1), le **focus** ordinaire (+1) et l'XP.
+
+- **À tout moment**, quand il lance un sort ou engage un contre-sort, le mage peut **puiser** : il lance un ou plusieurs éphémères et les ajoute à l'action, après avoir vu ses dés de base. Les doubles se lisent sur tous les dés de l'action, double 1 compris.
+- Les dés puisés sont **épuisés** jusqu'à une nuit de repos complet.
+- Le DP permanent ne s'épuise jamais.
+
+C'est la règle qui limite les sorts puissants. Un mage débutant a 2 éphémères : deux coups de pouce par jour, ou un seul gros sort.
+
+**Exemple.** Une mage de l'Eau Calme veut renverser un groupe d'une vague (*Déplacement de l'eau*, 15+). Son DP permanent donne 6 : trop peu. Elle puise un éphémère : 6. Double 6 → 18, la vague passe. Il lui reste un éphémère pour la journée.
+
+### Les focus
+
+Un **focus** (bâton, pyramide-clef, encensoir, poinçon, mortier) canalise la magie. Il faut le tenir en main, et on n'en utilise qu'un à la fois.
+
+| Focus | Effet | Où le trouver |
+|---|---|---|
+| **Ordinaire** | +1 dé éphémère dans la réserve | dans l'équipement de départ de chaque tradition ([Armurerie](armurerie.md#les-packs-de-départ)) |
+| **De bonne facture** et au-delà | +1 DP **de base**, réservé aux sorts, comme le dé d'attaque d'une épée ; la facture suivante s'ajoute ensuite ([Échelle de puissance](echelle-de-puissance.md#facture--ce-qui-sajoute-à-la-base)) | en jeu : récompense, maître, commande à un artisan |
+
+::: dev
+**En test (2026-10-16).** La réserve remplace l'ancien modèle (éphémères lancés avec le pool, consommés pour la scène) et la règle d'épuisement, devenue inutile : la recharge à la nuit suffit à freiner le « tout ou rien ». Elle répond aussi à la question n° 4 de `CLAUDE.md` : les éphémères ne se distinguent plus à la table, ils se lancent à part.
 :::
 
 ### Résister
@@ -99,9 +139,35 @@ Chaque sort laisse une trace que les runistes et les théurges savent lire.
 
 - Un sort à **15+**, un sort **improvisé**, ou un **contrecoup**, se remarque : le Silence ou le Registre peut en entendre parler.
 - Dans un lieu protégé par des runes de dissipation (Palais de Justice d'Ewald, temples, bureaux du Registre), aucun sort ne prend en dessous de 15.
+- Là où une **Sirène** est postée, tout sort se remarque (voir ci-dessous).
 
 ::: dev
 La trace est le principal frein à la magie, et il est **politique** plutôt que mécanique : conforme au ton de la campagne. À tester : est-ce que ça suffit à empêcher le mage de tout résoudre hors combat ?
+:::
+
+### Les sens du Silence
+
+Le Silence entretient des ordres qui ont sacrifié un sens ou un membre pour gagner un pouvoir. Ce pouvoir ne se lance pas : **sans jet**, ce n'est pas un sort, c'est ce qu'ils sont devenus. Seul ce qu'ils imposent à autrui demande des dés.
+
+| Ordre | Privé de | Pouvoir |
+|---|---|---|
+| **Les Sirènes** | l'odorat | sentent toute magie lancée dans leur périmètre (un quai, une place, un bâtiment), même discrète et sous 15, et sa tradition |
+| *(à nommer)* | l'ouïe | sentent tout mouvement autour d'eux, même dans le noir ou derrière un mur |
+| *(à nommer)* | la vue | sentent les esprits présents et parlent par télépathie ; sonder les pensées : la cible oppose ses DP, comme à un sort d'esprit |
+| *(à nommer)* | les mains | télékinésie : saisir, porter, ouvrir à distance comme avec des mains ; contre une personne (désarmer, saisir, projeter), action en DP, la cible oppose sa garde, comme à un sort physique |
+| *(à nommer)* | les jambes | volent comme on marche ; leurs dés de mouvement servent dans les airs |
+
+**Le cri des Sirènes.** Une Sirène pose des DP en garde, comme pour un [contre-sort](#le-contre-sort), et crie au premier sort lancé dans son périmètre.
+- **Interrompre** : tout sort lancé dans le périmètre pendant ce round, et dont le total ne dépasse pas celui du cri, est annulé. Un seul cri touche tous les lanceurs.
+- **Ébranler** : chacun de ceux qui l'entendent oppose ses DP. En dessous du total du cri, il est ébranlé : au round suivant, il retire son dé le plus haut avant d'assigner.
+- Un sourd n'entend pas le cri.
+
+::: mj
+**Le palladium.** Chaque ordre porte une greffe de palladium, souvent à même la chair, à la place de ce qu'il a perdu. La greffe est forte : c'est le métal qui sent, saisit ou porte, et c'est pourquoi ses porteurs n'ont pas besoin de dés. Le Silence l'exploite dans la mine des Monts Spectraux et convoite la veine sous le Gouffre (voir `mj/timeline.md`, *Le Palladium et le Silence*). Proteo, qui sniffe la poudre, sent à son tour les membres du Silence : il emprunte, sans le savoir, le sens des Sirènes.
+:::
+
+::: dev
+**En test (2026-10-16), à revérifier par le MJ dans ses notes** : les cinq ordres, leurs privations et leurs noms. À la table, les noms étaient *Méduse*, *Basilic* et *Sirènes* ; le MJ trouve qu'ils ne collent pas au lore (créatures grecques dans une cité germanique). Piste : des noms allemands ironiques, comme le reste du vocabulaire de la ville (*Taufbecken*, *Sturmbrecher*) — chaque ordre nommé d'après ce qu'il a perdu et retrouvé par le métal : *Lauscher* (les sourds qui écoutent le mouvement), *Seher* (les aveugles qui voient les esprits), *Greifer* (les sans-mains qui saisissent), *Läufer* (les sans-jambes qui courent dans les airs). *Sirènes* peut rester le surnom populaire de l'ordre qui crie. La privation rejoint la piste « magie par privation » de `CLAUDE.md` : un interdit réel achète un pouvoir. Le cri reprend le contre-sort et le verbe miroir « dé le plus haut retiré avant assignation » ([Grammaire des dés](resolution-et-combat.md)).
 :::
 
 ---
@@ -110,10 +176,10 @@ La trace est le principal frein à la magie, et il est **politique** plutôt que
 
 Les pools ne se mélangent pas : une action est faite **soit** de DA, **soit** de DP. Dans un round, un personnage dispose des deux pools.
 
-- **Gardes** : on garde avec des DA. Un mage qui connaît un **sort de protection** (*Bouclier aqueux*, *Lien de serment*…) peut aussi poser des **DP en garde**. Ils parent comme des dés de garde, et les éphémères posés ainsi sont consommés.
-- **Actions** : les DP restants servent à lancer des sorts.
+- **Gardes** : on garde avec des DA. Un pratiquant peut aussi poser des **DP en garde**, comme un guerrier garde ses dés : contre la magie (le *contre-sort*, ci-dessous), ou contre les coups s'il connaît un **sort de protection** (*Bouclier aqueux*…). Il peut puiser dans sa réserve au moment de les engager.
+- **Actions** : les DP restants servent au sort du round (un seul, voir [Un sort par round](#un-sort-par-round)).
 
-Un mage sans sort de protection est fragile : il compte sur sa garde en DA (2 dés au départ), sa distance et ses alliés.
+Un mage sans sort de protection est fragile face aux lames : il compte sur sa garde en DA (2 dés au départ), sa distance et ses alliés.
 
 ::: dev
 **Problème n° 3 de `CLAUDE.md`.** Proposition retenue ici : *sorts défensifs qui dépensent du DP* (option A du handoff). Elle donne un vrai choix d'assignation — protéger ou frapper — et s'appuie sur des sorts qui existent déjà (*Bouclier aqueux*).
@@ -123,13 +189,13 @@ Un mage sans sort de protection est fragile : il compte sur sa garde en DA (2 d�
 
 ### Le contre-sort
 
-Un pratiquant qui connaît le **contre-sort** (sort d'archétype du Théurge du Silence) peut poser des DP en garde **contre la magie** pendant la phase des gardes.
+Tout **pratiquant** (un personnage qui a une tradition) peut poser des DP en garde **contre la magie** pendant la phase des gardes.
 
-- Quand un sort vise le théurge ou un allié qu'il voit, il engage tout ou partie de ces dés.
+- Quand un sort le vise, ou vise un allié qu'il voit, il engage tout ou partie de ces dés, et peut puiser dans sa réserve.
 - Si leur total (doubles compris) **égale ou dépasse** celui du sort, le sort est annulé. L'égalité va au contre-sort, comme à tout défenseur.
-- Les dés engagés sont dépensés, réussite ou non. Les éphémères sont consommés.
+- Les dés de garde engagés sont dépensés, réussite ou non. Les éphémères puisés sont épuisés jusqu'à la nuit.
 
-Le contre-sort ne pare pas les coups : des DP posés contre la magie ne servent à rien contre une lame. C'est le choix d'assignation du théurge.
+Le contre-sort ne pare pas les coups : des DP posés contre la magie ne servent à rien contre une lame. C'est le choix d'assignation du mage.
 
 ---
 
@@ -138,7 +204,7 @@ Le contre-sort ne pare pas les coups : des DP posés contre la magie ne servent 
 | Source | Effet |
 |---|---|
 | Archétype de tradition | 3 sorts d'archétype dès la création |
-| Entrer dans une tradition en jeu | **4 XP** (compétence majeure de tradition) : le dé éphémère et 1 sort d'archétype |
+| Entrer dans une tradition en jeu | **4 XP** (compétence majeure de tradition) : le dé éphémère de réserve et 1 sort d'archétype |
 | XP | 1 nouveau sort de sa tradition : **4 XP** |
 | Grimoire trouvé | +1 DP permanent, et souvent un sort |
 | Parchemin | lancer un sort une fois, sans le connaître |

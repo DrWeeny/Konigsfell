@@ -44,13 +44,13 @@ Pas de circonstance, pas de compétence ; et une mineure ne doit pas servir dans
 |---|---|---|
 | **Dés d'Action (DA)** — corps, combat, mouvement | **2 DA libres** : attaque, garde ou mouvement, au choix | +1 si *Endurci* ; les dés d'équipement, spécialisés (arme : attaque ; bouclier : garde ; tenue légère : mouvement) |
 | **Dés de Compétence (DC)** — savoir, social, artisanat | **1** | +1 dé quand une compétence majeure s'applique ; +1 avec un outil de guilde |
-| **Dés de Pouvoir (DP)** — volonté, magie | **1 permanent** (tout le monde) | +1 dé **éphémère** par tradition |
+| **Dés de Pouvoir (DP)** — volonté, magie | **1 permanent** (tout le monde) | une **réserve** de dés éphémères : +1 par tradition, +1 avec un [focus](magie.md#les-focus) tenu en main |
 
 Le fonctionnement des pools est expliqué dans [Jets de dés](jets-de-des.md).
 
 ### 5. Les points de vie
 
-**8 PV**, +3 avec *Endurci*. À 0 PV, le personnage est hors combat ; à −4, il meurt sans soins.
+**8 PV**, +3 avec *Endurci*. À 0 PV, le personnage est hors de combat, et celui qui porte le coup décisif choisit l'issue : la capture, une **blessure grave** (une séquelle durable, −1 dé) ou la mort.
 
 Un personnage sans armure est vulnérable, et c'est voulu. Les soins sont lents (1d6 par jour de repos complet) et la magie de soin est un tabou : voir [Points de vie et soins](resolution-et-combat.md#points-de-vie-et-soins).
 
@@ -60,7 +60,7 @@ Un personnage sans armure est vulnérable, et c'est voulu. Les soins sont lents 
 
 ### 6. L'équipement
 
-Prenez le **pack** que suggère votre archétype (ou un autre) et ajoutez **un objet personnel**. Voir l'[Armurerie](armurerie.md#les-packs-de-départ).
+Prenez le **pack** que suggère votre archétype (ou un autre) et ajoutez **un objet personnel**. Un personnage de tradition a aussi le **focus** de sa tradition. Voir l'[Armurerie](armurerie.md#les-packs-de-départ).
 
 ### 7. Deux repères secrets
 
@@ -137,17 +137,17 @@ Le détail (capacités, sorts, statut, interdits) est dans [Archétypes](archety
 **2. Archétype : Runiste du Registre.**
 - *Tradition runique* : +1 dé éphémère ; sorts *Rune d'alarme*, *Rune de dissipation*, *Lecture runique*.
 - Compétence majeure : *Serrurerie*.
-- Capacité : la magie préparée. Avec un seul dé éphémère, elle n'a qu'**une** rune active à la fois.
+- Capacité : la magie préparée. Avec deux dés éphémères (tradition et poinçon), elle a **deux** runes actives à la fois. En ce moment : une *Rune d'alarme* à 10+ sur la porte de l'atelier, gravée en une heure avec deux dés.
 
 **3. Compétences mineures (rang 1).**
 - *Je repère les poinçons falsifiés.*
 - *Je me faufile dans les combles et les charpentes.*
 
-**4. Pools.** DA 2 (+1 dé d'attaque avec son marteau) · DC 1 · DP 1 permanent + 1 éphémère.
+**4. Pools.** DA 2 (+1 dé d'attaque avec son marteau) · DC 1 · DP 1 permanent + 2 éphémères (tradition, poinçon). L'alarme en retient un : en scène, elle lance son DP permanent et peut puiser le dernier éphémère.
 
 **5. PV.** 8.
 
-**6. Équipement : pack Artisan.** Marteau (+1 dé d'attaque), tablier de cuir (armure −1), outil : *loupe et burins* (+1 DC pour expertiser un objet), carnet de plans, licence du Registre. Objet personnel : le premier poinçon de son maître, qu'elle n'a jamais rendu.
+**6. Équipement : pack Artisan.** Marteau (+1 dé d'attaque), tablier de cuir (armure −1), outil : *loupe et burins* (+1 DC pour expertiser un objet), carnet de plans, licence du Registre. Focus : son poinçon, déposé au Registre (+1 dé éphémère). Objet personnel : le premier poinçon de son maître, qu'elle n'a jamais rendu.
 
 **7. Repères secrets.**
 - Pour payer une dette, elle a gravé **sans poinçon** une rune de scellement dont elle ignore l'usage.

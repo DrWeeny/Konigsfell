@@ -20,11 +20,11 @@
 | Dés d'équipement | ☐ attaque ☐ garde ☐ mouvement | arme, bouclier, tenue légère |
 | **Dés de Compétence (DC)** | ☐ ☐ ☐ ☐ ☐ | 1 de base |
 | Dés payés | épuisés : ☐ ☐ · à crédit (1 au prochain jet) : ☐ | jusqu'à la nuit / jusqu'au prochain jet |
-| **Dés de Pouvoir (DP)** | ☐ permanent · ☐ ☐ ☐ éphémères | éphémères : cocher quand ils sont engagés |
+| **Dés de Pouvoir (DP)** | ☐ permanent · ☐ ☐ ☐ éphémères | réserve (tradition, focus…) : cocher quand ils sont puisés (jusqu'à la nuit) ou retenus par une rune, une fiole |
 
 ## Points de vie
 
-| PV max | PV actuels | Blessure grave (−1 dé) | Armure |
+| PV max | PV actuels | Blessure grave (séquelle, −1 dé : pool touché) | Armure |
 |---|---|---|---|
 | | | ☐ | −… |
 

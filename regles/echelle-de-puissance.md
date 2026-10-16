@@ -71,7 +71,7 @@ L'équipement ordinaire, c'est le point de départ de tout le monde. On ne le ch
 | Armure | Réduit les dommages subis |
 | Bouclier | +1 dé de défense (DA) |
 | Tenue d'assassin, tenue légère | +1 dé de mouvement (DA) |
-| Bâton, focus | +1 DP pour canaliser un sort |
+| Bâton, focus | +1 dé éphémère dans la réserve (voir [Les focus](magie.md#les-focus)) |
 | Outil de guilde | +1 DC sur une action spécialisée (définie à l'achat) |
 
 ### Facture : ce qui s'ajoute à la base
@@ -84,6 +84,8 @@ L'équipement ordinaire, c'est le point de départ de tout le monde. On ne le ch
 | Magique | Fort | +1 par dé d'attaque, ou un effet propre (feu, lumière, frappe les esprits) |
 | Exceptionnelle | Exceptionnel | Un deuxième dé d'attaque |
 | Légendaire | Relique | +2 par dé, ou ×2 sur le meilleur dé une fois par scène |
+
+**Un focus** suit la même échelle, avec une marche de plus : de **bonne facture**, son dé devient **permanent** (réservé aux sorts, comme le dé d'une épée). La facture suivante s'ajoute ensuite comme sur une arme (œuvre de maître : +2 au total du sort ou une relance, etc.).
 
 **Exemple de répartition avec une épée +2 au total :** 4, 6, 8, 4. Mouvement 6, attaque 8, attaque 4/4.
 - Le +2 va sur une seule attaque : 8+2 = **10**, ou la paire 4/4 : **14 pour toucher** (4+4, double +4, épée +2), mais **10 de dégâts** (4+4, épée +2).

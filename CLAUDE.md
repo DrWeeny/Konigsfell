@@ -59,7 +59,9 @@ Quand une décision change : ajouter une entrée datée dans `dev/journal.md`, p
 - **acté** — Les dés se combinent en actions. Ordre : on assigne, on relance, on lit les doubles sur les **faces naturelles**, puis on ajoute les bonus (une fois par action). Grammaire des dés : 6 verbes (`resolution-et-combat.md`).
 - **en test** — **Doubles** : V × 3 *pour réussir uniquement* ; dégâts = somme brute + bonus d'objet et de compétence ; double 10 = critique narratif qui ignore l'armure ; pas de triple.
 - **acté** — **Pool de départ** : 2 DA **libres** (attaque, garde ou mouvement) ; seuls les dés d'équipement sont spécialisés.
-- **en test** — **PV** : 8 au départ, +3 avec *Endurci*, pas de progression par niveau ; soins lents (1d6/jour) ; soin magique tabou. Blessure grave = −1 dé. Si la table tombe en un coup, monter les PV à 10–12 ou l'armure.
+- **en test** — **PV** : 8 au départ, +3 avec *Endurci*, pas de progression par niveau ; soins lents (1d6/jour) ; soin magique tabou. Si la table tombe en un coup, monter les PV à 10–12 ou l'armure.
+- **acté** — **À 0 PV, hors de combat** ; celui qui porte le coup décisif choisit l'issue : capture, **blessure grave** (séquelle durable, un membre perdu : −1 dé dans le pool touché) ou mort. Plus de seuil de mort à −4.
+- **acté** — **Les armes sont des « skins »** : toutes donnent +1 dé d'attaque, les mots-clés et le port légal font la différence. **Tirs** : un tir s'esquive (DA libres, dés de mouvement ; bouclier si l'on fait face) ; au contact, une arme à distance ne donne pas son dé ; les armes à feu divisent l'armure par deux.
 - **en test** — **Pas de caractéristiques.** Compétences **majeures** (liste d'archétype, +1 dé) et **mineures** (*geste + circonstance*, rangs +1 / +2 / +2 et relance ; rang 1 gagné en jouant) ; une seule par jet (`competences.md`).
 - **en test** — **Échelle de puissance** : Léger, Notable, Fort, Exceptionnel, Relique (`echelle-de-puissance.md`). *Majeure / mineure* est réservé aux compétences.
 - **en test** — **Payer un dé** : comptant (épuisé jusqu'à une nuit) ou à crédit (posé sur 1 au prochain jet). Payer ≠ dépenser.
@@ -72,9 +74,13 @@ Quand une décision change : ajouter une entrée datée dans `dev/journal.md`, p
 
 - **en test** — 1 DP permanent pour tous ; on devient pratiquant par une **tradition** (Eau Calme, Théurgie du Silence, funéraire akkadienne, Runistes, Alchimie). Arts proscrits : nécromancie, soin, peausserie, contrôle mental.
 - **en test** — **La formule écrit, les paliers lancent** : verbe + portée (espace ou temps) + durée + cibles + effet − restrictions, arrondi au seuil supérieur. Improviser = un seuil de plus et toujours une trace.
-- **en test** — Les **éphémères** sont consommés dès qu'on les engage et reviennent à la scène suivante ; les engager tous = un dé épuisé jusqu'à la nuit. La magie préparée (runes, préparations du Physicus) retient un éphémère par effet actif.
+- **acté** — **Un sort par round**, avec les DP de base qu'on veut ; les dés restants ne font pas un second sort. Poser des DP en garde ne compte pas comme le sort du round (en test).
+- **acté** — **Les éphémères sont une réserve** (la fatigue du mage), pas lancés avec le pool : à tout moment, après avoir vu ses dés de base, on y puise pour renforcer un sort ou un contre-sort ; les dés puisés sont épuisés jusqu'à une **nuit** de repos. Plus de règle d'épuisement.
+- **en test** — **Focus** : ordinaire = +1 éphémère dans la réserve, dans l'équipement de départ de chaque tradition ; de bonne facture (gagné en jeu) = +1 DP de base réservé aux sorts, comme le dé d'une épée. Un mage débutant : 1 DP permanent + 2 éphémères.
+- **en test** — **Magie préparée** (runes, fioles du Physicus) : au calme, sans jet, palier = 5 par DP engagé, contre du temps (minutes → nuit) ; chaque effet actif retient un éphémère. L'avantage du runiste, c'est la fiabilité.
+- **en test** — Les 15 sorts et préparations de départ ont leurs paliers chiffrés par la formule (`archetypes.md`).
 - **en test** — Résistance : sort physique → garde ; sort sur l'esprit → DP. Double 1 = contrecoup. **Trace** (sort à 15+, improvisation, contrecoup) : un frein politique.
-- **acté** — **Garde magique ouverte à tous** ; **contre-sort** du Théurge = DP en garde, total ≥ sort → sort annulé.
+- **acté** — **Garde magique ouverte à tous.** **Contre-sort ouvert à tout pratiquant**, à égalité : DP en garde contre la magie, total ≥ sort → sort annulé. Le Théurge reçoit à la place *Arrestation*, un sort d'immobilisation borné par la sommation (en test). **Les sens du Silence** (en test, à revérifier) : des ordres privés d'un sens perçoivent sans jet ; les **Sirènes** (privées d'odorat, modifiées au palladium) sentent la magie, et leur cri interrompt les sorts et ébranle ; quatre autres ordres, noms à trouver (sourds : le mouvement ; aveugles : les esprits, télépathie ; sans mains : télékinésie ; sans jambes : vol). Greffe de palladium à la place du sens ou du membre perdu. Anciens noms de table (*Méduse*, *Basilic*) jugés hors lore.
 - **en test** — Théurge du Silence, Physicus, Runiste du Registre écrits (`archetypes.md`). Piste **magie par privation** (interdit personnel = prix réel).
 
 ### Canon tranché (détail et sources : `dev/journal.md`, `mj/timeline.md`)
@@ -104,9 +110,10 @@ Quand une décision change : ajouter une entrée datée dans `dev/journal.md`, p
 1. ~~Archétypes au format court~~ → les dix sont au même format dans `archetypes.md` (2026-10-15). Dé de Mouvement et « payer un dé » tranchés le 2026-10-15.
 2. **Combat du mage** : proposition dans `regles/magie.md` — valider en playtest.
 3. Sorts physiques : les dégâts magiques ignorent-ils certaines armures (la plaque contre l'eau ?) — pour l'instant non.
-4. **Dés éphémères à la table** : comment les distinguer (couleur) quand ils sont lancés avec le DP permanent — et le joueur choisit-il lesquels engager ?
+4. ~~Dés éphémères à la table~~ → tranché : ils forment une réserve lancée à part (2026-10-16).
 5. ~~Bonus plats vs dés bonus~~ → tranché par les compétences : majeure = +1 dé, mineure = bonus plat (2026-10-15).
 6. Équilibrage restant (handoff §2) : +1 d'initiative qui grandit avec le pool, inflation des doubles à gros pool, duels qui s'enlisent, boss contre 5–7 PJ, égalité d'initiative, compétences en combat.
+7. ~~Eau Calme, Émissaire, armes à distance, capacité du Théurge~~ → tranchés le 2026-10-16.
 
 ## Chantiers à venir
 

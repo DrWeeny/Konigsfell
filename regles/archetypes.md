@@ -18,7 +18,7 @@ Chaque archétype donne **deux avantages de départ**, une **capacité** et un *
 
 Un archétype mondain prend **deux compétences majeures** dans sa liste. Un archétype de tradition ou martial a son premier avantage imposé, et prend **une** compétence majeure dans sa liste.
 
-Le dé éphémère de la tradition fait partie du pool DP : il ne compte pas comme « la » compétence du jet, et une compétence mineure peut s'y ajouter.
+Le dé éphémère de la tradition rejoint la réserve de DP ([Magie](magie.md#la-réserve--les-dés-éphémères)) : il ne compte pas comme « la » compétence du jet, et une compétence mineure peut s'y ajouter.
 
 Avec l'accord du MJ, une compétence majeure peut être empruntée à un autre archétype ou remplacée par un domaine proche.
 
@@ -81,7 +81,7 @@ Les packs sont décrits dans l'[Armurerie](armurerie.md).
 - Fortifications et sièges
 - Armes et équipement
 
-**Capacité — Vieux cuir :** une fois par session, peut convertir une blessure mortelle en blessure grave en [payant 1 DA](jets-de-des.md#payer-un-dé) avant la résolution.
+**Capacité — Vieux cuir :** une fois par session, quand l'issue choisie contre lui est la mort, peut [payer 1 DA](jets-de-des.md#payer-un-dé) pour en faire une [blessure grave](resolution-et-combat.md#points-de-vie-et-soins).
 
 **Pack suggéré :** Militaire.
 
@@ -147,7 +147,7 @@ Les packs sont décrits dans l'[Armurerie](armurerie.md).
 - Manipulation
 - Négociation
 
-**Capacité — Connexion noble :** une fois par scène, peut déclarer une connexion noble : une porte politique s'ouvre, un personnage devient accessible.
+**Capacité — Connexion noble :** peut [payer 1 DC](jets-de-des.md#payer-un-dé) pour déclarer une connexion noble : une porte politique s'ouvre, un personnage devient accessible.
 
 **Pack suggéré :** Courtisan.
 
@@ -157,7 +157,9 @@ Les packs sont décrits dans l'[Armurerie](armurerie.md).
 
 ## Archétypes de tradition
 
-Tous commencent avec **1 DP permanent + 1 dé éphémère** (celui de la tradition). Les règles de lancement sont dans [Magie](magie.md).
+Tous commencent avec **1 DP permanent** et une **réserve de 2 dés éphémères** : celui de la tradition et celui du **focus** de leur pack. Ils y puisent pour renforcer un sort ; les dés puisés reviennent après une nuit. Un seul sort par round. Les règles de lancement sont dans [Magie](magie.md).
+
+Les paliers des sorts sont calculés avec la [formule](magie.md#écrire-un-sort--la-formule) ; le calcul est donné en italique. Les effets sur les dés se lisent sur l'[Échelle de puissance](echelle-de-puissance.md#les-paliers) (Léger, Notable, Fort…).
 
 ## Mage-Protecteur de l'Eau Calme
 
@@ -175,10 +177,23 @@ Tous commencent avec **1 DP permanent + 1 dé éphémère** (celui de la traditi
 - Infrastructure hydraulique
 - Canaux de Königsfell
 
+**Capacité — Prendre le bassin :** il manœuvre seul les [Taufbecken](../univers/glossaire.md), sans le cercle de mages de l'autre rive. Il ouvre un bassin vers n'importe quel autre, voit et parle à travers, le traverse avec ses compagnons sans laisser leurs effets derrière eux, ou le ferme derrière lui. Hors du réseau des bassins, pas de téléportation. Les moines des Taufbecken savent toujours qu'un passage a eu lieu.
+
 **Sorts d'archétype :**
-- **Déplacement de l'eau** (manipulation simple, usage utilitaire)
-- **Bouclier aqueux** (protection ; permet de poser des DP en garde)
-- **Surface de glace** (contrôle du terrain, pont temporaire)
+
+**Déplacement de l'eau** — *objet-lieu ; physique s'il vise quelqu'un*
+- **3+** : au contact, déplacer quelques seaux d'eau : éteindre un feu, vider une barque, écarter une flaque. *(Altérer 5 − eau présente 5 → 3)*
+- **5+** : la même chose à vue. *(+ vue 5)*
+- **10+** : à vue, jusqu'à la fin de la scène : un passage sec dans un canal, un courant détourné. *(+ scène 5)*
+- **15+** : une vague renverse un groupe à vue ; chaque cible subit −2 au total de sa prochaine action (Notable). *(Altérer 5 + vue 5 + groupe 5 + Notable 5 − eau 5)*
+
+**Bouclier aqueux** — *protection, physique* : permet de poser des DP en garde. Paliers dans [Magie](magie.md#exemples).
+
+**Surface de glace** — *objet-lieu*
+- **3+** : au contact, une eau ou un sol mouillé gèle le temps d'un pas. *(Altérer 5 − eau 5 → 3)*
+- **5+** : un pont de glace porte une personne jusqu'à la fin de la scène. *(+ scène 5)*
+- **10+** : le pont porte un groupe. *(+ groupe 5)*
+- **15+** : le mage touche le sol mouillé et gèle la ruelle ou la pièce pour la scène : quiconque s'y déplace subit −2 au total de ses actions de mouvement (Notable). *(Altérer 5 + scène 5 + groupe 5 + Notable 5 − eau 5)*
 
 **Sorts de progression suggérés :** jet d'eau pressurisé, brume dense, respiration aquatique, marche sur l'eau, prison de glace, vague dévastatrice.
 
@@ -207,9 +222,18 @@ Tous commencent avec **1 DP permanent + 1 dé éphémère** (celui de la traditi
 **Capacité — Rituel de l'âme :** peut convertir des PV permanents en XP (1 pour 1), avec l'accord du MJ.
 
 **Sorts d'archétype :**
-- **Murmure des défunts** (questions brèves à un mort ; voir [Magie](magie.md#exemples))
-- **Préservation funéraire** (ralentit la décomposition)
-- **Lecture de la mort** (circonstances du décès, aura déclinante d'un mourant)
+
+**Murmure des défunts** — *esprit* : questions brèves à un mort. Paliers dans [Magie](magie.md#exemples).
+
+**Préservation funéraire** — *objet (un corps)*
+- **5+** : au contact, après un rite d'une heure, un corps cesse de se décomposer jusqu'à la fin de la scène ; ses blessures et ses poisons restent lisibles. *(Altérer 5 + scène 5 − rite 5)*
+- **10+** : jusqu'à ses funérailles. *(Altérer 5 + permanent 10 − rite 5)*
+- **15+** : tous les corps d'une fosse, d'un charnier ou d'une crypte, jusqu'à leurs funérailles. *(+ groupe 5)*
+
+**Lecture de la mort** — *esprit*
+- **3+** : au contact d'un mort de moins d'un jour : depuis quand, de quoi (violence, poison, maladie), et l'instant de sa mort comme un souvenir bref. Sur un mourant : le temps qu'il lui reste. *(Percevoir 3)*
+- **10+** : un mort de moins d'un mois. *(+ un mois 5 → 8, arrondi à 10)*
+- **15+** : un mort de moins d'un an. *(+ un an 10 → 13, arrondi à 15)*
 
 **Sorts de progression suggérés :** présence apaisante, lien familial onirique, mémoire rémanente, convocation brève.
 
@@ -237,16 +261,29 @@ Tous commencent avec **1 DP permanent + 1 dé éphémère** (celui de la traditi
 - Architecture
 - Procédures du Registre
 
-**Capacité — La magie préparée :**
-- Le runiste ne lance pas ses sorts : il les **grave**. Graver une rune est une action DP faite au calme (entre les scènes, ou dans une scène sans pression). Le total atteint fixe le palier de la rune.
+**Capacité — La magie préparée** (voir [Magie](magie.md#la-magie-préparée)) :
+- Le runiste ne lance pas ses sorts : il les **grave**, au calme et **sans jet**. Le palier vaut 5 par DP engagé (2 dés → 10+, 3 dés → 15+). Il y faut quelques minutes, une heure ou une nuit selon le palier. Son avantage, c'est la fiabilité : il prend le temps, et la rune marche.
 - La rune garde ce palier jusqu'à ce qu'elle se **déclenche** (une fois) ou soit effacée.
-- Chaque rune active **retient un dé éphémère** : il ne revient pas à la scène suivante tant que la rune existe. Le DP permanent ne peut pas être retenu. Au départ, un runiste a donc **une** rune active à la fois.
+- Chaque rune active **retient un dé éphémère** : il ne revient pas avec la nuit tant que la rune existe. Le DP permanent ne peut pas être retenu. Au départ (tradition et poinçon), un runiste a donc **deux** runes actives à la fois.
 - Une rune est un objet du décor : elle se voit, se lit, s'efface, et sert de preuve.
+- *Lecture runique* ne se grave pas : elle se lance comme un sort ordinaire.
 
 **Sorts d'archétype :**
-- **Rune d'alarme** (prévient le runiste quand on la franchit ; à 10+, il sait qui)
-- **Rune de dissipation** (dans la pièce, les sorts sous le palier de la rune ne prennent pas)
-- **Lecture runique** (identifier un artefact, lire la trace d'un sort récent et son palier)
+
+**Rune d'alarme** — *objet-lieu, signée*
+- **3+** : la rune change de couleur quand on la franchit : en revenant, le runiste sait que quelqu'un est passé. *(Percevoir 3)*
+- **10+** : le runiste le sent sur le moment, s'il est dans le même bâtiment. *(+ vue 5 → 8, arrondi à 10)*
+- **15+** : il le sent où qu'il soit dans la cité, et voit qui l'a franchie. *(+ hors de vue 10 → 13, arrondi à 15)*
+
+**Rune de dissipation** — *objet-lieu, signée*. Le palier de la rune est celui qu'elle bloque : les sorts **sous** ce palier ne prennent pas.
+- **5+** : sur un objet (une porte, un coffre, un bijou). *(Altérer 5)*
+- **10+** : sur une pièce. *(+ groupe 5)*
+- **15+** et au-delà : une pièce qui bloque plus haut, comme au Palais de Justice d'Ewald.
+
+**Lecture runique** — *objet ; se lance, ne se grave pas*
+- **3+** : au contact : l'objet est-il magique ? Lire une rune et le poinçon qui l'a gravée ; lire la trace d'un sort de moins d'un jour (tradition et palier). *(Percevoir 3)*
+- **10+** : une trace de moins d'un mois. *(+ un mois 5 → 8, arrondi à 10)*
+- **Identifier un artefact** demande le palier de sa puissance : Léger 5+, Notable ou Fort 10+, Exceptionnel 15+, Relique 25+.
 
 **Sorts de progression suggérés :**
 - Rune de scellement (une porte ou un coffre ne s'ouvre qu'en battant le palier de la rune)
@@ -280,15 +317,32 @@ Tous commencent avec **1 DP permanent + 1 dé éphémère** (celui de la traditi
 - Interrogatoire
 - Hérésies et sacrilèges
 
-**Capacité — Contre-sort :**
-- Pendant la phase des gardes, le théurge peut poser des DP en garde **contre la magie**.
-- Quand un sort le vise, ou vise un allié qu'il voit, il engage tout ou partie de ces dés. Si leur total (doubles compris) égale ou dépasse celui du sort, le sort est annulé ; l'égalité va au contre-sort.
-- Les dés engagés sont dépensés. Des DP posés contre la magie ne parent pas les lames. Voir [Magie](magie.md#le-contre-sort).
+**Capacité — Arrestation :** le théurge connaît un sort de plus, *Arrestation*, en dehors de ses trois sorts d'archétype. C'est le geste de l'inquisition : sommer quelqu'un, au nom de l'Empereur, de ne plus bouger. Comme tout pratiquant, il peut aussi [contrer un sort](magie.md#le-contre-sort).
+
+**Arrestation** — *esprit ; la cible oppose ses DP ; visible*
+- **Sommation** : la cible doit entendre et comprendre l'ordre. Un sourd, ou quelqu'un qui ne parle pas la langue, n'est pas touché. *(circonstance −5, comprise dans chaque palier)*
+- **5+** : au contact, la cible ne peut plus se déplacer jusqu'à la fin du round suivant ; elle peut encore frapper et garder. *(Contrôler 10 − sommation 5)*
+- **10+** : à vue. *(Contrôler 10 + vue 5 − sommation 5)*
+- **15+** : à vue, jusqu'à la fin de la scène. Au début de chaque round, la cible peut engager ses DP pour se libérer : si leur total égale ou dépasse celui du sort, elle est libre. *(Contrôler 10 + vue 5 + scène 5 − sommation 5)*
+- **25+** : la cible est figée : ni bouger ni frapper, elle ne peut plus que garder. *(+ effet Fort 5 → 20, arrondi à 25)*
+
+::: dev
+**En test (2026-10-16).** Le contre-sort étant ouvert à tout pratiquant, le théurge avait perdu sa capacité. Le MJ : *« l'inquisition arrête souvent des gens »*. *Arrestation* en fait un sort de métier, borné par la sommation : on arrête au grand jour, jamais en cachette. *Oreille du Silence* (percevoir toute magie) est passée aux [Sirènes](magie.md#les-sens-du-silence).
+:::
 
 **Sorts d'archétype :**
-- **Détection du sacrilège** (sentir la magie proscrite et sa trace ; à 10+, en reconnaître la tradition)
-- **Lien de serment** (10+ : lier deux personnes consentantes par une promesse — voir [Magie](magie.md#exemples))
-- **Flamme purificatrice** (physique : brûle la souillure, chasse les morts relevés ; à 10+, inflige les dégâts de l'action)
+
+**Détection du sacrilège** — *esprit ou lieu ; une personne qui se sait sondée oppose ses DP*
+- **3+** : au contact, sentir si une personne, un objet ou un lieu a touché un art proscrit dans la journée. *(Percevoir 3)*
+- **10+** : dans toute la pièce, ou une trace de moins d'un mois ; le théurge en reconnaît la tradition. *(+ vue ou un mois 5 → 8, arrondi à 10)*
+- **15+** : une trace de moins d'un an. *(+ un an 10 → 13, arrondi à 15)*
+
+**Lien de serment** — *esprit, signé* : lier deux personnes consentantes par une promesse (10+). Paliers dans [Magie](magie.md#exemples).
+
+**Flamme purificatrice** — *physique*
+- **5+** : au contact, brûle une souillure : purifie un objet ou un lieu profané. *(Altérer 5)*
+- **10+** : à vue, inflige les dégâts de l'action, comme une attaque à distance. *(Altérer 5 + vue 5)*
+- **15+** : à vue, frappe tout un groupe de morts relevés ou de créatures souillées. *(+ groupe 5)*
 
 **Sorts de progression suggérés :**
 - Silence (une pièce où aucune parole ne porte — ni prière, ni incantation)
@@ -328,20 +382,32 @@ Tous commencent avec **1 DP permanent + 1 dé éphémère** (celui de la traditi
 
 **Capacité — Les préparations :**
 - **Préparations ordinaires** (remèdes de plantes, antidotes courants, fumigènes) : action DC faite entre les scènes. Ni magie, ni trace.
-- **Préparations alchimiques** (fioles, élixirs, poudres) : action DP faite au calme. Le total atteint fixe le palier de la préparation. Chaque préparation alchimique en réserve **retient un dé éphémère** jusqu'à ce qu'elle soit utilisée — comme les runes du runiste.
+- **Préparations alchimiques** (fioles, élixirs, poudres) : [magie préparée](magie.md#la-magie-préparée), comme les runes. Au calme et sans jet, le palier vaut 5 par DP engagé. Chaque préparation en réserve **retient un dé éphémère** jusqu'à ce qu'elle soit utilisée : au départ (tradition et mortier), deux préparations en réserve.
 - **Officine** : avec une planque apothicaire, une ressource de soin par session (1 PV rendu, ou un mourant stabilisé).
 - **Chirurgie** : soigner un blessé après le combat — 5+ stabilise un mourant, 10+ ajoute 1 PV à sa prochaine journée de repos.
 
 **Préparations d'archétype :**
-- **Analyse** (identifier un poison, une drogue, une substance ; à 10+, sa provenance)
-- **Antidote** (neutralise un poison connu ; un poison inconnu exige un palier égal à celui du poison)
-- **Fiole fumigène** (couvre une fuite : 1 dé de mouvement supplémentaire pour fuir)
+
+**Analyse** — *se fait sur place, au calme ; ne se garde pas en réserve*
+- **3+** : sur un échantillon, identifier une substance courante : poison, drogue, remède. *(Percevoir 3)*
+- **10+** : sa provenance (officine, région, recette), ou un échantillon vieux de plus d'un jour. *(+ un mois 5 → 8, arrondi à 10)*
+- Une substance magique ou rare demande le palier de sa puissance, comme un artefact (Léger 5+, Notable ou Fort 10+…).
+
+**Antidote** — *une fiole*
+- **5+** : neutralise un poison courant chez celui qui le boit. Ne rend aucun PV. *(Altérer 5)*
+- **10+** : assez pour un groupe (un repas empoisonné, une maisonnée). *(+ groupe 5)*
+- Un poison inconnu ou magique exige un palier égal au sien.
+
+**Fiole fumigène** — *objet-lieu*
+- **5+** : brisée, elle emplit une pièce ou une ruelle jusqu'à la fin du round suivant : on n'y tire pas, on n'y vise personne au-delà du contact. *(Altérer 5)*
+- **10+** : celui qui la brise gagne aussi +2 au total pour fuir ou se cacher (Notable). *(+ Notable 5)*
+- **15+** : tout son groupe en profite. *(+ groupe 5)*
 
 **Préparations de progression suggérées :**
 - Fiole incendiaire (attaque à distance, dégâts de la préparation)
 - Verre noir (+1 dé pour un sort de perception — verbe *dé supplémentaire*)
 - Élixir de vigueur (+1 DA pour une scène, puis −1 dé à la suivante)
-- Sel de veille (ignorer le sommeil une nuit, sans perdre ses dés éphémères)
+- Sel de veille (ignorer le sommeil une nuit ; la réserve d'éphémères se remplit quand même)
 - Teinture de rémanence (révèle les traces de sang et de magie récentes)
 - Onguent de préservation (ralentit la décomposition — recette d'origine akkadienne, suspecte)
 

@@ -1,4 +1,8 @@
-# CLAUDE.md — Königsfell
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+# Königsfell
 
 Contexte de travail pour Claude + **journal de conception** (garder la trace des décisions et de leur raison).
 Les conventions générales du projet sont dans [.github/copilot-instructions.md](.github/copilot-instructions.md) — ce fichier ne les répète pas.
@@ -19,11 +23,21 @@ Les conventions générales du projet sont dans [.github/copilot-instructions.md
 - `prive/` — **ignoré par git** : ressources de travail non publiables (notes Google Drive converties dans `prive/notes-drive/`, fiches écrites par les joueurs). On s'en sert comme source ; ce qui devient contenu de manuel est réécrit dans le dépôt.
 - `dev/sessions/` — **ignoré par git** : résumés des sessions jouées (2020–2021, D&D 5e), noms des personnages uniquement, jamais ceux des joueurs. `dev/sessions/noms.md` = orthographe de référence. Tout ce qui vient des joueurs ou sert seulement de référence pour écrire les livres reste local ; les manuels peuvent en tirer des **exemples de jeu** réécrits (« à la table, un groupe a… »).
 - Transcripts et audio : hors dépôt, `D:\dw_workspace\Konigsfell_Episodes\` (`outils/transcrire.py`).
+- **Documents de référence, pas canon** : `mj/timeline-claude-sync.md` sert à fusionner peu à peu dans `mj/timeline.md`, qui fait foi. `scenarios/01-meurtre-compagnon.md` propose des variantes optionnelles de `01-meurtre.md` sans en changer le canon.
+
+## Publication et outils
+
+- **Pas de build, de lint ni de tests** : le dépôt n'est que du Markdown. GitHub Pages (`.nojekyll`) sert `index.html` et `univers/index.html` tels quels ; ils renvoient vers les `.md` bruts. Le script Pandoc qui doit générer les deux manuels n'existe pas encore (voir Chantiers).
+- `outils/transcrire.py` (WhisperX ; le mode `mix` demande `HF_TOKEN` pour pyannote) :
+  `python outils/transcrire.py pistes "<dossier Craig>" -o <sortie>` (une piste par joueur) ou
+  `python outils/transcrire.py mix "<fichier>" -o <sortie> --arc purge` (voix mélangées).
+  Les noms soufflés à Whisper suivent `dev/sessions/noms.md`. Les sorties restent hors du dépôt.
+- `README.md` et la structure de `.github/copilot-instructions.md` sont en retard (pas de `blocs/`, ni de `competences.md`, `armurerie.md`…) : se fier à l'arborescence réelle.
 
 ## Canon à ne pas « corriger »
 
 - **11 Comtes de la Croisade**, dont **Kette (= Überlieben)**, considéré comme mort → **10 Comtes** gouvernent aujourd'hui. Les deux chiffres sont justes selon le contexte.
-- L'utilisateur tape ses **prompts** sans accents (clavier US) : **tous les documents** du dépôt s'écrivent avec accents et graphies canoniques — `Königsfell`, `Göre`, `Überlieben`, `Erlöser`. Seuls les noms de fichiers restent en ASCII.
+- L'utilisateur tape ses **prompts** sans accents (clavier US) : **tous les documents** du dépôt s'écrivent avec accents et graphies canoniques — `Königsfell`, `Göre`, `Überlieben`, `Erlöser`. Seuls les noms de fichiers restent en ASCII. Cette règle prime sur `copilot-instructions.md`, qui tolère les brouillons sans accents.
 
 ## Règles : principe directeur
 

@@ -72,6 +72,8 @@ Quand une décision change : ajouter une entrée datée dans `dev/journal.md`, p
 - **en test** — **Premier playtest préparé** : aide de jeu d'une page (`regles/aide-de-jeu.md`), scène de test avec grille d'observation (`mj/scene-de-test.md`).
 - **en test** — **Bestiaire** (`mj/bestiaire.md`) : barème sbire / soldat / vétéran / monstre / fléau / **légende** (les Comtes), moral, capacités de fléau ; profils tirés des combats joués, **Hahn** et **Göre**, et les cinq PJ du Sucret (48 XP) avec Jacques la Savate (vétéran, ≈ 32 XP) comme étalons.
 - **en test** — **Sceaux officiels** des Comtes (cuivre → météorite) dans `armurerie.md`, avec leurs règles : sans permis, forgés par l'Empereur, un seul porteur, ils engagent qui les a confiés, se reprennent, le faux est un crime. Le **cuivre** est administratif : celui des hauts administrateurs (juge, haut commissaire, capitaine), un vrai pouvoir borné au ressort de leur charge ; le plus falsifié. Tout noble de l'Empire (baron, duc, prince, Comte) confie des sceaux selon son rang : le métal dit le rang de la mission, le blason dit qui en répond.
+- **en test** — **Objets magiques** (`objets-magiques.md`) : un objet, un verbe, un palier ; runes utilitaires déclenchées par tous, gravées par les runistes, chaque rune donnée retient un éphémère du graveur ; le palladium tient lieu de cercle pour une Relique. Profil de Kette à venir : sa version rêvée.
+- **en test** — **Dons de la Nuit** (`mj/dons-de-la-nuit.md`) : pouvoirs donnés par un Iggigi, sans XP ni permis ni identification, toujours avec un prix ; détectables comme un art akkadien. Dons de Lucie : guides-esprits, *Armure angélique* (Ketnis), *Enfant funeste* (Schön). Table de trente dons et marques.
 - **acté (leçon)** — **Toute ressource doit être écrite dans les règles**, sinon les joueurs la lisent comme un bonus (les points de karma ont fini en dés du destin).
 
 ### Magie (`regles/magie.md`)
@@ -98,6 +100,9 @@ Quand une décision change : ajouter une entrée datée dans `dev/journal.md`, p
 - **Hans d'Aragon** = « le duc » : il finance en secret le meurtre de l'Empereur. **Auge** finance les opposants, jamais un meurtre.
 - **Calendrier** : l'Empereur à J+30, le Jubilé à J+45.
 - **Orques** fongiques (reine *Physarum*) ; leur noyade = le tsunami de la Croisade ; l'orque « apaiseur » de la cathédrale est un prédateur. **Suifs** (Pic des Empalés) ; **End Station** (onzième étage = néant, portail vers le Rêve).
+- **Tuer Kette** demande l'**arme de l'Arbre de Métal** (l'Autre Épée : cinq branches de fer, chacune arrachée change un destin) ; l'épée-arbre du rêve de Ketnis en était l'indice.
+- **La Nuit** : née du pouvoir des dragons morts qui pèse sur le territoire et du Roi de la Nuit ; ses créatures sont des korrigans, cruels ou bienfaisants, dans le gris ; l'Empire y voit une corruption et la déteste. S'en faire une alliée est un choix (Lucie).
+- **Lucie** : maîtresse du cauchemar, l'Iggigi du Rêve ; ses pouvoirs et ses dons disparaissent avec le Rêve. **Göre** : ses doubles sont sa chair accumulée et modelée ; elle est la somme de tous.
 - Orthographe fixée : **Assur Sandergul**. Brainstorm ChatGPT écarté : le dépôt fait foi.
 - **ouvert** — Nowitzki ; apprentis rivaux de l'épisode 21.
 

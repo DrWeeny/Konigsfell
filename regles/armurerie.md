@@ -89,6 +89,7 @@ Le bâton ferré de l'Eau Calme sert de focus **ou** d'arme dans un même round,
 
 - **Acheter** : la cité vend de tout, mais l'argent n'est pas chiffré. Le MJ demande un jet (DC, *Négociation*, *Rumeurs des bas-fonds*…) ou une faveur plutôt qu'un prix.
 - **Facture** : bonne facture, œuvre de maître, magique, exceptionnelle, légendaire. Voir l'[Échelle de puissance](echelle-de-puissance.md#facture--ce-qui-sajoute-à-la-base).
+- **Objets magiques** : runes utilitaires, fioles, objets de la cité et de la campagne dans [Objets magiques](objets-magiques.md).
 - **Objet à histoire** : le joueur écrit l'origine, le MJ écrit le pouvoir (voir [Progression en co-écriture](resolution-et-combat.md#progression-en-co-écriture)).
 
 ---

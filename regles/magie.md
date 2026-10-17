@@ -266,6 +266,62 @@ Un pratiquant peut tenter un effet qu'il n'a pas appris, **dans le domaine de sa
 
 Un sort appris, c'est une improvisation devenue routine : les 4 XP achètent la fiabilité et la discrétion.
 
+### Les runes et les figures
+
+Les runistes, et tous ceux qui gravent (Docteur Schön, Jacques la Savate), écrivent leurs sorts avec les **24 runes nordiques**, liées par des **figures**. Le *Bindemittel-Kodex* le dit ainsi : *« Les figures géométriques sont comme la grammaire. Elles lient les runes entre elles et révèlent leur sens. »*
+
+C'est la formule mise en signes : **les runes disent ce que fait le sort, les figures disent comment il tient**. Le palier se calcule toujours avec la formule ; le dessin sert à la fiction, et à la preuve, puisqu'une rune se lit.
+
+**Les runes.** Chacune porte plusieurs sens, et le graveur choisit celui qu'il veut.
+
+| Rune | Sens |
+|---|---|
+| **Ansuz** ᚨ | communication, inspiration, adaptation · chant et musique, perspicacité, vision |
+| **Berkano** ᛒ | fertilité, croissance, union · naissance, jeunesse, mort |
+| **Kenaz** ᚲ | révélation, feu, purification · transformation, création, savoir |
+| **Dagaz** ᛞ | ordre, paradoxe, éveil · équilibre, accord, percée |
+| **Ehwaz** ᛖ | mouvement, impulsion, réincarnation · voyage, équipe, harmonie |
+| **Fehu** ᚠ | richesse, abondance, possession · fortune, réussite, gain |
+| **Gabo** ᚷ | don, sacrifice, échange · partage, connexion, contrat |
+| **Hagalaz** ᚺ | grêle, destruction, obstacle · évolution, mystère, incontrôlable |
+| **Jera** ᛃ | terre, réalisation, cycle · achèvement, éternel, recommencement |
+| **Isa** ᛁ | glace, immobilité, volonté · fondation, ego, défi |
+| **Laguz** ᛚ | fluides, émotions, institution · source, vitale, rêves |
+| **Mannaz** ᛗ | créature, famille, société · groupe, perfection, ennemis |
+| **Naudhiz** ᚾ | besoin, survie, sacrifices · protection spirituelle, délais, pauvreté |
+| **Othala** ᛟ | ancêtre, maître, pouvoir · malédiction, accomplissement, héritage |
+| **Perthro** ᛈ | jeux, secret, dévoilement · actes, mémoire, occulte |
+| **Ingwaz** ᛜ | matrice, plaisir, prospérité · divinité, fécondité, enfanter |
+| **Raidho** ᚱ | chemin, culture, science · contrôle, ordre, rythme |
+| **Sowilo** ᛊ | soleil, vie, illumination · guide, succès, honneur |
+| **Tiwaz** ᛏ | conquête, courage, justice · élévation, responsabilité, autorité |
+| **Wunjo** ᚹ | bonheur, équilibre, harmonie · cohésion, plaisir, paix |
+| **Thurisaz** ᚦ | défense, protection, résistance · réaction, foudre, conflit |
+| **Eihwaz** ᛇ | renaissance, force, passage · pont vers l'au-delà, arbre, stabilité |
+| **Algiz** ᛉ | protection, prudence, conscience · lien avec le divin, vie, santé. C'est la rune en Y d'**Überlieben**, gravée sur les bâtons du jeudi d'argent |
+| **Uruz** ᚢ | force, vigueur, puissance · potentiel, vitesse, expérience |
+
+**Les figures du *Bindemittel-Kodex*.** Chacune a une qualité et un élément ; au D10, chacune fixe une composante de la formule.
+
+| Figure | Qualité · élément | Dans la formule |
+|---|---|---|
+| **Cercle** | Protection · Tout | les **cibles** : borner une zone, protéger ou enfermer un groupe (+5) |
+| **Carré** (nœud) | Stabilité · Terre | la **durée** : la scène (+5), ou permanent (+10) ; pour une rune préparée, l'ancrage à son objet |
+| **Triangle** (triquetra) | Puissance · Feu | l'**effet sur les dés** (Notable ou Fort +5, Exceptionnel +10) |
+| **Étoile** (à cinq branches) | Constitution · Air | la **portée dans l'espace** : à vue (+5), hors de vue (+10) |
+| **Triskèle** (triple spirale) | Sagesse · Eau | **l'esprit** : un sort qui vise l'esprit, auquel la cible oppose ses DP |
+| **Tresse** | Intelligence · Temps | la **portée dans le temps** : moins d'un mois (+5), moins d'un an (+10) |
+
+Un sort sans figure reste au contact, sur une cible, dans l'instant : le verbe seul.
+
+**Exemples de la table.**
+- **Le premier cercle de Schön**, pour purifier des os : *Tiwaz* (justice), *Kenaz* (purification, feu, révélation), un **triangle** pour la puissance et un **cercle** de protection.
+- **Ses bâtons jumeaux** : communication (*Ansuz*), connexion (*Gabo*), secret (*Perthro*), air (l'**étoile**, pour la distance), protection (le **cercle**), illumination (*Sowilo*).
+
+::: dev
+**En test (2026-10-18).** À la table (D&D), le MJ faisait choisir à Docteur Schön les runes selon son sort et des figures pour lier le tout, et la combinaison donnait le DD. Fiches du MJ : quatre planches de six runes et le *Bindemittel-Kodex* (`prive/runes/`). La fiche de Fehu reprenait par erreur les sens d'Ehwaz : sens rétablis d'après la tradition (accord du MJ). Les qualités des figures suivaient les caractéristiques de D&D (Constitution, Sagesse, Intelligence), qui n'existent pas au D10 : la colonne « Dans la formule » est une proposition, qui rattache chaque figure à une composante.
+:::
+
 ### Inventaire : verbe × domaine
 
 Ce que chaque tradition sait faire, verbe par verbe, avec le seuil calculé. Ce ne sont pas des sorts appris : ce sont des repères pour **improviser** (un seuil de plus, et une trace) ou pour écrire un nouveau sort. Les traditions préparées (runes, fioles) ne comptent pas la durée.

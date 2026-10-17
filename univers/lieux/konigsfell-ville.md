@@ -143,4 +143,27 @@ La **Guilde de l'Eau Calme** maintient l'ordre sur les canaux, forme une partie 
 
 ---
 
+## Fêtes et coutumes
+
+### Les bals du jeudi
+
+Tous les jeudis, d'immenses **bals populaires**, souvent masqués, fêtent **Überlieben** et la victoire des Comtes. Ils sont censés effacer les différences entre les classes sociales ; ils font bien souvent le contraire. Sous le masque, on danse avec qui l'on ne recevrait jamais, et l'on y noue plus d'alliances, de dettes et de complots qu'au Palais de Cristal : **le bal du jeudi est un haut lieu politique**.
+
+### Le jeudi d'argent
+
+Le **premier jeudi du mois**, c'est le **jeudi d'argent**. La coutume veut qu'on sorte **armé d'un pieu** et **paré de bijoux d'argent**. Les pieux étant dangereux dans une foule, la ville tente de les remplacer par de simples bâtons de bois gravés de la **rune en Y d'Überlieben**, l'*Algiz*.
+
+Ce jour-là, des jeux rejouent **la chute des morts-vivants** :
+
+- **Les triomphes** : un mort-vivant est abattu en place publique.
+- **Les pendaisons de morts** : on pend un cadavre, et la foule le bat comme une piñata.
+- **La chasse** : des condamnés à mort ont le visage **tatoué d'un crâne**, puis sont lâchés dans la ville pour qu'on les chasse.
+- **Les concours des dévoteries**, où l'on gagne des ailes d'argent.
+
+::: mj
+Le jeudi d'argent est un jour de scénario : la foule armée, la police débordée, les masques. Un condamné au crâne tatoué qui frappe à la porte de la planque ; un « mort-vivant » de triomphe qui n'en est pas un ; un vrai mort relevé au milieu des faux ; un Akkadien (un habitant sur dix) qui ne sort pas ce jour-là. L'ironie est complète : la ville fête Überlieben, qui est Kette, vivant dans le Rêve, et la chute des morts, alors que le Roi de la Nuit n'a jamais été aussi proche. Le *Bal des Armes* (scénario 02) se tient un jeudi férié.
+:::
+
+---
+
 [← Retour à l'accueil](../../index.html) · [Univers](../index.html)

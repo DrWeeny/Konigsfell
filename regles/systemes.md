@@ -15,6 +15,7 @@ Le système natif de la campagne. Voir les fichiers dédiés :
 - [Archétypes et métiers](archetypes.md)
 - [Compétences](competences.md)
 - [Armurerie (packs de départ)](armurerie.md)
+- [Objets magiques](objets-magiques.md)
 - [Fiche de personnage](fiche-de-personnage.md)
 - [Aide de jeu (une page)](aide-de-jeu.md)
 - [Échelle de puissance (outil MJ)](echelle-de-puissance.md)

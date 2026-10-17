@@ -22,6 +22,7 @@ Chaque fiche contient 4 axes:
 - **Rôle public :** héros mort de la Deuxième Croisade, martyr du tsunami. Mort dans l'esprit des gens : son siège de Comte est vacant (voir l'Hydre, `timeline.md`).
 - **Agenda secret :** il a rejoint le Rêve en se sacrifiant et y est devenu Überlieben. Il gagne du temps contre les Erlöser en provoquant des catastrophes qui les nourrissent, et recrute des agents pour « sauver » les gens dans le Rêve. Les Erlöser se nourrissent encore de sa magie (voir `timeline.md`, *Le Rêve — la vérité*). C'est lui, le **Maître des rêves** : il a étendu le Rêve et l'a peuplé de créatures qui l'appellent ainsi.
 - **Levier PJ :** comprendre le lien `Codex Inspirationem` -> contamination -> escalade des crises.
+- **Sa fin :** pour tuer Kette, il faut l'**arme de l'Arbre de Métal**, l'Autre Épée (`regles/objets-magiques.md`). Ketnis l'a vue en indice dans le rêve partagé.
 - **Accroche immédiate :** visions fragmentaires d'une grotte de palladium après contact avec le Codex.
 
 ---
@@ -120,6 +121,7 @@ Chaque fiche contient 4 axes:
 - **Origine :** Iggigi, sœur de la reine d'Akkadie, otage et pupille de l'Empereur, élevée au palais avec Kette et Hahn (Le Sucret, épisodes 19–21).
 - **Rôle public :** maîtresse des réseaux d'espionnage, figure instable et crainte.
 - **Agenda secret :** garder enterré le crime de La Purge tout en contenant sa propre fragmentation mentale.
+- **Les doubles :** elle grossit, accumule de la chair et la modèle en doubles ; elle est la somme de tous et entend toutes leurs voix, ce qui lui dérange l'esprit. Ses enfants s'agressent et se mutilent pour réduire la chair (profil : `bestiaire.md`).
 - **Levier PJ :** compassion cadrée + preuve de discrétion + résultat utile.
 - **Accroche immédiate :** un doppelgänger contacte les PJ pour "nettoyer" une preuve avant le Silence.
 

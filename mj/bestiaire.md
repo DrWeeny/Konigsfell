@@ -134,7 +134,8 @@ Profil tiré de la table : *combattant, sauts prodigieux, style martial proche d
 |---|---|---|---|---|---|
 | légende | 3 | 5 | 4 | 15 | 0 |
 
-- **Les doubles.** Des dizaines vivent dans la cité sous d'autres visages : enfants, villageois, domestiques. En scène, au début de chaque round, un double sort de ses jupes ou d'une porte (profil de soldat : 3 DA, 8 PV), cinq au plus à la fois.
+- **Les doubles.** Göre **grossit** : elle accumule de la chair, qu'elle extrait et modèle pour en faire des doubles. Des dizaines vivent dans la cité sous d'autres visages : enfants, villageois, domestiques. En scène, au début de chaque round, un double sort de ses jupes ou d'une porte (profil de soldat : 3 DA, 8 PV), cinq au plus à la fois.
+- **Elle est la somme de tous.** Elle entend chacun de ses doubles, et toutes ces voix lui dérangent l'esprit. Ses enfants sont parfois d'humeur horrible : ils s'agressent entre eux et **se mutilent** pour réduire la chair. D'où les moignons.
 - **Chaque double tué la blesse** : elle perd 2 PV, sans armure. « Comme si on arrachait un membre. » C'est son **point faible** : on l'atteint par ses doubles.
 - **Remplacement.** Un double prend la place de quelqu'un qu'elle a vu. Le démasquer demande un jet de DC à 15+, *Lumière d'Ewald*, ou la présence d'un Iggigi.
 - **Iggigi.** Ses pouvoirs sont irrités par ceux qui portent sa malédiction. Les doubles à la vue d'un enfant Iggigi se figent, puis se frappent jusqu'à mourir, à la fin du round, et chacun la blesse.
@@ -148,7 +149,7 @@ Profil tiré de la table : *combattant, sauts prodigieux, style martial proche d
 | 9 | 30 (frais) | −2 | **deux actions** ; une attaque réussie au contact est aussi une **étreinte** : la cible ne peut plus attaquer tant qu'elle n'a pas battu la prise en DA |
 
 ::: dev
-Sources : Le Sucret, épisodes 19 à 21 (les enfants-doubles à la planque, Lucie qui les fait mourir, le souvenir des épreuves du Silence où elle générait **cinq** clones à quinze ans, la vraie apparence). Le nombre de doubles en scène reprend ces cinq clones ; à trois ou quatre siècles, elle en a sans doute plus, mais pas tous à la fois. Préparer la gestion de l'horreur avant de la jouer (voir `dev/journal.md`).
+Sources : Le Sucret, épisodes 19 à 21 (les enfants-doubles à la planque, Lucie qui les fait mourir, le souvenir des épreuves du Silence où elle générait **cinq** clones à quinze ans, la vraie apparence). Le nombre de doubles en scène reprend ces cinq clones ; à trois ou quatre siècles, elle en a sans doute plus, mais pas tous à la fois. Préparer la gestion de l'horreur avant de la jouer (voir `dev/journal.md`). **Précision du MJ (2026-10-18)** : les doubles sont de la chair accumulée, extraite et modelée ; la vraie forme (« chair en bourrelets ») est ce qui reste quand elle ne s'en défait pas. Ce n'est pas le même pouvoir que l'Enfant funeste de Lucie.
 :::
 
 ---
@@ -181,7 +182,7 @@ Mage de l'Eau Calme, apprentie runiste chez Jacques la Savate, herboriste de *La
 - **Traditions** : Eau Calme et runique (la réserve : tradition de l'Eau, bâton ferré, tradition runique).
 - **Majeures** : *Herboristerie* (empruntée au Physicus), *Diagnostic et chirurgie*.
 - **Mineures** : *Je reconnais les poisons exotiques* (rang 2) · *Je convaincs les bêtes de la ville* (2) · *Je passe pour une apprentie inoffensive* (1) · *Je veille sur les orphelins* (1).
-- **Capacité** : *Prendre le bassin*. **Lien** : Kitsunebi, renard guide-esprit, don de sa fille adoptive Lucie (co-écriture, sans XP).
+- **Capacité** : *Prendre le bassin*. **Dons de Lucie**, sa fille adoptive (co-écriture, sans XP) : Kitsunebi, renard guide-esprit ; la **[langue de crapaud](dons-de-la-nuit.md#la-langue-de-crapaud--docteur-schön)**, qui saisit les objets à quelques pas ; et l'**[Enfant funeste](dons-de-la-nuit.md#lenfant-funeste--docteur-schön)** : elle accouche d'une copie d'elle-même, au prix de PV permanents, et peut lui transférer souvenirs, membres, poisons ou malédictions tant que le cordon les relie.
 - **En combat** : avec 3 DP de base, elle lance un sort et pose une garde magique dans le même round ; une fois par scène, un [écho](../regles/magie.md#lécho) vide sa réserve.
 - **XP** : DP 1 → 3 (12), tradition runique (4), quatre sorts (16), DC 2 (4), une majeure (4), rangs de mineures (4), +4 PV (4).
 
@@ -226,12 +227,12 @@ Regrattière passée assassin, enfuie des Enfants de la Lune ; fille de Hans d'A
 
 | DA | DC | DP | PV | Armure |
 |---|---|---|---|---|
-| 4 (+1 rapière, +1 mouvement : tenue légère) | 2 (+1 crochets) | 1 | 16 | 0 |
+| 4 (+1 rapière, +1 mouvement : tenue légère ; une relance par round avec la dague) | 2 (+1 crochets) | 1 | 16 | 0 |
 
 - **Majeures** : *Embuscades*, *Mensonges et faux-semblants*, *Rumeurs des bas-fonds*, *Filature*.
 - **Mineures** : *J'escalade une herse ou une façade de nuit* (rang 3) · *Je danse et je mens sous un faux nom dans un bal* (2) · *Je reconnais les signes des Enfants de la Lune* (2) · *Je fais parler un prisonnier à la pointe de la dague* (2).
 - **Capacité** : *Je connais quelqu'un ici*.
-- **Objets** : la **rapière d'argent « Transparente »**, gravée par Jacques (objet à histoire : le pouvoir reste au MJ) ; la **bombe temporelle**, la dernière rune de Jacques, qui fige le temps un round (usage unique, Exceptionnel) ; le collier des Enfants de la Lune ; la dague du Douceâtre, qui vaut une dette.
+- **Objets** : la **rapière d'argent « Transparente »**, gravée par Jacques (voir [Objets magiques](../regles/objets-magiques.md#la-rapière-en-vif-argent-transparente)) ; la **dague du Douceâtre**, une lame de rapidité (une relance par round), qui vaut une dette ; la **bombe temporelle**, la dernière rune de Jacques, qui fige le temps un round (Relique, usage unique) ; le collier des Enfants de la Lune. Le groupe a aussi des [bottes de presque-invisibilité](../regles/objets-magiques.md#les-bottes-de-presque-invisibilité) et l'[onguent d'immunité à la magie](../regles/objets-magiques.md#longuent-dimmunité-à-la-magie).
 - **XP** : DA 2 → 4 (12), DC 2 (4), deux majeures (8), rangs de mineures (12), +8 PV (12).
 
 ### Ketnis Moonfire, la conscience du groupe
@@ -244,7 +245,7 @@ Ancienne de la Citadelle de l'Aube, alchimiste de métier, peau bleue. Elle veut
 
 - **Archétype** : Landsknecht (*Endurci*). **Majeures** : *Intimidation*, *Négociation* (empruntée à l'Émissaire), *Herboristerie* (empruntée au Physicus).
 - **Mineures** : *Je calme un groupe qui s'apprête à frapper* (rang 3) · *Je sens la malédiction et la non-vie au toucher* (2) · *Je connais les passages de la Citadelle de l'Aube* (2) · *Je fais le spectacle dans une arène ou une fête* (2).
-- **Capacité** : *Vieux cuir*. **Objets** : le **monocle d'or** du Comte Hahn (un sceau d'or : elle signe à sa place). **Lien** : Sith, guépard blanc à cornes, guide-esprit envoyé par Lucie.
+- **Capacité** : *Vieux cuir*. **Objets** : le **monocle d'or** du Comte Hahn (un sceau d'or : elle signe à sa place). **Dons de Lucie** : Sith, guépard blanc à cornes, guide-esprit ; et l'**[Armure angélique](dons-de-la-nuit.md#larmure-angélique--ketnis-moonfire)**, se vêtir à tout moment : au début d'un round, sans action, elle choisit sa tenue (ses mailles, une tenue légère pour +1 dé de mouvement, un habit de cour).
 - **Ce qui ne passe pas** : l'imposition des mains est de la magie de soin, proscrite (à la table déjà, Elias devait déclarer chaque soin) ; ses soins passent par l'*Herboristerie*. Le *sens divin* devient une mineure : il n'y a pas d'alignements.
 - **XP** : DA 3 → 5 (12), DC 2 (4), deux majeures (8), rangs de mineures (12), +8 PV (12).
 
@@ -259,7 +260,7 @@ Exploratrice au sang de dragon, élevée au Nouveau Monde par son maître Yann. 
 - **Archétype personnalisé, Explorateur du Nouveau Monde** : 2 majeures dans *Survie au Nouveau Monde*, *Pistage*, *Bêtes exotiques*, *Navigation* ; pack Explorateur. Elle a les quatre : *Survie* et *Pistage* au départ, *Bêtes exotiques* et *Navigation* achetées.
 - **Capacité — Sang de dragon** : elle peut [payer 1 DA](../regles/jets-de-des.md#payer-un-dé) pour cracher du feu, une attaque à distance courte avec les dés qu'elle y met. Ce n'est pas une tradition : elle n'a pas de permis, et le feu laisse une **trace** comme un sort à 15+.
 - **Mineures** : *Je tire à la sarbacane depuis une cachette* (rang 3) · *Je démembre à mains nues ce qui n'a plus de chair* (2) · *Je bluffe avec un aplomb absurde quand on me cerne* (2) · *Je bois avec les nains du Gouffre* (2).
-- **Objets** : un **familier d'ombre** (Exceptionnel : l'ombre s'éloigne à vue, tient un objet ou frappe, Schnee reste immobile) ; une **lampe à vœu** qui ne s'exauce qu'une fois ses objectifs remplis ; un petit dragon de froid, noir, qui porte ses messages ; le sifflet de Trente-et-un.
+- **Objets** : un **familier d'ombre** (Exceptionnel : l'ombre s'éloigne à vue, tient un objet ou frappe, Schnee reste immobile) ; la **lampe de l'Odyssée**, dont le génie exauce un souhait au bout de trois quêtes (chacune retient 1 PV permanent jusqu'à ce qu'elle soit accomplie); un petit dragon de froid, noir, qui porte ses messages ; le sifflet de Trente-et-un.
 - **XP** : DA 2 → 4 (12), DC 2 (4), deux majeures (8), rangs de mineures (12), +8 PV (12).
 
 ### Jacques la Savate, le mentor

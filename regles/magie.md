@@ -43,13 +43,17 @@ Aucune tradition légale ne les enseigne. Ils existent dans les archives du Sile
 
 Les runistes **gravent** leurs sorts, les alchimistes les **préparent** en fioles : voir [Runiste du Registre](archetypes.md#runiste-du-registre) et [Physicus](archetypes.md#physicus--docteur-chirurgien). Leur avantage, c'est le temps : au calme, ils ne lancent pas les dés.
 
-- **Pas de jet.** Le palier vaut **5 par DP engagé** : 1 dé → 5+, 2 → 10+, 3 → 15+, 5 → 25+. Ni double, ni contrecoup.
-- **Le temps.** Quelques minutes jusqu'à 5+, une heure à 10+, une nuit à 15+, une semaine à 25+. Sous la pression d'une scène, on lance comme pour un sort ordinaire.
+- **Pas de jet.** Le palier vaut **5 par DP engagé** : 1 dé → 5+, 2 → 10+, 3 → 15+. Ni double, ni contrecoup. **Seul, un préparateur ne dépasse pas 15+**, quel que soit le nombre de ses dés.
+- **Le 25+ est une œuvre collective.** Il faut un cercle (toute une guilde, un atelier du Registre, les moines d'un Taufbecken), un lieu qui s'y prête et une semaine de travail ; le MJ fixe la condition, et chaque participant y retient un éphémère. C'est ainsi qu'on grave les runes du Palais de Justice ou les bassins de transit.
+- **Le temps.** Quelques minutes jusqu'à 5+, une heure à 10+, une nuit à 15+. Sous la pression d'une scène, on lance comme pour un sort ordinaire.
 - **Le prix.** Chaque effet en réserve **retient un dé éphémère**, quel que soit son palier, jusqu'à ce qu'il se déclenche ou soit effacé. Le DP permanent ne se retient pas : le nombre d'éphémères fixe le nombre de runes ou de fioles actives. Les autres dés puisés reviennent après une nuit, comme toujours.
 - **La durée ne compte pas** dans la formule : l'effet tient jusqu'à son déclenchement, et c'est le dé retenu qui le paie : il ne revient pas avec la nuit tant que l'effet existe.
+- **Déclencher n'est pas lancer.** Briser une fiole, toucher une rune ou dire son mot de déclenchement est une action de DA (un tir pour une fiole lancée), pas le sort du round. Le runiste et le Physicus ont payé d'avance : en combat, ils peuvent déclencher une préparation et lancer un sort.
 
 ::: dev
 **En test (2026-10-16).** « 5 par dé » est un peu sous la moyenne d'un d10 (5,5) : prendre son temps garantit le résultat moyen, sans la chance des doubles. Le runiste et le Physicus perdent la surprise mais gagnent la fiabilité.
+
+**Plafond 15+ (2026-10-17).** Sans jet, il n'y a pas de double 1 : cinq éphémères auraient donné une rune 25+ sans aucun risque. Le lanceur, lui, est freiné par le contrecoup (avec 6 dés, environ une chance sur neuf) ; le préparateur l'est par le plafond.
 :::
 
 ::: mj
@@ -93,9 +97,25 @@ En combat, un personnage lance **un seul sort par round**. Avec 5, 10, 8 et 7 su
 **En test (2026-10-16).** Poser des DP en garde (sort de protection, contre-sort) ne compte pas comme le sort du round.
 :::
 
+### L'écho
+
+**Une fois par scène**, quand un sort réussit, le mage peut le **faire résonner** : il [paie comptant](jets-de-des.md#payer-un-dé) autant de dés éphémères que l'action comptait de dés, base et réserve confondues. Le même sort, **au même total**, touche une seconde cible ou se reproduit ailleurs à sa portée.
+
+- **Pas de nouveau jet** : ni double, ni contrecoup. La cible de l'écho résiste comme la première.
+- L'écho ne compte pas comme un second sort. Il ne s'applique ni au contre-sort ni à la magie préparée.
+- Il vide vite la réserve : c'est le grand moment du mage, pas sa routine.
+
+**Exemple.** Schön lance *Bourrasque* à 15+ avec ses trois DP de base pour désarçonner un chevalier en vol. Le sort passe. Elle paie trois éphémères : la même rafale, au même total, frappe la wyverne du second chevalier. Sa réserve est vide jusqu'à la nuit.
+
+::: dev
+**En test (2026-10-17).** Idée du MJ (« valider le sort et, si succès, utiliser le même nombre de dés éphémères pour un burst »). Le test de progression montrait un guerrier chevronné qui engage 6 dés par round contre un seul sort pour le mage. L'écho double le sort sans rouvrir les sorts multiples : un seul jet, un seul risque de double 1, et un prix en fatigue. « Un sort de plus tous les 5 dés » a été écarté : le pool de base d'un mage n'y arrive jamais, et cela rouvrait les petits sorts en rafale.
+:::
+
 ### La réserve : les dés éphémères
 
 Les dés éphémères ne se lancent pas avec le pool. Ils forment une **réserve** où le mage puise : c'est sa fatigue. Elle se remplit avec la **tradition** (+1), le **focus** ordinaire (+1) et l'XP.
+
+Les **DP de base**, eux, reviennent à chaque scène, comme les DA d'un guerrier : le DP permanent, un focus de bonne facture, et les DP achetés à l'XP (4 / 8 / 12… XP, comme les DA). C'est avec eux qu'un mage chevronné lance un sort **et** pose une garde magique dans le même round.
 
 - **À tout moment**, quand il lance un sort ou engage un contre-sort, le mage peut **puiser** : il lance un ou plusieurs éphémères et les ajoute à l'action, après avoir vu ses dés de base. Les doubles se lisent sur tous les dés de l'action, double 1 compris.
 - Les dés puisés sont **épuisés** jusqu'à une nuit de repos complet.
@@ -206,6 +226,7 @@ Le contre-sort ne pare pas les coups : des DP posés contre la magie ne servent 
 | Archétype de tradition | 3 sorts d'archétype dès la création |
 | Entrer dans une tradition en jeu | **4 XP** (compétence majeure de tradition) : le dé éphémère de réserve et 1 sort d'archétype |
 | XP | 1 nouveau sort de sa tradition : **4 XP** |
+| XP | +1 DP de base : **4 / 8 / 12… XP**, comme les DA |
 | Grimoire trouvé | +1 DP permanent, et souvent un sort |
 | Parchemin | lancer un sort une fois, sans le connaître |
 | Maître | un sort hors de sa tradition, contre un service ou une dette |
@@ -232,7 +253,7 @@ Le seuil d'un effet se **calcule**. On additionne les composantes, puis on **arr
 - Un sort écrit, c'est la formule déjà calculée pour chacun de ses paliers.
 
 ::: dev
-**En test.** Formule tirée du journal de conception (`mj/journal-de-conception.md`, d'après Ars Magica et les restrictions du Nen). Ajouts : la portée vaut aussi dans le temps (pour les morts et les souvenirs), et l'effet sur les dés se chiffre avec l'échelle de puissance. La restriction par interdit personnel rejoint la piste « magie par privation » de `CLAUDE.md`. Il faudra un **inventaire** verbe × domaine, 2 ou 3 exemples par case, pour donner la tonalité de Königsfell.
+**En test.** Formule tirée du journal de conception (`mj/journal-de-conception.md`, d'après Ars Magica et les restrictions du Nen). Ajouts : la portée vaut aussi dans le temps (pour les morts et les souvenirs), et l'effet sur les dés se chiffre avec l'échelle de puissance. La restriction par interdit personnel rejoint la piste « magie par privation » de `CLAUDE.md`. L'**inventaire** verbe × domaine est plus bas (proposition du 2026-10-16, à relire).
 :::
 
 ### Improviser
@@ -244,6 +265,50 @@ Un pratiquant peut tenter un effet qu'il n'a pas appris, **dans le domaine de sa
 - hors du domaine de sa tradition, on n'improvise pas : c'est le territoire des arts proscrits.
 
 Un sort appris, c'est une improvisation devenue routine : les 4 XP achètent la fiabilité et la discrétion.
+
+### Inventaire : verbe × domaine
+
+Ce que chaque tradition sait faire, verbe par verbe, avec le seuil calculé. Ce ne sont pas des sorts appris : ce sont des repères pour **improviser** (un seuil de plus, et une trace) ou pour écrire un nouveau sort. Les traditions préparées (runes, fioles) ne comptent pas la durée.
+
+**Eau Calme** — *l'eau, la glace, le vent, les bassins*
+
+| Verbe | Exemples |
+|---|---|
+| **Percevoir** | lire le courant d'un canal et savoir où il mène (3+) · sentir qu'on s'est noyé ici, dans l'eau à vue (3 + vue 5 → **10+**) · prévoir la prochaine grosse vague du mois (3 + un mois 5 → **10+**) |
+| **Altérer** | faire frissonner l'eau d'un bassin pour y écrire un mot (5+) · pousser une bourrasque dans une voile à vue (5 + vue 5 → **10+**) · geler les pavés sous un groupe à vue pour la scène (5 + vue 5 + scène 5 + groupe 5 → **25+**) |
+| **Créer / Contrôler** | remplir une gourde d'eau douce (10+) · lever un brouillard sur une place pour la scène (10 + scène 5 → **15+**) · faire remonter une gondole à contre-courant, à vue (10 + vue 5 → **15+**) |
+
+**Théurgie du Silence** — *les serments, le sacrilège, la purification*
+
+| Verbe | Exemples |
+|---|---|
+| **Percevoir** | savoir si quelqu'un a juré sur la tête de l'Empereur aujourd'hui (3+) · sentir un sacrilège commis dans ce lieu depuis moins d'un mois (3 + un mois 5 → **10+**) |
+| **Altérer** | purifier une eau ou une plaie souillée (5+, sans soigner) · affaiblir la rune d'un autre : son palier baisse d'un seuil (5 + effet Notable 5 → **10+**) |
+| **Créer / Contrôler** | sceller une porte au nom d'Ewald, pour toujours, en y engageant son propre serment (10 + permanent 10 − prix réel 10 → **10+**) · imposer le silence à une foule à vue pour la scène, après sommation (10 + vue 5 + scène 5 + groupe 5 − circonstance 5 → **25+** : on en parlera en ville) |
+
+**Tradition funéraire akkadienne** — *les morts, les souvenirs, la préservation*
+
+| Verbe | Exemples |
+|---|---|
+| **Percevoir** | savoir depuis combien de temps ce corps est mort (3+) · voir le dernier souvenir d'un mort de moins d'un mois (3 + un mois 5 → **10+**) |
+| **Altérer** | apaiser un mort qui s'agite avant l'Incorporation (5+) · effacer l'odeur de la mort d'une pièce pour la scène (5 + scène 5 → **10+**) |
+| **Créer / Contrôler** | faire parler un crâne pour la scène, avec l'accord de sa famille (10 + scène 5 − consentement 5 → **10+**) · ⚠ au-delà, on lève les morts : c'est la nécromancie, un art proscrit |
+
+**Runistes** — *magie préparée : alarme, dissipation, scellement, transit*
+
+| Verbe | Exemples |
+|---|---|
+| **Percevoir** | une rune-témoin qui retient le visage du dernier qui l'a touchée (3+) · lire si un coffre a été ouvert depuis moins d'un mois (3 + un mois 5 → **10+**) |
+| **Altérer** | une rune qui chauffe un poêle ou refroidit un tonneau (5+) · une rune qui alourdit une serrure : −1 dé à qui veut la crocheter (5 + effet Notable 5 → **10+**) |
+| **Créer / Contrôler** | sceller une porte (10+) · une rune de transit vers un Taufbecken hors de vue (10 + hors de vue 10 → **25+**) |
+
+**Alchimie** — *la matière, les poisons, les fioles*
+
+| Verbe | Exemples |
+|---|---|
+| **Percevoir** | reconnaître un poison au goût ou à l'odeur (3+) · dater une tache de sang de moins d'un mois (3 + un mois 5 → **10+**) |
+| **Altérer** | une encre qui disparaît au soleil (5+) · une poudre qui fait rouiller une serrure en une nuit (5+) · un somnifère : la cible perd un dé de son prochain jet (5 + effet Notable 5 → **10+**) |
+| **Créer / Contrôler** | une fiole de fumée qui couvre un groupe (10 + groupe 5 → **15+**) · ⚠ le feu grégeois : 15+ et une trace, car le Silence en surveille chaque ingrédient |
 
 ### La fiche d'un sort
 

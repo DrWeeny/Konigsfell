@@ -100,15 +100,16 @@ Le détail (capacités, sorts, statut, interdits) est dans [Archétypes](archety
 
 ## Progression — Coûts XP
 
-**Gains par session : ~4 XP** (selon la session). En cinq sessions, un personnage peut par exemple s'offrir un dé d'action, une compétence majeure et quelques PV.
+**Gains par session : ~2 XP** (selon la session). En dix sessions, un personnage peut par exemple s'offrir un dé d'action, une compétence majeure et quelques PV. Au bout d'une longue campagne (deux douzaines de sessions), il est à mi-chemin d'un Comte : voir les repères du [bestiaire](../mj/bestiaire.md#le-barème-de-menace).
 
 | Achat | Coût |
 |---|---|
-| +1 PV permanent | 1 XP |
+| +1 PV permanent | 1 XP pour les 4 premiers, 2 XP pour les 4 suivants, puis +1 XP par tranche de 4 |
 | +1 DA permanent (1er) | 4 XP |
 | +1 DA permanent (2e) | 8 XP |
 | +1 DA permanent (3e et suivants) | +4 XP à chaque fois |
 | +1 DC (même système incrémental) | 4 / 8 / 12… XP |
+| +1 DP permanent (même système incrémental) | 4 / 8 / 12… XP |
 | +1 DP éphémère | 2 XP |
 | Compétence mineure : rang 2 | 2 XP |
 | Compétence mineure : rang 3 | 4 XP |

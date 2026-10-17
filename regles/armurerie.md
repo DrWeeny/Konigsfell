@@ -93,4 +93,41 @@ Le bâton ferré de l'Eau Calme sert de focus **ou** d'arme dans un même round,
 
 ---
 
+## Les sceaux officiels
+
+Les nobles de l'Empire (un baron, un duc, un prince, et à Königsfell les Comtes) confient à ceux qu'ils envoient en mission un **sceau** : une broche, un cachet, un monocle, une chaîne ou une pièce. Le métal dit le rang de la mission ; **le blason dit qui en répond**. Un sceau d'or d'un baron de campagne ne pèse pas celui d'un Comte.
+
+### Les règles des sceaux
+
+1. **Sans permis.** C'est le seul objet magique qu'on porte sans permis de magie. Le Silence ne peut pas le saisir pour ce motif.
+2. **Forgé par l'Empereur.** Seul l'Empereur peut en faire forger. Un noble les reçoit selon son rang et les confie ; il ne les fabrique pas.
+3. **Un seul porteur.** Un sceau est lié à **une seule personne**, nommée quand on le confie. Dans d'autres mains, il ne fait rien, et sa magie le sait : un sceau volé est une preuve contre le voleur.
+4. **Il engage qui l'a confié.** Ce que le porteur fait au nom du sceau, le noble en répond, et chaque usage finit par lui revenir. Un sceau est une laisse autant qu'une clef.
+5. **Il se reprend.** Celui qui l'a confié peut le reprendre à tout moment ; le sceau s'éteint, et le porteur le sent.
+6. **Le faux est un crime.** Contrefaire un sceau, ou le document qu'il a signé, relève de la justice impériale. C'est l'usage préféré de la pègre pour le cuivre : il y en a tant, dans tant de bureaux, que personne ne vérifie.
+
+### Les métaux
+
+| Métal | Qui peut le confier | Pour qui | Ce qu'il fait |
+|---|---|---|---|
+| **Cuivre** | la Couronne, un Comte, pour une charge publique | les **hauts administrateurs** : un juge, un haut commissaire, un capitaine du Guet ou de port | **administratif** : *signature magique* (un document signé fait foi). C'est le pouvoir d'une **charge** : il ne vaut que dans son ressort (le tribunal, le quartier, le port), mais là, il commande |
+| **Argent** | tout noble titré | officiers, intendants, gens d'influence | *signature magique* ; ouvre les lieux privés et officiels |
+| **Or** | un grand noble : Comte, duc, prince | qui parle **en son nom** | *signature magique* ; une conversation à distance par jour avec celui qui l'a confié. Le monocle d'or du Comte Hahn en est un |
+| **Platine** | la famille impériale | ses représentants | tout ce qui précède, et la préséance sur les autres nobles |
+| **Météorite** | un grand noble, en secret | personne, officiellement | voir ci-dessous |
+
+**À la table.** Là où son rang et son blason sont reconnus, un sceau d'argent ou plus ouvre une porte ou fait obéir **sans jet**. Ailleurs, il donne **+1 dé** de DC pour se faire entendre. Le cuivre fait de même, mais **seulement dans le ressort de sa charge** : le juge dans son tribunal, le capitaine sur son port. Hors de là, il ne vaut qu'un papier.
+
+**La pièce de météorite.** La plus sombre, et non officielle. Celui qui la montre ne peut être ni torturé ni mis à mort : arrêté, il reste en prison **jusqu'au procès du noble qui la lui a confiée**. Les gens du Secret l'appellent « la pièce noire » : une licence de tout faire, et la certitude que quelqu'un, très haut, en répondra.
+
+::: mj
+La pièce de météorite porte en général un *tatouage magique* : elle se change en un tatouage du choix de son porteur, et se recrée quand il le touche. On ne la trouve donc pas en fouillant.
+:::
+
+::: dev
+**Sources :** `prive/notes-drive/Scenariotheque/The_Shaman_Ork/Orks_01_Shipment.md` (cinq broches, du cuivre à la météorite) ; Le Sucret, épisode 22 (quatre sceaux impériaux : sceau d'argent, monocle d'or, chaînes de platine, pièce de météorite noire). Le cuivre n'apparaît pas en jeu : le MJ le précise (2026-10-16) : administratif, mais réservé aux hauts administrateurs (juge, haut commissaire, capitaine) ; un vrai pouvoir, borné à une charge. Les effets en D10 (conversation à distance, +1 dé, reprise du sceau) sont des propositions.
+:::
+
+---
+
 [← Retour à l'accueil](../index.html) · [Création de personnage](creation-de-personnage.md) · [Archétypes](archetypes.md) · [Échelle de puissance](echelle-de-puissance.md)

@@ -16,6 +16,7 @@ Le système natif de la campagne. Voir les fichiers dédiés :
 - [Compétences](competences.md)
 - [Armurerie (packs de départ)](armurerie.md)
 - [Fiche de personnage](fiche-de-personnage.md)
+- [Aide de jeu (une page)](aide-de-jeu.md)
 - [Échelle de puissance (outil MJ)](echelle-de-puissance.md)
 
 **Principes directeurs :**

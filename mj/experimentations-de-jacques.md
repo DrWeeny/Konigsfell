@@ -9,7 +9,7 @@
 ## Comment s'en servir
 
 - **Quand.** En début de séance, ou au retour à la planque, si aucun PJ n'a demandé de rune à Jacques. Un PJ peut aussi venir en chercher une « pour voir ».
-- **Tirer.** Lancez deux dés : le premier donne les dizaines (1 à 5, puis 0 pour la soixantaine), le second les unités. Au-dessus de 58, relancez. Ou choisissez.
+- **Tirer.** Lancez deux dés : le premier donne les dizaines, le second les unités (un 10 compte pour 0). De 01 à 58, c'est le numéro de l'expérimentation ; au-delà, ou sur 00, relancez. Ou choisissez.
 - **Ce qu'on en sait.** Jacques donne le nom, rarement le mode d'emploi. L'effet se découvre au premier déclenchement, ou s'identifie (voir [Objets magiques](../regles/objets-magiques.md#identifier-un-objet)).
 - **La règle.** C'est une [rune utilitaire](../regles/objets-magiques.md#les-runes-utilitaires) : n'importe qui la déclenche (une action de DA), elle sert une fois, et tant qu'elle n'a pas servi, elle **retient un éphémère de Jacques**. Il n'en a que trois : jamais plus de trois expérimentations en circulation. Le palier se calcule avec la [formule](../regles/magie.md#écrire-un-sort--la-formule) au moment du tirage, 15+ au plus ; la bombe temporelle est l'exception (le palladium).
 - **Le risque.** Jacques n'a pas de poinçon : une expérimentation saisie remonte à lui. Plusieurs touchent aux arts proscrits (charme, souvenirs, marionnette) : celles-là, il ne les a jamais gravées, si on le lui demande.

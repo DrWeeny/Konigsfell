@@ -24,7 +24,7 @@ On entre dans une tradition par sa **compétence majeure de tradition** (*Tradit
 
 | Tradition | Domaine | Statut à Königsfell | Interdits |
 |---|---|---|---|
-| **Eau Calme** (Sturmbrecher, Seekmeister, Windrufer, Unterhalt) | eau, glace, vent, climat, transit runique | légale — permis de la guilde | soin, contrôle mental, invocation de créatures aquatiques |
+| **Eau Calme** (Sturmbrecher, Seekmeister, Windrufer, Unterhalt) | eau, glace, vent, climat, **bois** (navires, chantiers), transit runique | légale — permis de la guilde | soin, contrôle mental, invocation de créatures aquatiques |
 | **Théurgie du Silence** | serments, détection du sacrilège, purification, contre-magie | légale — la loi elle-même | tout ce qui prolonge la vie ; magie akkadienne |
 | **Tradition funéraire akkadienne** | lecture des morts, préservation, souvenirs | tolérée — visa spécial, surveillance | animation combative des morts, contrôle d'esprit, soin |
 | **Runistes** | magie **préparée** : runes d'alarme, de dissipation, de scellement, Taufbecken | légale — poinçon déposé au Registre | runes sur le vivant |
@@ -159,7 +159,7 @@ Chaque sort laisse une trace que les runistes et les théurges savent lire.
 
 - Un sort à **15+**, un sort **improvisé**, ou un **contrecoup**, se remarque : le Silence ou le Registre peut en entendre parler.
 - Dans un lieu protégé par des runes de dissipation (Palais de Justice d'Ewald, temples, bureaux du Registre), aucun sort ne prend en dessous de 15.
-- Là où une **Sirène** est postée, tout sort se remarque (voir ci-dessous).
+- Là où un **Criquet** est posté, tout sort se remarque (voir ci-dessous).
 
 ::: dev
 La trace est le principal frein à la magie, et il est **politique** plutôt que mécanique : conforme au ton de la campagne. À tester : est-ce que ça suffit à empêcher le mage de tout résoudre hors combat ?
@@ -167,27 +167,28 @@ La trace est le principal frein à la magie, et il est **politique** plutôt que
 
 ### Les sens du Silence
 
-Le Silence entretient des ordres qui ont sacrifié un sens ou un membre pour gagner un pouvoir. Ce pouvoir ne se lance pas : **sans jet**, ce n'est pas un sort, c'est ce qu'ils sont devenus. Seul ce qu'ils imposent à autrui demande des dés.
+Le Silence entretient des ordres qui ont sacrifié un sens ou une part de leur corps pour gagner un pouvoir, et l'ont remplacé par une greffe de palladium. Ce pouvoir ne se lance pas : **sans jet**, ce n'est pas un sort, c'est ce qu'ils sont devenus. Seul ce qu'ils imposent à autrui demande des dés. Leur place dans la hiérarchie est décrite dans [L'Empire](../univers/empire.md#le-silence).
 
-| Ordre | Privé de | Pouvoir |
+| Ordre | Greffe | Pouvoir |
 |---|---|---|
-| **Les Sirènes** | l'odorat | sentent toute magie lancée dans leur périmètre (un quai, une place, un bâtiment), même discrète et sous 15, et sa tradition |
-| *(à nommer)* | l'ouïe | sentent tout mouvement autour d'eux, même dans le noir ou derrière un mur |
-| *(à nommer)* | la vue | sentent les esprits présents et parlent par télépathie ; sonder les pensées : la cible oppose ses DP, comme à un sort d'esprit |
-| *(à nommer)* | les mains | télékinésie : saisir, porter, ouvrir à distance comme avec des mains ; contre une personne (désarmer, saisir, projeter), action en DP, la cible oppose sa garde, comme à un sort physique |
-| *(à nommer)* | les jambes | volent comme on marche ; leurs dés de mouvement servent dans les airs |
+| **Basilique** | des pieux de palladium dans les yeux | aveugle, il sent tout ce qui bouge autour de lui, même dans le noir ou derrière un mur : on ne le surprend pas, on ne le prend pas à revers. Il repousse le métal : contre une personne en mailles ou en plaque, action en DP, la cible oppose sa garde ou recule hors du contact |
+| **Sirène**, dite **inquisiteur** | ⚠ | la **télépathie** : elle parle dans les têtes, à tout un groupe à la fois. Sonder les pensées de quelqu'un : la cible oppose ses DP, comme à un sort d'esprit |
+| **Témoin** | ⚠ | l'assassin de l'ordre, spécialisé dans la **traque des mages** : il suit la trace d'un sort jusqu'à son lanceur, comme un chien suit une piste |
+| **Criquet** | ⚠ (l'odorat ?) | le **disrupteur de magie** : il sent toute magie lancée dans son périmètre (un quai, une place, un bâtiment), même discrète et sous 15, et sa tradition ; et il **crie** (voir ci-dessous) |
 
-**Le cri des Sirènes.** Une Sirène pose des DP en garde, comme pour un [contre-sort](#le-contre-sort), et crie au premier sort lancé dans son périmètre.
+Au-dessus d'eux, la **Voûte** lance de vrais sorts, et les **Apôtres** ont les doigts, la langue et les yeux de palladium.
+
+**Le cri du Criquet.** Un Criquet pose des DP en garde, comme pour un [contre-sort](#le-contre-sort), et crie au premier sort lancé dans son périmètre.
 - **Interrompre** : tout sort lancé dans le périmètre pendant ce round, et dont le total ne dépasse pas celui du cri, est annulé. Un seul cri touche tous les lanceurs.
 - **Ébranler** : chacun de ceux qui l'entendent oppose ses DP. En dessous du total du cri, il est ébranlé : au round suivant, il retire son dé le plus haut avant d'assigner.
 - Un sourd n'entend pas le cri.
 
 ::: mj
-**Le palladium.** Chaque ordre porte une greffe de palladium, souvent à même la chair, à la place de ce qu'il a perdu. La greffe est forte : c'est le métal qui sent, saisit ou porte, et c'est pourquoi ses porteurs n'ont pas besoin de dés. Le Silence l'exploite dans la mine des Monts Spectraux et convoite la veine sous le Gouffre (voir `mj/timeline.md`, *Le Palladium et le Silence*). Proteo, qui sniffe la poudre, sent à son tour les membres du Silence : il emprunte, sans le savoir, le sens des Sirènes.
+**Le palladium.** La greffe est forte : c'est le métal qui sent, saisit ou porte, et c'est pourquoi ses porteurs n'ont pas besoin de dés. Le Silence l'exploite dans la mine des Monts Spectraux et convoite la veine sous le Gouffre (voir `mj/timeline.md`, *Le Palladium et le Silence*). Proteo, qui sniffe la poudre, sent à son tour les membres du Silence : il emprunte, sans le savoir, le sens des Criquets.
 :::
 
 ::: dev
-**En test (2026-10-16), à revérifier par le MJ dans ses notes** : les cinq ordres, leurs privations et leurs noms. À la table, les noms étaient *Méduse*, *Basilic* et *Sirènes* ; le MJ trouve qu'ils ne collent pas au lore (créatures grecques dans une cité germanique). Piste : des noms allemands ironiques, comme le reste du vocabulaire de la ville (*Taufbecken*, *Sturmbrecher*) — chaque ordre nommé d'après ce qu'il a perdu et retrouvé par le métal : *Lauscher* (les sourds qui écoutent le mouvement), *Seher* (les aveugles qui voient les esprits), *Greifer* (les sans-mains qui saisissent), *Läufer* (les sans-jambes qui courent dans les airs). *Sirènes* peut rester le surnom populaire de l'ordre qui crie. La privation rejoint la piste « magie par privation » de `CLAUDE.md` : un interdit réel achète un pouvoir. Le cri reprend le contre-sort et le verbe miroir « dé le plus haut retiré avant assignation » ([Grammaire des dés](resolution-et-combat.md)).
+**Revu le 2026-10-18** d'après la note aux joueurs *Soldats du Silence* du MJ, qui donne la hiérarchie et les noms : *Basilique* (pieux dans les yeux), *Sirène* (télépathie, dite inquisiteur), *Témoin* (assassin, traque des mages), *Criquet* (disrupteur de magie). Les pouvoirs attribués auparavant à la Sirène (sentir la magie, le cri) passent au **Criquet** (validé par le MJ). Les noms *Basilique*, *Sirène* et *Criquet* sont provisoires : le MJ en cherche de meilleurs ; *Témoin* reste. À la table, la Sirène « dissipait les sorts » (épisode 10) et parlait dans les têtes (épisode 16) : la note du MJ tranche pour la télépathie. Les greffes de la Sirène, du Témoin et du Criquet restent à préciser ; les ordres « sans mains » (télékinésie) et « sans jambes » (vol) proposés le 2026-10-16 ne sont pas dans la note et sont retirés.
 :::
 
 ---

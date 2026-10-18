@@ -54,7 +54,7 @@ Un fléau qui n'a qu'un gros pool tombe en deux rounds (voir le minotaure, plus 
 |---|---|---|---|---|---|
 | **Mercenaire en livrée** | sbire | 2 (épée) | 4 | −1 (gambison) | payé, pas loyal : fuit à la première mort |
 | **Garde du Guet** | soldat | 3 (gourdin, bouclier) | 8 | −1 | siffle : des renforts au round suivant |
-| **Soldat du Silence** | soldat | 3 (lance) | 8 | −1 (gambison) | en ligne, il protège la Sirène ou le prêtre qu'il escorte |
+| **Soldat du Silence** | soldat | 3 (lance) | 8 | −1 (gambison) | en ligne, il protège le Criquet ou le prêtre qu'il escorte |
 | **Tireur à la sarbacane** | sbire | 2 (sarbacane, à distance) | 4 | 0 | **poison enrageant** des hommes-lézards : la cible touchée oppose ses DP (5+) ou frappe la personne la plus proche au round suivant ; sur une bête, elle se déchaîne |
 | **Spadassin, garde du corps** | vétéran | 4 (rapière) | 12 | −1 | *duel* : contre un seul adversaire, +1 au total de son attaque |
 | **Officier, noble d'épée** | vétéran | 4 | 12 | −2 (mailles) | commande : un allié au contact peut relancer un dé par round |
@@ -69,12 +69,14 @@ Voir [Les sens du Silence](../regles/magie.md#les-sens-du-silence) : leurs pouvo
 
 | Profil | Rang | DA | DP | PV | Armure | Spécial |
 |---|---|---|---|---|---|---|
-| **Prêtre du Silence** | soldat | 2 (masse) | 2 + 1 éphémère | 8 | −2 | théurge : *Arrestation*, contre-sort ; c'est la Sirène, s'il y en a une, qui sent la magie |
-| **Sirène** | vétéran | 2 | 3 | 10 | −1 | sent toute magie du périmètre ; **le cri** (interrompre, ébranler) ; un ordre mental qui blesse : chacun oppose ses DP, sous le total il perd 2 PV |
-| **Garde aux yeux crevés** (« Basilic » à la table) | vétéran | 4 (mains nues ou lance) | 2 | 14 | −1 | sent tout autour de lui : **ne peut pas être surpris ni pris à revers** ; repousse le métal par une force invisible (action en DP : la cible en armure de mailles ou de plaque oppose sa garde ou recule hors du contact) ; ne parle pas, même blessé |
+| **Prêtre du Silence** | soldat | 2 (masse) | 2 + 1 éphémère | 8 | −2 | théurge : *Arrestation*, contre-sort ; c'est le Criquet, s'il y en a un, qui sent la magie |
+| **Sirène** (inquisiteur) | vétéran | 2 | 3 | 10 | −1 | **télépathie** : parle dans toutes les têtes du groupe ; un ordre mental qui blesse : chacun oppose ses DP, sous le total il perd 2 PV ; sonde les pensées d'un prisonnier |
+| **Criquet** | vétéran | 2 | 3 | 10 | −1 | sent toute magie du périmètre ; **le cri** (interrompre, ébranler) |
+| **Témoin** | vétéran | 4 (dague) | 2 | 12 | −1 | assassin, traqueur de mages : suit la trace d'un sort jusqu'à son lanceur ; *embuscade* : sa première attaque contre un mage qui ne l'a pas vu se résout avant les gardes |
+| **Basilique** | vétéran | 4 (mains nues ou lance) | 2 | 14 | −1 | sent tout autour de lui : **ne peut pas être surpris ni pris à revers** ; repousse le métal par une force invisible (action en DP : la cible en armure de mailles ou de plaque oppose sa garde ou recule hors du contact) ; ne parle pas, même blessé |
 
 ::: dev
-**À trancher avec les noms des ordres.** Le garde affronté à la table avait **deux pieux de palladium dans les orbites** et un dans le cœur ; il « sentait tout » et repoussait les armures. La table de `regles/magie.md` donne aux aveugles le sens des esprits et la télépathie, mais ce garde communiquait par signes. Soit c'est un ordre à part, soit un aveugle doublé d'un sans-mains. Le nom de table *Basilic* est jugé hors lore (voir `CLAUDE.md`).
+**Noms tranchés (2026-10-18)** par la note *Soldats du Silence* : le garde affronté à la table, avec **deux pieux de palladium dans les orbites** et un dans le cœur, qui « sentait tout » et repoussait les armures, est un **Basilique**. La Sirène est la télépathe ; le Criquet reprend le sens de la magie et le cri (proposition, voir `regles/magie.md`).
 :::
 
 ---

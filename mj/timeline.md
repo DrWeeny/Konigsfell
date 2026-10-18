@@ -202,7 +202,7 @@ Fervent croyant, manipulé par le Pape. Décide de "combattre le mal par le mal"
 | 5 | Comte NassernHund | Le Chien Mouillé | Actif |
 | 6 | Comte Wildepfeife | Le Callumet | Actif |
 | 7 | Comte Jagenwilde | Le Giboyeur | Actif |
-| 8 | Comte Morgenwell | L'Onde / Le Matin | Actif |
+| 8 | Comte Morgenwelle | L'Onde / Le Matin | Actif |
 | 9 | Comtesse Zotten Unterwegs | La Ribaude | Active |
 | 10 | Comte/Comtesse Zeichen | Le Présage | Actif(ve) |
 | 11 | Comtesse Göre | La Gamine / Le Doppelgänger | Active — **Iggigi !** |

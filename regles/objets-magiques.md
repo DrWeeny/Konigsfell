@@ -11,7 +11,7 @@
 1. **Un objet, un verbe.** Un objet fait une seule chose, écrite avec un verbe de la [grammaire des dés](resolution-et-combat.md#grammaire-des-dés) (ajustement, relance, dé supplémentaire…) ou un effet de sort chiffré. Un objet aux dix pouvoirs ne se joue pas : on le coupe en dix objets.
 2. **Un palier.** Il se lit sur l'échelle : Léger, Notable, Fort, Exceptionnel, Relique. Le palier dit ce qu'il vaut, pas ce qu'il coûte : à Königsfell, on paie en faveurs et en risques.
 3. **Une recharge.** Un objet permanent se recharge **par scène**, comme les pools. Une rune ou une fiole sert **une fois**.
-4. **Un permis.** Hors des [sceaux officiels](armurerie.md#les-sceaux-officiels), porter un objet magique demande le papier qui va avec : le permis de sa guilde, une licence du Registre, l'autorisation d'un Comte. Sans papier, le Silence saisit, et il remonte à qui l'a fait.
+4. **Un permis.** Hors des [sceaux officiels](armurerie.md#les-sceaux-officiels), porter un objet magique demande le papier qui va avec : le **permis de détention** délivré par l'[Hextura](../univers/guildes.md#lhextura), le permis de sa guilde, une licence du Registre, l'autorisation d'un Comte. Sans papier, le Silence saisit, et il remonte à qui l'a fait.
 
 ---
 
@@ -77,8 +77,10 @@ Un bocal, gagné au *Bal des Armes*. **Relique.** De quoi oindre quelques fois (
 
 - **Poison enrageant** des hommes-lézards, que le Sucret appelle aussi *Gila Nadja*, comme son antidote (billes de verre, sarbacane ; la table en a saisi vingt-trois) : voir le [tireur à la sarbacane](../mj/bestiaire.md#les-humains).
 - **Feu grégeois** : un liquide noirâtre qui brûle sur l'eau. L'eau ne l'éteint pas, et *Déplacement de l'eau* non plus : c'est la terreur de l'Eau Calme. Un tonneau fait sauter une salle.
-- **Transfumance** : la drogue d'échange de souvenirs, fumée dans les alcôves. Celui qui donne un souvenir le perd pour toujours.
-- **Fragments** : le piment des Mortivières, qui rend des fragments de souvenirs perdus.
+- **Les drogues des Mortivières.** Dans les champs de tabac de l'Est, on cultive des drogues magiques dans les **Mortivières** : des rizières aménagées sur des fosses communes akkadiennes. Les morts nourrissent ce qui y pousse, et ce qui y pousse touche à la mémoire.
+  - **Fragriment** : un piment qui provoque de **vifs souvenirs**.
+  - **Transfumance** : elle **transfère un souvenir** d'une personne à une autre, de façon permanente : celui qui le reçoit s'en souvient comme s'il l'avait vécu, celui qui le donne le perd pour toujours. On la fume dans les alcôves des bals.
+  - **Transmotabac** : un tabac qui **lie vos souvenirs à ceux d'un animal**.
 - **Sève jaune d'End Station** : les yeux jaunissent. **+1 DC pour une scène**, puis **−1 DC** pour autant de scènes, et l'envie d'en reprendre. Johan Primo en vit.
 
 ---
@@ -102,6 +104,7 @@ Les objets magiques **légaux**, que tout le monde croise.
 Un objet magique ne dit pas ce qu'il fait. Pour le savoir, on l'**identifie** au palier de sa puissance : Léger 5+, Notable ou Fort 10+, Exceptionnel 15+, Relique 25+.
 
 - *Lecture runique* (runiste) ou *Analyse* (Physicus, pour une substance) ; sinon un expert de guilde, contre un service, et il saura ce que vous portez.
+- **Le Bizareum.** Le marché des objets trouvés de la cité : on y fait expertiser, on y vend aux enchères, et l'on y touche une récompense pour un objet déclaré dangereux (voir [La Cité](../univers/lieux/konigsfell-ville.md#le-marché-bizareum)).
 - **Sans identification, on joue à l'aveugle** : le MJ décrit ce que l'objet fait quand il le fait, la première fois.
 - **Un objet à plusieurs propriétés les révèle une à une**, chacune à son palier : la première à 10+, la suivante à 15+, la plus profonde à 25+. Un jet réussi révèle toutes les propriétés sous son total. C'est ainsi qu'un objet dangereux se laisse porter avant qu'on sache tout ce qu'il fait.
 

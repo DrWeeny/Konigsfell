@@ -23,10 +23,10 @@ Les Erlösers de la cathédrale se manifestent de plus en plus fort. La Custodia
 | 🗺️ **Quête d'artefact** | Trouver l'**Oracle** (arbre de métal ancien) pour consulter sur le vrai danger | Vieux textes akkadiens, cartographe retraité, piste vers ruines |
 | ⚔️ **Piraterie** | Un équipage suellien veut récupérer les Erlösers pour en faire arme biologique | Abordage, course contre Die Rostra, négociation |
 | 🕯️ **Akkadien** | Rite ancien permettant de calmer/communiquer avec les Erlösers | Prêtre akkadien caché, sacrifice rituel, connexion Kette |
-| 🎭 **Intrigues politiques** | Custodia exagère pour rester pertinente ? Morgenwell cache quelque chose ? | Suspicion interne, jeu de factions |
+| 🎭 **Intrigues politiques** | Custodia exagère pour rester pertinente ? Morgenwelle cache quelque chose ? | Suspicion interne, jeu de factions |
 
 **Lieux clés :** Cathédrale Überlieben, Archives Eau Calme, ruines potentielles, sanctuaire akkadien.
-**PNJ clés :** Chef Custodia (nom à définir), Morgenwell, prêtre akkadien clandestin.
+**PNJ clés :** Chef Custodia (nom à définir), Morgenwelle, prêtre akkadien clandestin.
 
 ---
 

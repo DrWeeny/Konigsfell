@@ -52,7 +52,7 @@ Face à une Akkadie dont l'armée semblait inépuisable et dont le temps jouait 
 
 Lors d'une bataille décisive, le **Comte Kette** — l'un des Onze — invoqua des créatures d'énergie élémentaires dans un sacrifice ultime. Ces créatures provoquèrent un tsunami dévastateur qui balaya le champ de bataille. Kette mourut. L'Empire profita du chaos pour blesser mortellement le Roi de la Nuit.
 
-Victoire technique des croisés.
+Victoire technique des croisés. Ce tsunami, on l'appelle la **Godwelle** : la vague qui a changé le cours du destin et de la guerre.
 
 Depuis ce jour, des tsunamis récurrents frappent les côtes de Königsfell. Personne ne comprend vraiment pourquoi. La cathédrale **Überlieben** fut érigée à l'endroit du sacrifice, lieu de mémoire et de pèlerinage.
 

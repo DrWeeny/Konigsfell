@@ -55,7 +55,7 @@
 
 **Au Jubilé Impérial :** si les PJ ont résolu l'enquête, c'est lui qui insiste pour les intégrer à l'événement — veut tester leur compétence avant recrutement.
 
-**Connexions :** Comte Auge (rivalité), Comte Morgenwell (allié), futurs PJ potentiels
+**Connexions :** Comte Auge (rivalité), Comte Morgenwelle (allié), futurs PJ potentiels
 
 ---
 

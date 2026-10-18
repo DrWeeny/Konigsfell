@@ -4,6 +4,16 @@
 
 ---
 
+## Le drapeau
+
+![Le drapeau de Königsfell](../images/drapeau-konigsfell.jpg)
+
+Le drapeau de Königsfell porte **la rune d'Überlieben**, l'*Algiz*, en or, de haut en bas. Ses deux branches forment **une coupe**, et dans la coupe, **du sang versé** : celui de Kette, qui s'est sacrifié pour la victoire, et celui des croisés. La rune partage le champ en deux : **violet** à gauche, **noir** à droite.
+
+Le violet et l'or sont aussi les couleurs de l'Empire : la cité les garde, et y ajoute le noir du deuil.
+
+---
+
 ## Géographie & Présentation
 
 Königsfell est une cité portuaire construite sur un réseau de canaux, d'îles et de ponts. Héritage du Roi Peausserie, elle est un enchevêtrement de palais extravagants, de tours reliées par des passerelles, de ruelles inondées et de quartiers suspendus au-dessus de l'eau sombre.
@@ -32,7 +42,7 @@ Ambiance : ouvriers, nains, petits commerces, ruelles boueuses. L'odeur de l'arg
 
 Les bas-fonds de Königsfell. Un labyrinthe de ruelles étroites, de passages couverts et d'impasses où même les patrouilles du Silence hésitent à s'aventurer seules. Repaire de guildes clandestines, de receleurs et de tout ce que la cité préfère ne pas regarder en face.
 
-Ambiance : obscur, humide, vivant d'une vie parallèle à la ville officielle. Chaque mur suinte, chaque ombre abrite quelque chose.
+Ambiance : obscur, humide, vivant d'une vie parallèle à la ville officielle. Chaque mur suinte, chaque ombre abrite quelque chose. C'est là que se tient le grand [Marché Bizareum](#le-marché-bizareum).
 
 ---
 
@@ -40,7 +50,7 @@ Ambiance : obscur, humide, vivant d'une vie parallèle à la ville officielle. C
 
 Le quartier militaire et marchand de Königsfell. D'immenses champs de **fleurs rouges** s'étendent au nord — la légende dit qu'elles se sont nourries du sang des soldats tombés pendant les Croisades et ne se fanent jamais. De là partent les principales routes vers l'Empire. On y trouve les casernes, les terrains d'entraînement et de grandes arènes de gladiateurs.
 
-Ambiance : discipliné, martial, bruyant. Marchés importants, soldats en permission, odeur de sueur et de sang d'arène.
+Ambiance : discipliné, martial, bruyant. Marchés importants, soldats en permission, odeur de sueur et de sang d'arène. C'est ici que se tient le [Marché écarlate](#le-marché-écarlate), où l'on vend les bêtes.
 
 ---
 
@@ -78,7 +88,7 @@ Ambiance : campagnard, méfiant envers les étrangers de la ville, traditions an
 
 Le quartier portuaire de Königsfell est bâti en contrebas de la cité. Les canaux y tombent en lentes cascades vers la mer, entre des sculptures de dragons qui servent de fontaines. D'immenses lames de bois noir plongent dans l'eau comme des côtes de navire géant : vues du ciel, elles donnent l'impression que les gargouilles de la ville crachent une charpente vivante dans l'océan.
 
-Au coeur du quartier se trouve l'**Eau Calme**. Aujourd'hui, c'est un groupement de guildes (service civil, formation, transport, logistique, milice), mais tout commence avec le Comte Morgenwell : après le tsunami de la Croisade, il lança une enquête pour comprendre ce qui avait ravagé le champ de bataille (sort ennemi, sort allié, phénomène naturel, ou conséquence de la chute de Kette).
+Au coeur du quartier se trouve l'**Eau Calme**. Aujourd'hui, c'est un groupement de guildes (service civil, formation, transport, logistique, milice), mais tout commence avec le Comte Morgenwelle : après le tsunami de la Croisade, il lança une enquête pour comprendre ce qui avait ravagé le champ de bataille (sort ennemi, sort allié, phénomène naturel, ou conséquence de la chute de Kette).
 
 La guerre terminée, un premier bâtiment modeste fut construit sur le littoral avec quelques apprentis. L'institution grossit vite quand l'Empire rejeta Königsfell : il fallait tout reconstruire localement - recensement, métiers, école, navigation, discipline militaire.
 
@@ -123,6 +133,43 @@ Ambiance : forteresse, voyageurs de passage, tension politique latente. On ne pa
 
 ---
 
+## Lieux remarquables
+
+### Le Marché Bizareum
+
+Königsfell est une cité millénaire dont toute la population fut chassée du jour au lendemain, à la Croisade. Elle a laissé beaucoup de choses derrière elle. Des aventuriers ont arpenté la ville pendant des siècles, et pourtant des objets magiques traînent encore çà et là, dans les caves, les tours et les canaux.
+
+Entre les lois très strictes de l'Empire et la réalité, la ville a choisi de donner un coup de pouce au recensement : le **Bizareum**. C'est un grand vide-grenier des objets trouvés. Le plus grand se tient dans le **Dédale** ; il en pousse d'autres ailleurs, plus petits, au gré des trouvailles.
+
+- **Les enchères** sont organisées par l'**Hextura**, la maison du Comte Auge, spécialisée dans les **malédictions** : elle sait ce qu'un objet porte avant de le vendre, et ce qu'il porte, elle le garde en mémoire.
+- **Une récompense** est versée pour tout objet déclaré et jugé dangereux : mieux vaut le rapporter que le garder.
+- **Les stands.** Au fil des siècles, avec l'**embargo** que l'Empire impose à Königsfell, des aventuriers, des archéologues de l'[Archäosucher](../guildes.md#larchäosucher--la-guilde-des-archéologues) et des magiciens se sont installés autour des enchères. On y trouve désormais beaucoup de choses, **légalement**.
+- **Les contrôles.** Les événements récents ont amené des contrôles drastiques : l'Hextura expertise, le Silence regarde.
+
+Pour un groupe, le Bizareum est l'endroit où l'on vend ce qu'on a ramassé, où l'on fait identifier un objet, et où l'on croise ceux qui cherchent la même chose que vous.
+
+### Le Marché écarlate
+
+Dans les **Champs-Cardinal**. *Si une bête doit vous convenir, elle se trouve au Marché écarlate.*
+
+On y vend le bétail de toujours : bœuf, porc, mouton, chèvre, chien, chat, poules, dinde, cheval. Et tout ce que les Croisades, le Nouveau Monde et les ruines ont fait remonter : minotaures, tigres, gargouilles, lions, taureaux, éléphants, renards, guépards, centaures, cerbères, paons, pégases, poulpes, lionceaux de mer, mimiques…
+
+C'est là que les belluaires de la [Luba Bellua](../guildes.md#la-luba-bellua--la-guilde-des-belluaires) achètent pour les arènes voisines, et là qu'un noble trouve le guépard qu'il promènera en laisse.
+
+::: mj
+Certaines de ces créatures parlent : un centaure à vendre pose la question de l'esclavage dans la cité, et c'est une scène en soi. Les bêtes du Marché écarlate ont leurs profils dans le [bestiaire](../../mj/bestiaire.md#les-bêtes-et-les-créatures) quand elles existent ; sinon, le barème suffit.
+:::
+
+### Le Marché aux épices
+
+Le fruit des Mortivières, la drogue, la prostitution, et les épices aussi : tout est ici. Le marché fait tache sur les valeurs de l'Empire, et personne ne s'en porte garant : il n'a **aucun représentant moral**. Il s'organise **ponctuellement, le temps d'une journée**, et **jamais au même endroit** : une journée aussi mémorable qu'on en garde rarement de souvenirs. Savoir où il se tiendra la prochaine fois est déjà une information qui se vend.
+
+::: mj
+C'est là que s'achètent les drogues des Mortivières, le **Fragriment**, la **Transfumance** et le **Transmotabac** (voir [Objets magiques](../../regles/objets-magiques.md#substances-de-la-cité)) : une journée dont on ne se souvient pas est souvent une journée où l'on a vendu un souvenir. Au deuxième épisode du *Sucret*, le groupe achète déjà au marché deux piments, dont un des Mortivières, pour vingt ailes d'argent. Comme personne ne le représente, personne n'en répond : le Silence n'y a pas d'interlocuteur, et c'est le lieu idéal pour une rencontre qu'on veut oublier.
+:::
+
+---
+
 ## Atmosphère Générale
 
 Königsfell est une ville qui a survécu à trop de choses pour être naïve. Les canaux charrient des rumeurs autant que des marchandises. Les palais brillants cachent des caves humides. Les Comtes vénérés sourient en public et calculent en privé.
@@ -137,7 +184,9 @@ La **Guilde de l'Eau Calme** maintient l'ordre sur les canaux, forme une partie 
 
 **La magie est contrôlée.** Tout pratiquant doit posséder un permis de magie. Les mages trop puissants sont soumis au **Système Dyade** : un proche devient otage à la capitale impériale, leurs vies liées par rituel. Le **Statut Smriti** — accordé aux mages ayant accompli des faits d'armes extraordinaires — libère l'otage.
 
-**Le Silence est partout.** L'inquisition impériale patrouille les rues, surveille les archives, contrôle les entrées et sorties. Un système de visa spécial est requis pour entrer ou sortir de la ville — Königsfell est officiellement indépendante mais géopolitiquement isolée.
+**Le Silence est partout.** L'inquisition impériale patrouille les rues, surveille les archives, contrôle les entrées et sorties. Un visa, le **Tastesperren**, est requis pour entrer ou sortir de la ville (voir [L'Empire](../empire.md#tastesperren-et-officines)) — Königsfell est officiellement indépendante mais géopolitiquement isolée.
+
+**L'embargo.** L'Empire tient Königsfell sous embargo. Le prétexte : par la cité, des Akkadiens pourraient traverser vers l'Empire et l'espionner. Ce qui n'entre plus par les routes se trouve sur place, au Bizareum, ou passe par le Dédale.
 
 **La tradition akkadienne persiste.** Malgré les croisades et la doctrine impériale, des prêtres akkadiens vivent encore en ville, des rites anciens se pratiquent discrètement, et la mémoire de la guerre n'a pas entièrement disparu.
 
@@ -148,6 +197,10 @@ La **Guilde de l'Eau Calme** maintient l'ordre sur les canaux, forme une partie 
 ### Les bals du jeudi
 
 Tous les jeudis, d'immenses **bals populaires**, souvent masqués, fêtent **Überlieben** et la victoire des Comtes. Ils sont censés effacer les différences entre les classes sociales ; ils font bien souvent le contraire. Sous le masque, on danse avec qui l'on ne recevrait jamais, et l'on y noue plus d'alliances, de dettes et de complots qu'au Palais de Cristal : **le bal du jeudi est un haut lieu politique**.
+
+### Le Marché aux époux
+
+**Tous les six mois**, l'administration de la cité et l'Eau Calme organisent un bal pour aider les militaires à rencontrer une compagne. Les soldats en permission des Champs-Cardinal y viennent en uniforme brossé ; les familles y amènent leurs filles, ou les y envoient. On y danse, on s'y présente, on s'y promet, et l'on y négocie plus qu'on ne l'avoue : c'est un marché, le nom le dit.
 
 ### Le jeudi d'argent
 

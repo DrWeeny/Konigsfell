@@ -18,7 +18,7 @@ Chaque fiche contient 4 axes:
 
 ## 1) Comte Kette — L'Enchaîné
 
-- **Origine :** pupille de l'Empereur, élevé au palais avec Göre ; jeune, c'était un tieffelin (rêve de Göre, Le Sucret épisode 21).
+- **Origine :** pupille de l'Empereur, élevé au palais avec Göre ; jeune, c'était un tieffelin (rêve de Göre, Le Sucret épisode 21). Voyageur et **barde** : la guilde du Betrachten se réclame de lui, sans l'avoir jamais connu.
 - **Rôle public :** héros mort de la Deuxième Croisade, martyr du tsunami. Mort dans l'esprit des gens : son siège de Comte est vacant (voir l'Hydre, `timeline.md`).
 - **Agenda secret :** il a rejoint le Rêve en se sacrifiant et y est devenu Überlieben. Il gagne du temps contre les Erlöser en provoquant des catastrophes qui les nourrissent, et recrute des agents pour « sauver » les gens dans le Rêve. Les Erlöser se nourrissent encore de sa magie (voir `timeline.md`, *Le Rêve — la vérité*). C'est lui, le **Maître des rêves** : il a étendu le Rêve et l'a peuplé de créatures qui l'appellent ainsi.
 - **Levier PJ :** comprendre le lien `Codex Inspirationem` -> contamination -> escalade des crises.
@@ -44,6 +44,7 @@ Chaque fiche contient 4 axes:
 - **Rôle public :** observateur discret, maître du renseignement froid.
 - **Agenda secret :** provoquer un incident politique pour affaiblir l'héritier impérial et reprendre la main.
 - **Le funambule :** il aide les complots et finance les opposants, mais son serment lui interdit de s'impliquer dans un meurtre, même s'il sait que son argent peut y mener. Le Serment reposant en partie sur la perception, et Auge ne tenant pas Willensein pour le véritable Empereur, il marche sur une ligne fine sans se parjurer.
+- **L'Hextura :** sa guilde, petite et élitiste, spécialisée dans les malédictions : objets, runes, parchemins, permis de détention, et depuis peu le recensement ; elle tient les enchères du Bizareum, donc la liste de tout objet magique qui change de mains (`univers/guildes.md`).
 - **Levier PJ :** informations rares, services occultes, opportunisme assumé.
 - **Accroche immédiate :** contacte les PJ via intermédiaire pour "sécuriser" un événement de manière ambiguë.
 
@@ -88,7 +89,7 @@ Chaque fiche contient 4 axes:
 
 ---
 
-## 8) Comte Morgenwell — L'Onde / Le Matin
+## 8) Comte Morgenwelle — L'Onde / Le Matin
 
 - **Rôle public :** patron académique de l'Eau Calme, mage réformateur.
 - **Agenda secret :** libéraliser la magie tout en évitant la fracture avec l'ordre impérial.
@@ -131,7 +132,7 @@ Chaque fiche contient 4 axes:
 
 | Axe | Acteurs dominants | Risque |
 |---|---|---|
-| Stabilité civique | Hahn, Morgenwell | Enterrer des vérités explosives |
+| Stabilité civique | Hahn, Morgenwelle | Enterrer des vérités explosives |
 | Rupture politique | Auge (et opportunistes) | Crise au Jubilé, guerre d'influence |
 | Force brute / spectacle | Gelieber, NassernHund, Wildepfeife | Violence ritualisée qui déborde |
 | Frontières extérieures | Jagenwilde, Zeichen | Menaces incomprises ramenées en ville |

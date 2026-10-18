@@ -87,7 +87,7 @@ Quand une décision change : ajouter une entrée datée dans `dev/journal.md`, p
 - **en test** — **Économie d'action du mage** : DP de base achetable (4 / 8 / 12 XP, comme les DA) ; **écho** une fois par scène (un sort réussi touche une seconde cible au même total, contre autant d'éphémères payés comptant, sans jet) ; déclencher une préparation est une action de DA, pas le sort du round.
 - **en test** — Les 15 sorts et préparations de départ ont leurs paliers chiffrés par la formule (`archetypes.md`).
 - **en test** — Résistance : sort physique → garde ; sort sur l'esprit → DP. Double 1 = contrecoup. **Trace** (sort à 15+, improvisation, contrecoup) : un frein politique.
-- **acté** — **Garde magique ouverte à tous.** **Contre-sort ouvert à tout pratiquant**, à égalité : DP en garde contre la magie, total ≥ sort → sort annulé. Le Théurge reçoit à la place *Arrestation*, un sort d'immobilisation borné par la sommation (en test). **Les sens du Silence** (en test, à revérifier) : des ordres privés d'un sens perçoivent sans jet ; les **Sirènes** (privées d'odorat, modifiées au palladium) sentent la magie, et leur cri interrompt les sorts et ébranle ; quatre autres ordres, noms à trouver (sourds : le mouvement ; aveugles : les esprits, télépathie ; sans mains : télékinésie ; sans jambes : vol). Greffe de palladium à la place du sens ou du membre perdu. Anciens noms de table (*Méduse*, *Basilic*) jugés hors lore.
+- **acté** — **Garde magique ouverte à tous.** **Contre-sort ouvert à tout pratiquant**, à égalité : DP en garde contre la magie, total ≥ sort → sort annulé. Le Théurge reçoit à la place *Arrestation*, un sort d'immobilisation borné par la sommation (en test). **Les sens du Silence** (en test) : ordres greffés de palladium, pouvoirs sans jet ; hiérarchie dans `univers/empire.md`. **Basilique** (pieux dans les yeux : sent tout, repousse le métal), **Sirène** dite inquisiteur (télépathie), **Témoin** (assassin, traque des mages), **Criquet** (sent la magie, son cri interrompt les sorts). Noms de Basilique, Sirène et Criquet à remplacer (**ouvert**) ; *Témoin* reste.
 - **en test** — **Inventaire verbe × domaine** des cinq traditions, seuils calculés (`magie.md`).
 - **en test** — Théurge du Silence, Physicus, Runiste du Registre écrits (`archetypes.md`). Piste **magie par privation** (interdit personnel = prix réel).
 
@@ -103,7 +103,7 @@ Quand une décision change : ajouter une entrée datée dans `dev/journal.md`, p
 - **Tuer Kette** demande l'**arme de l'Arbre de Métal** (l'Autre Épée : cinq branches de fer, chacune arrachée change un destin) ; l'épée-arbre du rêve de Ketnis en était l'indice.
 - **La Nuit** : née du pouvoir des dragons morts qui pèse sur le territoire et du Roi de la Nuit ; ses créatures sont des korrigans, cruels ou bienfaisants, dans le gris ; l'Empire y voit une corruption et la déteste. S'en faire une alliée est un choix (Lucie).
 - **Lucie** : maîtresse du cauchemar, l'Iggigi du Rêve ; ses pouvoirs et ses dons disparaissent avec le Rêve. **Göre** : ses doubles sont sa chair accumulée et modelée ; elle est la somme de tous.
-- Orthographe fixée : **Assur Sandergul**. Brainstorm ChatGPT écarté : le dépôt fait foi.
+- Orthographe fixée : **Assur Sandergul**, **Comte Morgenwelle** (fondateur de l'Eau Calme). **Godwelle** : le tsunami de la Croisade, qui a changé le cours de la guerre. Brainstorm ChatGPT écarté : le dépôt fait foi.
 - **ouvert** — Nowitzki ; apprentis rivaux de l'épisode 21.
 
 ### Campagne et méthode

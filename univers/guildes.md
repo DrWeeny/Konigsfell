@@ -6,6 +6,87 @@
 
 ---
 
+## L'Eau Calme — *Welle in Ruhe*
+
+La guilde de l'Eau Calme a été créée pour contrer **les tsunamis** qui ravagent l'Océan et s'écrasent contre Königsfell plusieurs fois par an. Son histoire et son université sont décrites avec le [Léviathan](lieux/konigsfell-ville.md#-léviathan).
+
+**Son fondateur.** Le **Comte Morgenwelle** l'a fondée, puis lui a peu à peu confié la formation des mages officiels de Königsfell, l'armée et la milice locale.
+
+**Ce qu'elle tient.** L'entretien des canaux, des promenlags, des égouts et des souterrains de la région ; les Bacs et les Coquilles ; tous les chantiers navals ; l'exploration. Autant de tâches qui lui donnent un grand pouvoir dans la ville. Elle joue aussi un rôle majeur dans la marine, du côté de l'Atlantique.
+
+**Sa magie.** Ses praticiens sont hautement spécialisés dans la manipulation de **l'eau et du bois**.
+
+**Ses chiffres.** **200 000 membres**, dont **50 Maesters** et **10 Archimages**, et **100 navires de guerre**. Au cours de leurs expéditions, ils ont découvert l'origine de la **Godwelle**, le tsunami de la Croisade qui a changé le cours du destin et de la guerre, et de ceux qui ont suivi : **le Nouveau Monde**.
+
+### Les grades
+
+Tout commence comme **Apprenti**. Ensuite, deux voies.
+
+**La voie des mages :**
+
+- **Initié** : le magicien qui n'a pas été jugé apte, et qui valide son cursus.
+- **Sortilège**, ou **Fluchkrieger** : le mage tacticien, qui rejoint les ordres militaires, sur terre ou dans la marine.
+- **Docteur** : le mage à potentiel à qui l'on confie des études civiles.
+  - **Professeur**
+    - **Maester** : les mages prestigieux de la guilde.
+      - **Archimage** : les directeurs de la guilde.
+
+**La voie des armes :**
+
+- **Milicien**
+- **Soldat**, puis les grades militaires de l'armée.
+- **Matelot**, puis les grades militaires de la marine.
+- **Ouvrier d'arsenal**
+
+**Pour un personnage.** Un *Mage de l'Eau Calme* commence Apprenti ou Initié ; *Docteur* Schön portait le grade de la voie civile. Un Landsknecht peut sortir de la milice ou de l'armée de la guilde, un *Gondolier* ou un *Capitaine de navire* de ses Bacs et de sa marine.
+
+::: dev
+Source : note aux joueurs *Welle In Ruhe – L'Eau Calme* (Roll20). Graphie **Morgenwelle** retenue (2026-10-18), corrigée partout. **Godwelle** : le tsunami de la Croisade ; c'est aussi le nom du dossier de scénarios du Pic des Empalés (`prive/notes-drive/Scenariotheque/Godwelle/`). Le **bois** entre dans le domaine de la tradition (`regles/magie.md`).
+:::
+
+---
+
+## L'Hextura
+
+Créée par le **Comte Auge**, l'Hextura est la guilde des objets et de la magie savante. Elle est spécialisée dans les **malédictions**.
+
+**Ce qu'elle fait.** Elle fabrique des objets, étudie les runes, crée des parchemins, prépare des potions, désamorce d'anciens pièges. Il lui arrive d'enquêter sur les phénomènes magiques et les créatures, et elle fait des inspections pour les services de prêtrise. On l'emploie surtout dans la **sécurité**, elle supervise des chantiers, et depuis peu, elle est chargée du **recensement**.
+
+**Ce qu'elle délivre.** Les **permis de détention d'objets magiques**. Elle organise aussi les enchères du [Bizareum](lieux/konigsfell-ville.md#le-marché-bizareum).
+
+**Ce qu'on lui demande.** En cas de délit grave, on peut faire appel à elle pour **étudier le potentiel magique** de quelqu'un : savoir s'il aurait pu lancer le sort dont on l'accuse.
+
+**Ce qu'elle est.** Une guilde **très petite et très élitiste** : une centaine de membres à peine, dont une poignée de Maesters. Devant la **tour Hextura**, les files d'attente sont longues : tout le monde a besoin d'elle, et elle le sait.
+
+::: mj
+L'Hextura empiète sur le **Registre** (le Flumen Registratum), la branche de l'Eau Calme que le Comte Auge influence déjà : depuis qu'elle a reçu le recensement, les deux se disputent les artefacts, les permis et les taxes. Une centaine de personnes tient donc la liste de tous les objets magiques de la cité, et de ceux qui les portent : c'est le vrai pouvoir d'Auge, maître du renseignement. Dans *Le Sucret*, Auge a une académie au Déchaîné, a fourni les épées magiques de la guerre et active ou désactive à distance les anneaux et les monocles : la tour Hextura est sans doute cette académie.
+:::
+
+---
+
+## Le Betrachten — la guilde des Contemplations
+
+Une grande guilde de **bardes**, ouverte à tout lanceur de sorts qui veut mettre son savoir au service de **l'Art**.
+
+**Son patron.** Elle se réclame du **Comte Kette**, qui était lui-même un voyageur et un barde. Il n'a pourtant jamais eu de lien avec elle : elle a été fondée après la Croisade.
+
+**Son drapeau.** Cinquante bandes verticales.
+
+**Ses grades.** Administrativement, elle ne peut pas changer les titres de la cité, mais à l'oral, ses membres ne disent jamais *Maester* ni *Archimage* :
+
+- *Maester* se dit **Begabung**, le Talent ;
+- *Archimage* se dit **Wunderkind**, le Prodige.
+
+Encore une facétie de son directeur, qui prétend que l'Art ne se mesure pas : **il n'y a aucun grade entre l'Initié et le Maester**. La guilde compte donc beaucoup de Maesters, et beaucoup d'entre eux sont très limités en magie. Les autres guildes la sous-estiment, et ce n'est pas toujours à tort.
+
+**Pour un personnage.** Un *Musicien*, un *Acteur de Commedia* ou un *Peintre* de la [grille de métiers](../regles/archetypes.md#grille-de-métiers-création-rapide) y trouve sa place, et un mage d'une autre tradition peut y entrer pour son art. Un « Maester » du Betrachten ouvre des portes que son talent ne justifie pas toujours.
+
+::: mj
+Le Betrachten honore Kette sans le connaître, alors que Kette vit dans le Rêve sous le nom d'Überlieben : une guilde de bardes qui chante un mort bien vivant est une porte vers le Rêve, et peut-être un vivier pour ses agents. Au D10, il n'y a pas de tradition bardique : un barde du Betrachten est un mage d'une des cinq traditions qui a une compétence de musique (une majeure empruntée, ou une mineure comme *Je charme une salle en chantant*).
+:::
+
+---
+
 ## L'Archäosucher — la guilde des Archéologues
 
 Les Königsfellois l'appellent l'**Archéoquête**. C'est la guilde du pillage, du voyage et de l'**Aventure** avec un grand A.

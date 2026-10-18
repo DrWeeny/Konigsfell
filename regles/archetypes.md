@@ -327,7 +327,7 @@ Les paliers des sorts sont calculés avec la [formule](magie.md#écrire-un-sort-
 - **25+** : la cible est figée : ni bouger ni frapper, elle ne peut plus que garder. *(+ effet Fort 5 → 20, arrondi à 25)*
 
 ::: dev
-**En test (2026-10-16).** Le contre-sort étant ouvert à tout pratiquant, le théurge avait perdu sa capacité. Le MJ : *« l'inquisition arrête souvent des gens »*. *Arrestation* en fait un sort de métier, borné par la sommation : on arrête au grand jour, jamais en cachette. *Oreille du Silence* (percevoir toute magie) est passée aux [Sirènes](magie.md#les-sens-du-silence).
+**En test (2026-10-16).** Le contre-sort étant ouvert à tout pratiquant, le théurge avait perdu sa capacité. Le MJ : *« l'inquisition arrête souvent des gens »*. *Arrestation* en fait un sort de métier, borné par la sommation : on arrête au grand jour, jamais en cachette. *Oreille du Silence* (percevoir toute magie) est passée aux [Criquets](magie.md#les-sens-du-silence).
 :::
 
 **Sorts d'archétype :**

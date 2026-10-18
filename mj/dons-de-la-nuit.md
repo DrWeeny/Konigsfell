@@ -22,9 +22,9 @@
 
 - **Un pouvoir et un prix.** Chaque don a son solde sur l'[Échelle de puissance](../regles/echelle-de-puissance.md#bonus-et-malus--le-solde) : un avantage, puis ce qu'il coûte (des PV permanents, un interdit, une marque visible, une faim). Certains ne sont qu'un prix : ce sont des **marques**, la Nuit qui se venge ou qui s'amuse.
 - **Il se joue tout de suite.** Pas d'XP, pas d'identification, pas de permis. C'est la bonne récompense pour une table qui n'inventorie pas son butin (voir [Objets magiques](../regles/objets-magiques.md#identifier-un-objet)).
-- **Il se voit.** Un don de la Nuit est un pouvoir akkadien : *Détection du sacrilège* le révèle dès 3+, et une Sirène le sent comme de la magie. Le porter en ville, c'est porter une preuve.
+- **Il se détecte.** Un don de la Nuit est un pouvoir akkadien : *Détection du sacrilège* le révèle dès 3+, et un Criquet du Silence le sent comme de la magie. Le porter en ville, c'est porter une preuve.
 - **On ne le rend pas.** Un don se perd par la fiction (un exorcisme, la mort du donneur, un pacte rompu), jamais par choix.
-- **Le joueur choisit sa visibilité.** Un don peut changer le corps, mais le joueur décide si cela se voit : une marque se cache, des ailes se replient sur l'armure. Ce qui ne se choisit pas, c'est la trace.
+- **Il laisse un signe, et le joueur en choisit la forme.** Une bénédiction ou une malédiction de la Nuit a souvent un signe extérieur : c'est ce que les joueurs savent, et ce que le Silence cherche. Le joueur choisit la forme du signe et l'endroit où il se montre (une marque entre les omoplates, des ailes repliées sur l'armure) ; qu'il y ait un signe, c'est la Nuit qui le décide. Ce qui ne se choisit pas non plus, c'est la trace.
 - **Il se négocie.** Un Iggigi propose un don contre une promesse (veiller sur quelqu'un, revenir, se taire). La promesse fait partie du prix.
 
 Les Iggigi donnent à qui les touche : Lucie a prié pour Docteur Schön « pour qu'elle ait un ami », et Kitsunebi est venu. **Göre** est une Iggigi elle aussi, mais ses doubles ne sont pas un don : c'est sa propre chair (voir le [bestiaire](bestiaire.md#comtesse-göre-la-gamine)).

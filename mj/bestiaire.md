@@ -280,7 +280,7 @@ Humain d'une cinquantaine d'années, barbe blanche, boiteux, savates de bois. An
 - **XP** : DC 1 → 3 (12), DA 3 (4), une majeure (4), un sort (4), +1 éphémère (2), rang de mineure (2), +4 PV (4).
 
 ::: mj
-Jacques est **le seul survivant des Enfants Terribles**, son ancienne guilde, que Göre a éliminée pour son nom. C'est **le Comte Kette qui l'a recruté, dans le Nord**. Son réseau passe par de faux temples d'Überlieben. Ivre, il a gravé une rune qui fige le temps, au prix d'une bonne dose du métal du Silence : il n'en reste qu'une, donnée à Althaïr. Il apprend à Lucie les runes de lumière, et elle l'appelle « papy Jacques ».
+Jacques est **le seul survivant des Enfants Terribles**, son ancienne guilde, que Göre a éliminée pour son nom. C'est **le Comte Kette qui l'a recruté, dans le Nord**. Son réseau passe par de faux temples d'Überlieben. Ivre, il a gravé une rune qui fige le temps, au prix d'une bonne dose du métal du Silence : il n'en reste qu'une, donnée à Althaïr. Il apprend à Lucie les runes de lumière, et elle l'appelle « papy Jacques ». Quand les PJ ne lui demandent rien, il leur confie une [expérimentation](experimentations-de-jacques.md).
 :::
 
 ::: dev

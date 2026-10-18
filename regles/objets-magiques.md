@@ -39,6 +39,10 @@ Un runiste ne grave pas seulement pour lui : il **donne** ses runes. Ce sont les
 | **Copie** | 5+ (1 dé) | usage unique | le texte d'une page gravée se recopie sur une autre page, mot pour mot, d'un seul coup | Altérer 5 |
 | **Runes jumelles** | 10+ ou 15+ | permanente | deux objets gravés ensemble : on parle de l'un à l'autre (même bâtiment à 10+, toute la cité à 15+) ; un seul dé retenu pour la paire | voir [Docteur Schön](../mj/bestiaire.md#docteur-schön-chercheuse-de-leau-calme) |
 
+::: mj
+Quand les PJ ne demandent rien, Jacques leur confie une **expérimentation** tirée au hasard : voir [Les expérimentations de Jacques](../mj/experimentations-de-jacques.md).
+:::
+
 ### La bombe temporelle
 
 Une rune hors du plafond, gravée par Jacques un soir d'ivresse : déclenchée, elle **fige le temps un round** pour tous, sauf son porteur. Il joue un round seul : il agit, et personne ne garde.

@@ -80,7 +80,7 @@ Un bocal, gagné au *Bal des Armes*. **Relique.** De quoi oindre quelques fois (
 - **Feu grégeois** : un liquide noirâtre qui brûle sur l'eau. L'eau ne l'éteint pas, et *Déplacement de l'eau* non plus : c'est la terreur de l'Eau Calme. Un tonneau fait sauter une salle.
 - **Les drogues des Mortivières.** Dans les champs de tabac de l'Est, on cultive des drogues magiques dans les **Mortivières** : des rizières aménagées sur des fosses communes akkadiennes. Les morts nourrissent ce qui y pousse, et ce qui y pousse touche à la mémoire.
   - **Fragriment** : un piment qui provoque de **vifs souvenirs**.
-  - **Transfumance** : elle **transfère un souvenir** d'une personne à une autre, de façon permanente : celui qui le reçoit s'en souvient comme s'il l'avait vécu, celui qui le donne le perd pour toujours. On la fume dans les alcôves des bals.
+  - **Transfumance** : elle **transfère un souvenir** d'une personne à une autre, de façon permanente : celui qui le reçoit s'en souvient comme s'il l'avait vécu. Chez celui qui le donne, le souvenir **s'étiole** : de jour en jour il pâlit, se troue, jusqu'à se perdre tout à fait. On la fume dans les alcôves des bals.
   - **Transmotabac** : un tabac qui **lie vos souvenirs à ceux d'un animal**.
 - **Sève jaune d'End Station** : les yeux jaunissent. **+1 DC pour une scène**, puis **−1 DC** pour autant de scènes, et l'envie d'en reprendre. Johan Primo en vit.
 

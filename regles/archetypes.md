@@ -1,6 +1,6 @@
 # Archétypes
 
-*Dix archétypes pour Königsfell, tous au même format, et une grille de métiers pour en inventer d'autres. Un archétype est un point de départ, pas une cage.*
+*Onze archétypes pour Königsfell, tous au même format, et une grille de métiers pour en inventer d'autres. Un archétype est un point de départ, pas une cage.*
 
 > Pour créer un personnage pas à pas, voir [Création de personnage](creation-de-personnage.md).
 
@@ -13,7 +13,7 @@ Chaque archétype donne **deux avantages de départ**, une **capacité** et un *
 | Avantage | Ce qu'il donne | Archétypes |
 |---|---|---|
 | **Compétence majeure** | +1 dé au pool quand le jet relève du domaine (voir [Compétences](competences.md)) | tous |
-| **Tradition** (compétence majeure de tradition) | l'entrée dans une tradition magique : **+1 dé éphémère** au pool DP, **3 sorts d'archétype**, un statut légal et des interdits (voir [Magie](magie.md#qui-pratique-la-magie)) | Eau Calme, Ritualiste, Runiste, Théurge, Physicus |
+| **Tradition** (compétence majeure de tradition) | l'entrée dans une tradition magique : **+1 dé éphémère** au pool DP, **3 sorts d'archétype**, un statut légal et des interdits (voir [Magie](magie.md#qui-pratique-la-magie)) | Eau Calme, Ritualiste, Runiste, Théurge, Physicus, Barde |
 | **Endurci** | **+1 DA** et **+3 PV** | Landsknecht |
 
 Un archétype mondain prend **deux compétences majeures** dans sa liste. Un archétype de tradition ou martial a son premier avantage imposé, et prend **une** compétence majeure dans sa liste.
@@ -22,7 +22,7 @@ Le dé éphémère de la tradition rejoint la réserve de DP ([Magie](magie.md#l
 
 Avec l'accord du MJ, une compétence majeure peut être empruntée à un autre archétype ou remplacée par un domaine proche.
 
-### Les dix archétypes
+### Les onze archétypes
 
 | Archétype | En une ligne | Avantages de départ | Pack |
 |---|---|---|---|
@@ -36,6 +36,7 @@ Avec l'accord du MJ, une compétence majeure peut être empruntée à un autre a
 | [Runiste du Registre](#runiste-du-registre) | magie gravée à l'avance | Tradition + 1 majeure | Artisan |
 | [Théurge du Silence](#théurge-du-silence) | serments, contre-magie, l'œil de l'Empire | Tradition + 1 majeure | Silence |
 | [Physicus](#physicus--docteur-chirurgien) | médecin, alchimiste | Tradition + 1 majeure | Savant |
+| [Barde du Betrachten](#barde-du-betrachten) | musique, émotions, illusions, foules | Tradition + 1 majeure | Artiste |
 
 Les packs sont décrits dans l'[Armurerie](armurerie.md).
 
@@ -416,6 +417,75 @@ Les paliers des sorts sont calculés avec la [formule](magie.md#écrire-un-sort-
 **Pack suggéré :** Savant.
 
 > Détesté par le Silence : *« Il s'approche trop de la frontière entre vie et non-vie. »*
+
+---
+
+## Barde du Betrachten
+
+**Origine :** la guilde des Contemplations ([Betrachten](../univers/guildes.md#le-betrachten--la-guilde-des-contemplations)), les théâtres de la Commedia, les tavernes où l'on chante encore Kette, les salons des bals du jeudi.
+
+**Rôle social :** jouer, chanter, distraire. Tenir une salle, faire pleurer un banquet, chauffer une foule avant un triomphe. On l'invite partout, et on parle devant lui comme devant un meuble.
+
+**Statut à Königsfell :** légal, avec la licence du Betrachten. Mais **gris** : un chant qui fait pleurer une salle, c'est de l'art ; un chant qui fait voter un conseil, c'est du contrôle mental. Le Silence décide où passe la ligne.
+
+**Tradition de l'Art** (compétence majeure de tradition) : +1 dé éphémère, sorts d'archétype ci-dessous.
+
+**Compétence majeure (1 au choix) :**
+- Musique et chant
+- Comédie et déguisement
+- Chroniques et légendes
+- Étiquette de cour
+
+**Capacité — Maester du Betrachten :** comme presque tous les membres de la guilde, il porte le titre de Maester (*Begabung*, à l'oral). Il peut [payer 1 DC](jets-de-des.md#payer-un-dé) pour être reçu là où l'on attend un artiste : un bal, un salon, une veillée funèbre, la loge d'un Comte. Le titre ouvre la porte ; il ne garantit pas qu'on l'écoute.
+
+**La règle de l'Art :** **un chant doit être entendu.** Les sorts sur l'esprit du barde ne touchent que ceux qui l'entendent jouer ou chanter : un sourd, quelqu'un qui se bouche les oreilles ou qu'un vacarme couvre n'est pas touché. Cette condition (circonstance −5) est comprise dans chaque palier. *À portée de voix* (une salle, une place) compte comme à vue.
+
+**Une émotion n'est pas un ordre.** La cible ressent ce que le barde lui chante, puis elle agit comme elle le ferait avec ce sentiment. Un PNJ est joué en conséquence par le MJ ; un PJ reste libre, mais s'il agit contre l'émotion, il subit −1 au total de son action (Léger).
+
+**Sorts d'archétype :**
+
+**Chant d'humeur** — *esprit ; chaque cible oppose ses DP au total du sort ; discret sous 15*
+- **3+** : chanté à l'oreille, une personne ressent une émotion simple (calme, gaieté, mélancolie, méfiance, désir, peur) le temps d'un échange. *(Altérer 5 − entendu 5 → 0, minimum 3)*
+- **5+** : une personne à portée de voix. *(+ vue 5)*
+- **10+** : tout un groupe à portée de voix, le temps d'un morceau ; ou une seule personne jusqu'à la fin de la scène. *(+ groupe 5, ou + scène 5)*
+- **15+** : une foule, jusqu'à la fin de la scène : une salle de bal en larmes, une place en colère. *(Altérer 5 + vue 5 + groupe 5 + scène 5 − entendu 5)*
+- *Avec un PNJ* : un jet social qui va dans le sens de l'émotion gagne +1 au total (Léger). *Avec des sbires* : la peur est une « magie qui fait peur » : ils fuient ([Bestiaire](../mj/bestiaire.md#le-barème-de-menace)).
+
+**Captiver** — *esprit ; seul celui qui a une raison pressante d'ignorer le barde (un garde en faction, quelqu'un qui le cherche) oppose ses DP*
+- **3+** : une personne qui l'écoute ne voit plus que lui le temps d'un morceau : un complice passe derrière elle. *(Altérer 5 − entendu 5 → 0, minimum 3)*
+- **5+** : une personne à portée de voix. *(+ vue 5)*
+- **10+** : toute une salle ou un attroupement, le temps d'un morceau. C'est le moment du vol, de la fuite, de la lettre glissée. *(+ groupe 5)*
+- **15+** : la foule reste jusqu'à la fin de la scène ; ceux qui voudraient partir doivent d'abord y penser. *(+ scène 5)*
+
+**Mirage** — *objet-lieu ; pas d'opposition, sauf pour qui a une raison d'en douter (il le touche, le voit traverser un mur) : il oppose ses DP ; une illusion ne fait jamais de dégâts*
+- **5+** : à portée de main, une image ou un son immobile, quelques instants : une ombre, un bruit de pas, une voix derrière une porte. *(Créer 10 − immobile 5)*
+- **10+** : à vue : une silhouette à la fenêtre, des bottes dans l'escalier. *(+ vue 5)*
+- **15+** : à vue, jusqu'à la fin de la scène, toujours immobile : une porte qui n'existe pas, une foule qu'on entend derrière un mur. Ou, l'instant d'un geste, une illusion qui bouge et parle. *(+ scène 5, ou sans la restriction)*
+- **25+** : une illusion qui bouge et parle, à vue d'une foule, toute la scène : on en parlera en ville. *(Créer 10 + vue 5 + scène 5 → 20, arrondi à 25)*
+
+**Sorts de progression suggérés :**
+- Berceuse (endormir celui qui écoute ; il oppose ses DP, et un coup le réveille)
+- Voix d'emprunt (imiter la voix d'une personne qu'on a entendue)
+- Panique (la peur d'une foule devient une bousculade : trace, et le Silence enquête)
+- Chœur (la foule reprend le refrain et marche avec lui, là où elle allait déjà)
+- Masque de scène (une illusion portée sur soi : un autre visage, que *Lumière d'Ewald* dissipe)
+- Ballade du témoin (rejouer en illusion une scène que le barde a vue lui-même)
+
+**Interdits :** le contrôle mental (dicter un acte, même par la musique) ; toucher aux souvenirs, domaine des Akkadiens et des Mortivières ; prendre en illusion l'apparence d'un officier de l'Empire, d'un Comte ou de l'Empereur, un crime comme le faux sceau.
+
+**Pack suggéré :** Artiste.
+
+> *« Il chante pour Überlieben tous les jeudis. Le reste de la semaine, il chante pour qui paie. »*
+
+::: mj
+**Le Betrachten et Kette.** La guilde chante un mort bien vivant : un barde est une porte naturelle vers le Rêve, et une cible pour les agents d'Überlieben (voir [Les Guildes](../univers/guildes.md#le-betrachten--la-guilde-des-contemplations)). *Ballade du témoin* est l'ébauche, à l'échelle d'un PJ, de ce que faisait Kette avec les partitions des *Pérégrinations vivantes* : une piste vers le secret de ses masques, que le Comte Auge cherche aussi.
+
+**Zeichen.** On le dit « gnome illusionniste », et Hahn prévient : « ne vous faites jamais passer pour lui ». Un barde qui prend son visage en *Masque de scène* attire l'attention d'un Comte qui vit entre deux mondes.
+:::
+
+::: dev
+**En test (2026-10-18).** Sixième tradition, voulue par le MJ : une variante de mage pour les émotions, les illusions et les foules. Elle remplace l'ancienne note (« pas de tradition bardique, une compétence de musique suffit »). Garde-fous : la règle de l'Art (être entendu, −5 dans chaque palier, comme la sommation de l'*Arrestation*), l'émotion qui n'est pas un ordre, et le contrôle mental qui reste proscrit. À surveiller en jeu : *Chant d'humeur* à 10+ sur un groupe de sbires (la peur les fait fuir) peut régler un combat d'un sort ; c'est le même effet que l'illusion de tonnerre jouée à la table, mais il faut voir si c'est trop fréquent.
+:::
 
 ---
 

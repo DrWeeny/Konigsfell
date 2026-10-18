@@ -66,7 +66,7 @@ Quand une décision change : ajouter une entrée datée dans `dev/journal.md`, p
 - **en test** — **Pas de caractéristiques.** Compétences **majeures** (liste d'archétype, +1 dé) et **mineures** (*geste + circonstance*, rangs +1 / +2 / +2 et relance ; rang 1 gagné en jouant) ; une seule par jet (`competences.md`).
 - **en test** — **Échelle de puissance** : Léger, Notable, Fort, Exceptionnel, Relique (`echelle-de-puissance.md`). *Majeure / mineure* est réservé aux compétences.
 - **en test** — **Payer un dé** : comptant (épuisé jusqu'à une nuit) ou à crédit (posé sur 1 au prochain jet). Payer ≠ dépenser.
-- **en test** — **Dix archétypes**, chacun avec deux avantages de départ ; la **Tradition** est une compétence majeure (+1 éphémère, 3 sorts ; 4 XP en jeu) (`archetypes.md`). Armurerie : un pack de départ et un objet personnel (`armurerie.md`).
+- **en test** — **Onze archétypes** (dont le **Barde du Betrachten**, tradition de l'Art : émotions, illusions, foules ; un chant doit être entendu), chacun avec deux avantages de départ ; la **Tradition** est une compétence majeure (+1 éphémère, 3 sorts ; 4 XP en jeu) (`archetypes.md`). Armurerie : un pack de départ et un objet personnel (`armurerie.md`).
 - **acté** — Création en 8 étapes (`creation-de-personnage.md`, `fiche-de-personnage.md`). Nouveau sort : 4 XP. Pas de relance ponctuelle à 2 XP.
 - **en test** — **Progression étalonnée** : ~2 XP par session ; après deux douzaines de sessions, un PJ est à mi-chemin d'un Comte (repères par niveau dans `mj/bestiaire.md`). PV par tranches de 4 (1 XP, puis 2, puis 3…).
 - **en test** — **Flashback vrai** : une préparation passée déclarée en mission ; réussite = fait du monde, échec = fait avec un prix.
@@ -89,7 +89,7 @@ Quand une décision change : ajouter une entrée datée dans `dev/journal.md`, p
 - **en test** — Les 15 sorts et préparations de départ ont leurs paliers chiffrés par la formule (`archetypes.md`).
 - **en test** — Résistance : sort physique → garde ; sort sur l'esprit → DP. Double 1 = contrecoup. **Trace** (sort à 15+, improvisation, contrecoup) : un frein politique.
 - **acté** — **Garde magique ouverte à tous.** **Contre-sort ouvert à tout pratiquant**, à égalité : DP en garde contre la magie, total ≥ sort → sort annulé. Le Théurge reçoit à la place *Arrestation*, un sort d'immobilisation borné par la sommation (en test). **Les sens du Silence** (en test) : ordres greffés de palladium, pouvoirs sans jet ; hiérarchie dans `univers/empire.md`. **Basilique** (pieux dans les yeux : sent tout, repousse le métal), **Sirène** dite inquisiteur (télépathie), **Témoin** (assassin, traque des mages), **Criquet** (sent la magie, son cri interrompt les sorts). Noms de Basilique, Sirène et Criquet à remplacer (**ouvert**) ; *Témoin* reste.
-- **en test** — **Inventaire verbe × domaine** des cinq traditions, seuils calculés (`magie.md`).
+- **en test** — **Inventaire verbe × domaine** des six traditions, seuils calculés (`magie.md`).
 - **en test** — Théurge du Silence, Physicus, Runiste du Registre écrits (`archetypes.md`). Piste **magie par privation** (interdit personnel = prix réel).
 
 ### Canon tranché (détail et sources : `dev/journal.md`, `mj/timeline.md`)

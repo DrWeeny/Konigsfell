@@ -78,6 +78,7 @@ Les mots-clés sont narratifs (qui peut frapper qui, qui remarque l'arme) sauf *
 | **Artisan** | marteau ou hache | cuir (tablier) | outil : celui du métier (*burins*, *serrurerie*, *verrerie*…) | carnet de plans, licence de guilde |
 | **Eau Calme** | bâton ferré (arme ou focus) | — | uniforme de la guilde | permis de magie, insigne, gondole de service |
 | **Pèlerin** | couteau | — | focus : *encensoir* | robe cérémonielle, registre des défunts, visa, pièces d'offrande |
+| **Artiste** (Betrachten) | dague ou rapière | — | tenue légère (habit de scène) ; focus : *instrument* (luth, flûte, violon ; un chanteur tient un diapason) | masque de théâtre, partitions, licence du Betrachten, affiche d'une représentation |
 
 Le bâton ferré de l'Eau Calme sert de focus **ou** d'arme dans un même round, pas les deux.
 

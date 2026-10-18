@@ -79,10 +79,10 @@ Une grande guilde de **bardes**, ouverte à tout lanceur de sorts qui veut mettr
 
 Encore une facétie de son directeur, qui prétend que l'Art ne se mesure pas : **il n'y a aucun grade entre l'Initié et le Maester**. La guilde compte donc beaucoup de Maesters, et beaucoup d'entre eux sont très limités en magie. Les autres guildes la sous-estiment, et ce n'est pas toujours à tort.
 
-**Pour un personnage.** Un *Musicien*, un *Acteur de Commedia* ou un *Peintre* de la [grille de métiers](../regles/archetypes.md#grille-de-métiers-création-rapide) y trouve sa place, et un mage d'une autre tradition peut y entrer pour son art. Un « Maester » du Betrachten ouvre des portes que son talent ne justifie pas toujours.
+**Pour un personnage.** Le [Barde du Betrachten](../regles/archetypes.md#barde-du-betrachten) en sort. Un *Musicien*, un *Acteur de Commedia* ou un *Peintre* de la [grille de métiers](../regles/archetypes.md#grille-de-métiers-création-rapide) y trouve sa place, et un mage d'une autre tradition peut y entrer pour son art. Un « Maester » du Betrachten ouvre des portes que son talent ne justifie pas toujours.
 
 ::: mj
-Le Betrachten honore Kette sans le connaître, alors que Kette vit dans le Rêve sous le nom d'Überlieben : une guilde de bardes qui chante un mort bien vivant est une porte vers le Rêve, et peut-être un vivier pour ses agents. Au D10, il n'y a pas de tradition bardique : un barde du Betrachten est un mage d'une des cinq traditions qui a une compétence de musique (une majeure empruntée, ou une mineure comme *Je charme une salle en chantant*).
+Le Betrachten honore Kette sans le connaître, alors que Kette vit dans le Rêve sous le nom d'Überlieben : une guilde de bardes qui chante un mort bien vivant est une porte vers le Rêve, et peut-être un vivier pour ses agents. Au D10, la guilde enseigne sa propre tradition, **l'Art** (archétype [Barde du Betrachten](../regles/archetypes.md#barde-du-betrachten)) ; un mage d'une autre tradition peut aussi y entrer avec une compétence de musique.
 :::
 
 ---

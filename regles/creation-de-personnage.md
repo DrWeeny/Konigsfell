@@ -22,7 +22,7 @@ En une phrase : qui est votre personnage, et que fait-il dans la cité ? Choisis
 
 ### 2. Un archétype
 
-Choisissez l'un des [dix archétypes](archetypes.md#les-dix-archétypes). Il vous donne **deux avantages de départ** :
+Choisissez l'un des [onze archétypes](archetypes.md#les-onze-archétypes). Il vous donne **deux avantages de départ** :
 
 - un archétype **mondain** : 2 compétences majeures au choix dans sa liste ;
 - un archétype **de tradition** (mage) : sa **Tradition** (+1 dé éphémère, 3 sorts) et 1 compétence majeure ;
@@ -93,6 +93,7 @@ Les noms de Königsfell mêlent l'allemand de l'Empire, l'italien des marchands 
 | Runiste du Registre | Tradition + 1 majeure (*Artefacts et objets magiques*, *Serrurerie*, *Architecture*, *Procédures du Registre*) | Artisan |
 | Théurge du Silence | Tradition + 1 majeure (*Théologie du Silence*, *Liturgie et serments*, *Interrogatoire*, *Hérésies et sacrilèges*) | Silence |
 | Physicus | Tradition + 1 majeure (*Diagnostic et chirurgie*, *Autopsie*, *Poisons*, *Herboristerie*) | Savant |
+| Barde du Betrachten | Tradition + 1 majeure (*Musique et chant*, *Comédie et déguisement*, *Chroniques et légendes*, *Étiquette de cour*) | Artiste |
 
 Le détail (capacités, sorts, statut, interdits) est dans [Archétypes](archetypes.md).
 

@@ -4,6 +4,8 @@
 
 *Une partie courte (1 h 30 à 2 h, création comprise) pour faire jouer un nouveau joueur et vérifier que les règles se comprennent. Elle ne touche à aucun secret de campagne : on peut la jouer avant les Trames du Onzième, ou la rattacher au Secret.*
 
+> **Un seul joueur, trente minutes ?** Prenez la [scène courte](scene-courte.md). Le combat de la cave (Ugo et deux mercenaires) est fait pour un groupe : en simulation, il fait tomber un PJ seul dans 72 à 100 % des cas.
+
 ---
 
 ## Avant la partie
@@ -97,4 +99,4 @@ Reportez les réponses dans `dev/journal.md` : c'est le premier vrai playtest du
 
 ---
 
-[Aide de jeu](../regles/aide-de-jeu.md) · [Bestiaire](bestiaire.md) · [Création de personnage](../regles/creation-de-personnage.md)
+[Scène courte](scene-courte.md) · [Aide de jeu](../regles/aide-de-jeu.md) · [Bestiaire](bestiaire.md) · [Création de personnage](../regles/creation-de-personnage.md)

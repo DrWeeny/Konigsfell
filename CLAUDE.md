@@ -32,6 +32,7 @@ Les conventions générales du projet sont dans [.github/copilot-instructions.md
   `python outils/transcrire.py pistes "<dossier Craig>" -o <sortie>` (une piste par joueur) ou
   `python outils/transcrire.py mix "<fichier>" -o <sortie> --arc purge` (voix mélangées).
   Les noms soufflés à Whisper suivent `dev/sessions/noms.md`. Les sorties restent hors du dépôt.
+- `outils/simuler_combat.py` : Monte-Carlo du round D10 pour calibrer une rencontre (`python outils/simuler_combat.py -n 2000 --pv 8`) ; profils de PJ et rencontres en tête de fichier.
 - `README.md` et la structure de `.github/copilot-instructions.md` sont en retard (pas de `blocs/`, ni de `competences.md`, `armurerie.md`…) : se fier à l'arborescence réelle.
 
 ## Canon à ne pas « corriger »
@@ -69,7 +70,7 @@ Quand une décision change : ajouter une entrée datée dans `dev/journal.md`, p
 - **acté** — Création en 8 étapes (`creation-de-personnage.md`, `fiche-de-personnage.md`). Nouveau sort : 4 XP. Pas de relance ponctuelle à 2 XP.
 - **en test** — **Progression étalonnée** : ~2 XP par session ; après deux douzaines de sessions, un PJ est à mi-chemin d'un Comte (repères par niveau dans `mj/bestiaire.md`). PV par tranches de 4 (1 XP, puis 2, puis 3…).
 - **en test** — **Flashback vrai** : une préparation passée déclarée en mission ; réussite = fait du monde, échec = fait avec un prix.
-- **en test** — **Premier playtest préparé** : aide de jeu d'une page (`regles/aide-de-jeu.md`), scène de test avec grille d'observation (`mj/scene-de-test.md`).
+- **en test** — **Premier playtest préparé** : aide de jeu d'une page (`regles/aide-de-jeu.md`), scène de test avec grille d'observation (`mj/scene-de-test.md`) ; **scène courte** pour un joueur seul en 30 min (`mj/scene-courte.md`). Simulation : les combats se jouent en 1 à 1,5 round, une attaque de deux dés (≈ 11) dépasse 8 PV (**ouvert** : PV, dégâts ou armure).
 - **en test** — **Bestiaire** (`mj/bestiaire.md`) : barème sbire / soldat / vétéran / monstre / fléau / **légende** (les Comtes), moral, capacités de fléau ; profils tirés des combats joués, **Hahn** et **Göre**, et les cinq PJ du Sucret (48 XP) avec Jacques la Savate (vétéran, ≈ 32 XP) comme étalons.
 - **en test** — **Sceaux officiels** des Comtes (cuivre → météorite) dans `armurerie.md`, avec leurs règles : sans permis, forgés par l'Empereur, un seul porteur, ils engagent qui les a confiés, se reprennent, le faux est un crime. Le **cuivre** est administratif : celui des hauts administrateurs (juge, haut commissaire, capitaine), un vrai pouvoir borné au ressort de leur charge ; le plus falsifié. Tout noble de l'Empire (baron, duc, prince, Comte) confie des sceaux selon son rang : le métal dit le rang de la mission, le blason dit qui en répond.
 - **en test** — **Objets magiques** (`objets-magiques.md`) : un objet, un verbe, un palier ; runes utilitaires déclenchées par tous, gravées par les runistes, chaque rune donnée retient un éphémère du graveur ; le palladium tient lieu de cercle pour une Relique. Profil de Kette à venir : sa version rêvée.

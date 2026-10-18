@@ -16,7 +16,7 @@
 | Joueurs | — (fiches des PJ, privées) |
 | Divers et PNJs | à importer |
 | Vos Agents | à importer |
-| Items | en partie : voir `regles/objets-magiques.md` (restent : pendentif de résistance, expérimentation runique de Jacques, cœur de Giorgio, aiguille à tricoter, code couleur du Sucré, runes de copie, archive de la Purge, papiers, pécules ; dossiers *parchemins* et *hidden*) |
+| Items | en partie : voir `regles/objets-magiques.md` (faits : pendentif de résistance, aiguille à tricoter, rune de copie ; sans règle : cœur de Giorgio, butin à revendre ; code couleur ignoré, le groupe ne disait que « rouge » quand ça tournait mal ; restent : expérimentation runique de Jacques, archive de la Purge, papiers, pécules ; dossiers *parchemins* et *hidden*) |
 | Sorts | en partie : runes et figures (`regles/magie.md`), Enfant funeste (`mj/dons-de-la-nuit.md`) |
 | Hall des Morts | à importer |
 | Journal – séance 2 | à vérifier |

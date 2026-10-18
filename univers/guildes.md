@@ -127,7 +127,7 @@ Elle porte le nom de **Nabu**, le dieu akkadien des scribes, et sa devise tient 
 ::: mj
 **Le bibliothécaire secret.** La bibliothèque principale est rangée et gérée par **un mort akkadien immortel**, que personne ne voit. Chaque copie le nourrit, au sens où elle remplit sa bibliothèque : c'est pourquoi tout livre doit passer par la guilde. La devise prend alors son sens : on protège le mystère, on sépare le secret, on couvre le voile, et le voile, c'est lui.
 
-Questions pour le MJ : qui sait qu'un mort akkadien tient la bibliothèque d'une cité qui brûle les nécromants ? Le Silence, qui laisse faire, ou personne ? Que fait-il du *Codex Inspirationem*, qui se réécrit, s'il le recopie ? Les **runes de copie** (Roll20) sortent peut-être de la guilde.
+Questions pour le MJ : qui sait qu'un mort akkadien tient la bibliothèque d'une cité qui brûle les nécromants ? Le Silence, qui laisse faire, ou personne ? Que fait-il du *Codex Inspirationem*, qui se réécrit, s'il le recopie ? Une **rune de copie** (voir [Objets magiques](../regles/objets-magiques.md#les-runes-de-la-planque)) recopie une page d'un seul coup : pour la guilde, c'est une concurrence déloyale, ou l'outil secret de son bibliothécaire.
 :::
 
 ---

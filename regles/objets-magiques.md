@@ -36,6 +36,7 @@ Un runiste ne grave pas seulement pour lui : il **donne** ses runes. Ce sont les
 | **Garde mentale** | 10+ (2 dés) | usage unique | contre un sort sur l'esprit, +2 au total des DP qui résistent (Notable) | Altérer 5 + Notable 5 |
 | **Alarme** | 5+ à 15+ | permanente | voir [Rune d'alarme](archetypes.md#runiste-du-registre) | — |
 | **Anti-scrutation** | 10+ (2 dés) | permanente | sur une pièce : les sorts de perception qui la visent de l'extérieur ne prennent pas sous le palier de la rune | Altérer 5 + groupe (une pièce) 5 |
+| **Copie** | 5+ (1 dé) | usage unique | le texte d'une page gravée se recopie sur une autre page, mot pour mot, d'un seul coup | Altérer 5 |
 | **Runes jumelles** | 10+ ou 15+ | permanente | deux objets gravés ensemble : on parle de l'un à l'autre (même bâtiment à 10+, toute la cité à 15+) ; un seul dé retenu pour la paire | voir [Docteur Schön](../mj/bestiaire.md#docteur-schön-chercheuse-de-leau-calme) |
 
 ### La bombe temporelle
@@ -135,6 +136,14 @@ Une paire, au butin du groupe. **Fort.**
 
 - **+1 dé** à toute action pour passer inaperçu : se cacher, se faufiler, filer quelqu'un.
 - Immobile dans l'ombre, leur porteur ne se voit pas : il faut le chercher (10+) pour le trouver.
+
+### Le pendentif de résistance
+
+Un pendentif qui protège des éléments. **Notable.** Contre les dégâts de **feu**, de **foudre** et de **froid**, son porteur réduit les dégâts de **3 de plus**, en plus de son armure.
+
+### L'aiguille à tricoter de maître
+
+Le cadeau d'Eleonora Abanale à Docteur Schön : *« c'est fin, c'est tout petit, et c'est létal »*. Ce n'est pas un objet magique, mais une **arme d'assassin exotique** : +1 dé d'attaque, comme toute arme, et elle ne se voit pas à la fouille. On la porte au bal, dans un chignon ou un ourlet, là où une dague ne passerait pas.
 
 ### Le familier d'ombre
 
@@ -276,7 +285,7 @@ Le génie et la **table des travaux** (vingt thèmes, un dé : 1–5 bon présag
 ---
 
 ::: dev
-**En test (2026-10-17).** Première liste. Reste à écrire : les objets des Comtes (les reliques de la Croisade), les armes magiques de contrebande des Imondi, le masque de pierres précieuses du bal (sans effet connu), la perfusion du professeur Savino, les deux sceaux de Wanderer. Handouts Roll20 convertis : armure ancienne akkadienne, armure de peau de serpent (le « casque d'air » six fois par jour devient « plusieurs fois par jour, une scène »). Précisés par le MJ : la rapière (ignore l'armure), la dague du Douceâtre (rapidité → une relance), les bottes, l'onguent (toute magie, même alliée, sur le porteur ou la zone). Le familier d'ombre attend encore son aval. Ajoutés d'après les fiches du MJ : l'Épée féerique, l'Autre Épée, Pondérant (simplifié), la table des travaux de la lampe.
+**En test (2026-10-17).** Première liste. Reste à écrire : les objets des Comtes (les reliques de la Croisade), les armes magiques de contrebande des Imondi, le masque de pierres précieuses du bal (sans effet connu), la perfusion du professeur Savino, les deux sceaux de Wanderer. Handouts Roll20 convertis : armure ancienne akkadienne, armure de peau de serpent (le « casque d'air » six fois par jour devient « plusieurs fois par jour, une scène »). Précisés par le MJ : la rapière (ignore l'armure), la dague du Douceâtre (rapidité → une relance), les bottes, l'onguent (toute magie, même alliée, sur le porteur ou la zone). Le familier d'ombre attend encore son aval. Précisés aussi : le pendentif de résistance (feu, foudre, froid), l'aiguille à tricoter (arme d'assassin, non magique), la rune de copie. Le cœur de Giorgio n'était qu'un butin à revendre. Ajoutés d'après les fiches du MJ : l'Épée féerique, l'Autre Épée, Pondérant (simplifié), la table des travaux de la lampe.
 :::
 
 [← Retour à l'accueil](../index.html) · [Armurerie](armurerie.md) · [Échelle de puissance](echelle-de-puissance.md) · [Magie](magie.md)

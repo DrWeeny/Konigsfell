@@ -42,7 +42,7 @@ Laissez le joueur choisir son approche, puis donnez le seuil **avant** le jet. I
 
 - **Le seuil 10 avec un seul dé** est hors de portée sans compétence : c'est voulu, c'est ce qui montre au joueur la valeur d'une majeure. S'il n'en a pas, orientez-le vers le 5+.
 - **Le Regrattier** peut [payer 1 DC](../regles/jets-de-des.md#payer-un-dé) pour *Je connais quelqu'un ici* : la serveuse, qui doit un service à Grell. Le contact baisse le seuil d'un cran (10 → 5). Expliquez le comptant et le crédit, et laissez-le choisir.
-- **Le Barde** peut chanter avant de parler : *Chant d'humeur* à 5+ (Grell oppose son DP) le rend calme ou confiant, et le jet social qui suit gagne +1. Un sort, puis un DC : c'est deux pools pour une même scène.
+- **Le Barde** peut chanter avant de parler : *Chant d'humeur* à 5+, au contact, de l'autre côté de la table (Grell oppose son DP), le rend calme ou confiant, et le jet social qui suit gagne +1. Un sort, puis un DC : c'est deux pools pour une même scène.
 - **Un flashback** si le joueur hésite : *« Et si tu étais passé voir quelqu'un hier ? »* (3+ pour une précaution banale, 10+ pour une audace ; voir [le flashback vrai](../regles/resolution-et-combat.md#le-flashback-vrai)).
 
 **Ce qui se passe ensuite :**
@@ -75,7 +75,7 @@ Profil dans le [Bestiaire](bestiaire.md#les-humains).
 
 - **Le premier mercenaire tombe** : le second fuit. Le combat est fini, souvent dès le premier round.
 - **Le PJ tombe à 0 PV** : les mercenaires prennent le registre et le **laissent ligoté** dans la cave (ou le jettent au canal). C'est une issue, pas une fin : la mise hors de combat n'est pas la mort, et le prochain bloc peut commencer là.
-- **Un mage** sans arme est fragile au contact : rappelez-lui ses sorts (*Bouclier aqueux* pose des DP en garde, *Surface de glace* fait tomber un poursuivant, le *Chant d'humeur* du Barde fait fuir les deux mercenaires s'il leur fait peur (10+ pour le groupe, chacun oppose son DP), la *Fiole fumigène* du Physicus couvre une fuite, l'*Arrestation* du Théurge immobilise). Fuir avec des dés est aussi une action ([se désengager](../regles/resolution-et-combat.md#se-désengager-tour-0)).
+- **Un mage** sans arme est fragile au contact : rappelez-lui ses sorts (*Bouclier aqueux* pose des DP en garde, *Surface de glace* fait tomber un poursuivant, le *Chant d'humeur* du Barde fait fuir les deux mercenaires s'il leur fait peur (15+ pour le groupe, chacun oppose son DP ; ou un round de prélude, et le chant tient), la *Fiole fumigène* du Physicus couvre une fuite, l'*Arrestation* du Théurge immobilise). Fuir avec des dés est aussi une action ([se désengager](../regles/resolution-et-combat.md#se-désengager-tour-0)).
 
 ::: dev
 **Calibrage (simulation, 2026-10-18).** 2 000 combats par cas, PJ à 8 PV, choix d'assignation optimisés pour les deux camps. Probabilité que le PJ tombe :

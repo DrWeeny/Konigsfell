@@ -29,7 +29,7 @@ On entre dans une tradition par sa **compétence majeure de tradition** (*Tradit
 | **Tradition funéraire akkadienne** | lecture des morts, préservation, souvenirs | tolérée — visa spécial, surveillance | animation combative des morts, contrôle d'esprit, soin |
 | **Runistes** | magie **préparée** : runes d'alarme, de dissipation, de scellement, Taufbecken | légale — poinçon déposé au Registre | runes sur le vivant |
 | **Alchimie** (Physicus, verriers) | préparations, poisons, analyses, fioles | grise — la matière n'est pas la magie… tant qu'on ne soigne pas | élixirs de jouvence, remèdes « trop » efficaces |
-| **L'Art** (Betrachten) | émotions, attention, illusions, sons ; un chant doit être entendu | légale — licence du Betrachten, grise dès qu'une foule obéit | contrôle mental, souvenirs, prendre l'apparence d'une autorité |
+| **L'Art** (Betrachten) | émotions, attention, illusions, sons ; après un prélude, le chant tient tant que le barde joue | légale — licence du Betrachten, grise dès qu'une foule obéit | contrôle mental, souvenirs, prendre l'apparence d'une autorité |
 
 ### Les arts proscrits
 
@@ -368,12 +368,12 @@ Ce que chaque tradition sait faire, verbe par verbe, avec le seuil calculé. Ce 
 | **Altérer** | une encre qui disparaît au soleil (5+) · une poudre qui fait rouiller une serrure en une nuit (5+) · un somnifère : la cible perd un dé de son prochain jet (5 + effet Notable 5 → **10+**) |
 | **Créer / Contrôler** | une fiole de fumée qui couvre un groupe (10 + groupe 5 → **15+**) · ⚠ le feu grégeois : 15+ et une trace, car le Silence en surveille chaque ingrédient |
 
-**L'Art** — *les émotions, l'attention, les illusions ; −5 quand il faut entendre le barde*
+**L'Art** — *les émotions, l'attention, les illusions*
 
 | Verbe | Exemples |
 |---|---|
 | **Percevoir** | lire l'humeur d'une salle et savoir qui y ment par peur (3+) · sentir l'émotion qui a régné dans un lieu depuis moins d'un mois (3 + un mois 5 → **10+**) |
-| **Altérer** | porter sa voix jusqu'au bout d'une place (5 + vue 5 → **10+**) · assourdir les pas d'un groupe pour la scène (5 + groupe 5 + scène 5 → **15+**) · une salle qui l'entend perd un dé à son prochain jet pour le quitter des yeux (5 + vue 5 + groupe 5 + Notable 5 − entendu 5 → **15+**) |
+| **Altérer** | porter sa voix jusqu'au bout d'une place (5 + vue 5 → **10+**) · assourdir les pas d'un groupe pour la scène (5 + groupe 5 + scène 5 → **15+**) · une salle qui l'entend perd un dé à son prochain jet pour le quitter des yeux (5 + vue 5 + groupe 5 + Notable 5 → 20, arrondi à **25+**) |
 | **Créer / Contrôler** | un son qui n'existe pas, à vue (10 + vue 5 → **15+**) · ⚠ dicter un acte à quelqu'un, même en chantant : c'est le contrôle mental, un art proscrit |
 
 ### La fiche d'un sort

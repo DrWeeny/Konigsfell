@@ -58,6 +58,8 @@ Un fléau qui n'a qu'un gros pool tombe en deux rounds (voir le minotaure, plus 
 | **Tireur à la sarbacane** | sbire | 2 (sarbacane, à distance) | 4 | 0 | **poison enrageant** des hommes-lézards : la cible touchée oppose ses DP (5+) ou frappe la personne la plus proche au round suivant ; sur une bête, elle se déchaîne |
 | **Spadassin, garde du corps** | vétéran | 4 (rapière) | 12 | −1 | *duel* : contre un seul adversaire, +1 au total de son attaque |
 | **Officier, noble d'épée** | vétéran | 4 | 12 | −2 (mailles) | commande : un allié au contact peut relancer un dé par round |
+| **Contrebandier des canaux** | sbire | 2 (couteau, gaffe) | 4 | 0 | connaît l'eau : au début d'un round, il saute dans sa barque ou dans le canal et sort du contact ; se rend dès que son patron tombe |
+| **Patron de barque** | soldat | 3 (gaffe) | 8 | −1 (cuir) | *allonge* : sa gaffe frappe à deux pas, d'une barque à l'autre ; une attaque réussie peut, au lieu de blesser, **jeter la cible à l'eau** |
 
 *À la table :* le combat du bal s'est joué contre des mercenaires d'un comploteur, dans une cave étroite. Deux ont fui, un a couru allumer la mèche des tonneaux. Le danger n'était pas les épées, c'était **l'horloge**.
 
@@ -89,6 +91,8 @@ Voir [Les sens du Silence](../regles/magie.md#les-sens-du-silence) : leurs pouvo
 | **Serpent de la ménagerie** | monstre | 4 (morsure, étreinte) | 16 | −1 | trois mètres, rose violacé ; sa salive noire est le poison des meurtres ; une étreinte réussie immobilise : la cible ne peut plus attaquer tant qu'elle n'a pas battu la prise en DA |
 | **Giorgio fusionné** | fléau | 6 | 25 | −1 | **phase** : il fusionne avec le squelette qu'il porte et le serpent (créature à quatre jambes, corps flasque, serpent qui crache) ; **point faible** : le cœur qui bat encore ; la morsure du serpent est empoisonnée |
 | **Strige** | sbire | 2 (serres) | 5 | 0 | gardienne de tombeaux akkadiens ; vole : on ne la frappe au contact que si elle plonge ; s'attaque d'abord aux chevaux et aux bêtes |
+| **Mort sans maître** | soldat | 2 (poings) | 10 | 0 | un mort qui a échappé au [bûcher](../univers/lieux/konigsfell-ville.md#le-bûcher), relevé par un nécromancien puis abandonné ; **ne pare pas** et ne fuit pas ; lent : pas de mouvement, il n'esquive pas les tirs ; il **répète un geste de sa vie** (pétrir, porter, frapper à une porte) : qui reconnaît ce geste (DC 5+) peut le guider sans combat |
+| **Songe errant** | sbire | — (2 DP) | 3 | — | créature du Rêve passée par le portail d'End Station, une silhouette floue qui sent le lit froid ; **les armes le traversent** : seuls un sort, une garde magique ou la lumière du jour le défont ; à son contact, la cible oppose ses DP (5+) ou revit un souvenir qui n'est pas le sien et perd son action |
 | **La Mousse** | ⚠ | — | — | — | créature du Rêve : voir [End Station](../campagnes/trames-du-onzieme/blocs/end-station.md). Profil à écrire : la combattre n'est sans doute pas la bonne idée |
 
 *À la table :* le même combat contre Giorgio a donné deux issues. Une table l'a tué avant la fusion, l'autre l'a laissé fusionner : c'est sa **phase** qui fait le combat. Un os lancé à la fronde a interrompu le rituel. Gardez ce genre d'issue ouverte à un PJ qui n'a « rien à faire » en combat.
@@ -100,6 +104,10 @@ Voir [Les sens du Silence](../regles/magie.md#les-sens-du-silence) : leurs pouvo
 | Profil | Rang | DA | PV | Armure | Spécial |
 |---|---|---|---|---|---|
 | **Nuée de rats** | sbire | 3 | 6 | 0 | une seule cible par round ; les armes ne lui font que la moitié des dégâts, le feu et la lumière le double ; se disperse à 0 PV |
+| **Korrigan** | sbire | 2 (dents, couteaux de poupée) | 3 | 0 | créature de la Nuit, haut comme une botte ; **il joue** : tant qu'on ne l'a pas offensé, une attaque réussie vole un objet, noue des lacets ou fait tomber au lieu de blesser ; un dé de mouvement le fait disparaître dans une ombre ; le tuer laisse une [marque](dons-de-la-nuit.md) |
+| **Chien du Gouffre** | sbire | 2 (crocs) | 4 | 0 | **meute** : +1 au total de son attaque si un autre chien vise la même cible ; ne pare pas ; fuit quand le chef de meute tombe |
+| **Chef de meute** | soldat | 3 (crocs) | 8 | −1 (cuir épais) | une morsure réussie **renverse** : la cible au sol a un dé de moins au round suivant |
+| **Anguille de la mine noyée** | soldat | 3 (morsure) | 8 | −1 (peau glissante) | ne frappe que ce qui est dans l'eau ou au bord ; une morsure réussie **entraîne sous l'eau** : la cible ne peut que se dégager (battre la prise en DA) et perd 1 PV par round tant qu'elle n'a pas respiré |
 | **Gargouille-lion** | soldat | 3 (griffes) | 12 | −2 (pierre) | créature artificielle : suit **des ordres simples** et rien d'autre ; ne résiste pas aux sorts sur l'esprit, n'en ressent aucun |
 | **Wyverne de l'ordre de la Wyverne d'or** | monstre | 5 (crocs, dard) | 22 | −2 | vole ; **dard de scorpion** empoisonné ; **résiste aux poisons** (les somnifères ne prennent pas) ; dressée : un chevalier sur son dos lui donne +1 au total de ses attaques |
 | **Minotaure** | fléau | 6 (hache à deux mains) | 25 | −1 | **garde renouvelée** ; il charge : une attaque réussie projette la cible dans une fosse à pieux (1d6 dégâts de plus) |
@@ -107,6 +115,67 @@ Voir [Les sens du Silence](../regles/magie.md#les-sens-du-silence) : leurs pouvo
 | **Suif** | sbire | 3 | 8 | −1 | amphibie, se dessèche, se déguise : voir le [Pic des Empalés](../campagnes/trames-du-onzieme/blocs/pic-des-empales.md#les-suifs) |
 
 *À la table :* le minotaure a été expédié en deux rounds alors que le générateur de rencontres le jugeait presque mortel. C'est de là que viennent les capacités de fléau. La wyverne, elle, a été évitée : le somnifère n'a pas pris, et la scène s'est réglée par la parole.
+
+---
+
+## Rencontres de début de jeu
+
+Six situations pour des PJ de départ, avec les profils des tableaux ci-dessus. Chacune a un **enjeu**, une **horloge** et au moins une **sortie sans combat** : à 8 PV, un PJ seul face à un soldat tombe presque une fois sur deux, et un combat se joue en un round. Le combat doit rester un choix, et un risque.
+
+Les effectifs sont donnés pour **4 à 5 PJ**. Pour une toute première partie, retirez le soldat de la scène, ou laissez-le hors de combat tant que les sbires tiennent.
+
+### La ronde des korrigans
+
+- **Situation** : la nuit, sur une petite place du Gouffre, une ronde de korrigans danse autour d'un ivrogne qui ne peut plus s'arrêter. Il a les pieds en sang.
+- **Adversaires** : deux korrigans par PJ. Ils ne blessent pas, ils volent : bourses, lacets, chapeaux, le sceau du groupe.
+- **Horloge** : au troisième round, l'ivrogne tombe (hors de combat). Au cinquième, une patrouille du Silence arrive avec un Criquet, qui sent la Nuit comme de la magie : tout ce qui porte une marque ou un objet de la Nuit devra s'expliquer.
+- **Sans combat** : entrer dans la ronde et danser mieux qu'eux (une compétence de danse ou de spectacle, 10+), offrir quelque chose qu'ils n'ont pas, faire rire le plus vieux. Celui qui gagne la ronde repart parfois avec un [don de la Nuit](dons-de-la-nuit.md), et celui qui frappe un korrigan avec une marque.
+- **Connexion** : Lucie et les Iggigi ; la patrouille du Silence.
+
+### Le mort de la rue des Potiers
+
+- **Situation** : un vieux potier akkadien sort d'une cave, le tablier encore noué, et pétrit l'argile d'un étal. Il luit d'un onguent qui sent la pistache. Les voisins hurlent. Sa veuve n'a pas déclaré sa mort : elle l'a embaumé pour le faire passer en Akkadie, et, pour ça, elle a renoncé au bûcher et risque son visa. Elle supplie qu'on ne le brûle pas, et l'appelle par son nom.
+- **Adversaires** : un mort sans maître. Il ne frappe que ce qui l'empêche de travailler.
+- **Horloge** : le Guet arrive au troisième round avec des torches. À la fin de la scène, la rumeur est faite (« un mort-vivant akkadien au Gouffre ») et la veuve perd son visa si personne ne la couvre.
+- **Sans combat** : reconnaître le geste et ramener le mort à la cave ; le brûler dignement, avec un prêtre, avant que le Guet ne le fasse ; cacher le corps et la veuve, ce qui est un crime. Le moine Ussuru, du Temple des Cris, voit tout de suite que **ce n'est pas un Shanu** : un Shanu est libre, celui-ci a obéi à quelqu'un. Qui a relevé un mort embaumé dans une cave du Gouffre ?
+- **Variante** : le corps embaumé d'un noble, dans un entrepôt des docks, en attente de son rapatriement vers l'Empire. On accuse l'embaumeur akkadien.
+- **Connexion** : la Purge (Giorgio relève les morts pour retrouver sa famille) ; la révolte des Inondés (les visas des Akkadiens).
+
+### La meute du chantier
+
+- **Situation** : depuis le couvre-feu, les chiens du Gouffre ont faim. Une meute s'est installée dans un chantier d'assèchement et garde quelque chose sous une bâche : un ouvrier blessé, ou ce qu'il a remonté de la mine.
+- **Adversaires** : un chien par PJ et un chef de meute.
+- **Horloge** : chaque round passé à discuter sur place, un chien de plus sort des tranchées, quatre au plus.
+- **Sans combat** : de la viande, le feu, une bête qu'on sait amadouer ; abattre le chef suffit, la meute s'enfuit.
+- **Connexion** : la mine des Monts Spectraux et le palladium ; le Silence qui surveille le chantier.
+
+### Le déchargement sous le pont
+
+- **Situation** : la nuit, sous un pont, deux barques déchargent des caisses longues. Les PJ passaient par là, ou on les a payés pour regarder ailleurs.
+- **Adversaires** : un contrebandier par PJ et un patron de barque. Pour une table aguerrie, ajoutez un spadassin qui garde la marchandise.
+- **Horloge** : au quatrième round, la marée baisse et les barques s'échouent ; au sixième, une Coquille de l'Eau Calme passe sous le pont.
+- **Sans combat** : négocier sa part, ou faire croire qu'on est l'acheteur. Les caisses contiennent des armes : pour qui ?
+- **Connexion** : le Bal des Armes (les armes vendues aux Inondés) ; la révolte des Inondés.
+
+### L'anguille du bassin
+
+- **Situation** : dans une galerie inondée de la mine, deux ouvriers ont disparu cette semaine. Le contremaître veut qu'on reprenne le travail, les ouvriers refusent de descendre.
+- **Adversaires** : une anguille de la mine noyée, deux si la galerie est longue.
+- **Horloge** : un ouvrier est pris au premier round où personne ne garde le bord.
+- **Sans combat** : vider le bassin (les pompes, un sort d'Eau Calme), poser un appât et une herse, ou prêter les armures de Naga de Patrick Kobber, qui cherche justement des testeurs.
+- **Connexion** : les armures de Naga et le Bal des Armes ; les Imondi qui veulent reconquérir le Gouffre.
+
+### Le songe à la planque
+
+- **Situation** : un matin, un PJ se réveille avec un souvenir qui n'est pas le sien : une tour, des lits à perte de vue. La nuit suivante, quelque chose de flou marche dans la planque.
+- **Adversaires** : un songe errant. Les armes ne lui font rien, et c'est le premier combat où le mage du groupe compte plus que l'épée.
+- **Horloge** : chaque nuit, le songe vole un souvenir à un dormeur. Au troisième, il connaît assez la planque pour en ouvrir la porte à quelqu'un d'autre.
+- **Sans combat** : veiller jusqu'à l'aube et le prendre à la lumière ; le suivre jusqu'à End Station ; demander à un enfant qui fait des cauchemars ce qu'il veut.
+- **Connexion** : End Station et la Mousse ; Lucie, maîtresse du cauchemar.
+
+::: dev
+**Calibrage (simulation, 2026-10-19)** : un PJ seul de 8 PV, 2 000 combats par cas. Il tombe contre deux korrigans dans 14 à 41 % des combats (Landsknecht : 0 %), contre un soldat de 3 DA (chef de meute, anguille, patron de barque) dans 42 à 67 %, contre un mort sans maître dans 33 à 54 %, contre deux chiens qui ne parent pas dans 46 à 58 %. Le Landsknecht en mailles (11 PV) ne tombe presque jamais. D'où les sorties sans combat et, pour une première partie, le soldat retiré de la scène. Le songe errant est une **proposition**. Le mort sans maître découle du bûcher (précision du MJ, même jour) : on brûle les morts pour qu'aucun nécromancien ne les relève, donc un mort relevé est un mort qui y a échappé.
+:::
 
 ---
 
@@ -299,7 +368,7 @@ Jacques est **le seul survivant des Enfants Terribles**, son ancienne guilde, qu
 ---
 
 ::: dev
-**Sources :** `dev/sessions/` (CGI 3 ; Le Sucret 3, 5, 7, 9, 13, 14, 17, 21, 22, 23), `prive/notes-drive/Scenariotheque/`. Créatures citées mais pas encore profilées : vampires des royaumes de l'Est, Erlöser (on ne les combat pas), ange d'Ewald, Chimères (druides métamorphes), Nagas, créatures du pays de la Nuit (korrigans, farfadets), Roi des Damnés. Le « cube gélatineux » des notes est une créature de D&D : à remplacer s'il revient.
+**Sources :** `dev/sessions/` (CGI 3 ; Le Sucret 3, 5, 7, 9, 13, 14, 17, 21, 22, 23), `prive/notes-drive/Scenariotheque/`. Créatures citées mais pas encore profilées : vampires des royaumes de l'Est, Erlöser (on ne les combat pas), ange d'Ewald, Chimères (druides métamorphes), Nagas, créatures du pays de la Nuit (farfadets ; le korrigan des villes est profilé), Roi des Damnés. Le « cube gélatineux » des notes est une créature de D&D : à remplacer s'il revient.
 
 **À calibrer en playtest :** le barème (surtout les PV des sbires et des monstres), le poison enrageant, et les capacités de fléau.
 :::

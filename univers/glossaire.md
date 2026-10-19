@@ -49,7 +49,7 @@
 - **Shanu** : un mort relevé après l'Incorporation — la « seconde naissance ». Un Shanu est libre : on ne l'appelle plus par son nom de vivant, sauf s'il en partage un nouveau.
 - **Incorporation (l')** : le réveil du défunt en Shanu, quelques heures après la mort. Le Waldu mourant reçoit une arme sur son lit de mort.
 - **Belshanu** : Shanu appelé par le Roi de la Nuit pour commander son armée. Les autres morts se lèvent pour l'escorter ; son nouveau nom est chanté dans les temples.
-- **Onguent mortuaire** : préparation magique des prêtresses qui préserve le corps avant l'Incorporation.
+- **Onguent mortuaire** : préparation magique des prêtresses qui préserve le corps avant l'Incorporation. À Königsfell, où l'on brûle les morts, des embaumeurs akkadiens s'en servent pour les nobles rapatriés dans l'Empire, sans en avoir le monopole (voir [Le bûcher](lieux/konigsfell-ville.md#le-bûcher)).
 - **Malédictions de la Nuit** : bénédictions ou malédictions que les créatures de la nuit d'Akkad laissent à ceux qu'elles croisent, souvent avec un signe extérieur. Voir [Les Pays d'Akkad](akkadie.md).
 - **Mortivières** : rizières de l'Est aménagées sur des fosses communes akkadiennes, au milieu des champs de tabac ; on y cultive les drogues de la mémoire (Fragriment, Transfumance, Transmotabac). Voir [Objets magiques](../regles/objets-magiques.md#substances-de-la-cité).
 - **Yakhtchal** : tour conique où l'on conserve la glace — pour les provisions et pour les Shanu.

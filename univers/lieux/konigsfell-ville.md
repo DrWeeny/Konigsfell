@@ -202,6 +202,12 @@ Tous les jeudis, d'immenses **bals populaires**, souvent masqués, fêtent **Üb
 
 **Tous les six mois**, l'administration de la cité et l'Eau Calme organisent un bal pour aider les militaires à rencontrer une compagne. Les soldats en permission des Champs-Cardinal y viennent en uniforme brossé ; les familles y amènent leurs filles, ou les y envoient. On y danse, on s'y présente, on s'y promet, et l'on y négocie plus qu'on ne l'avoue : c'est un marché, le nom le dit.
 
+### Le bûcher
+
+**À Königsfell, on brûle les morts**, pour qu'aucun nécromancien ne puisse les relever. La règle vaut pour tous, **Akkadiens compris** : un Akkadien qui vit en ville doit accepter la crémation, pour lui et pour les siens, s'il veut garder son visa. C'est renoncer à la seconde naissance (voir le conte [*Journée en Akkadie*](../contes/journee-en-akkadie.md)).
+
+**Certains nobles y échappent** en faisant rapatrier leur corps dans l'Empire. Pour tenir le voyage, il faut les embaumer, et le comble, c'est que bien souvent ce sont des **embaumeurs akkadiens** qui s'en chargent. Ils n'en ont pas le monopole, mais personne ne connaît la conservation des morts comme eux.
+
 ### Le jeudi d'argent
 
 Le **premier jeudi du mois**, c'est le **jeudi d'argent**. La coutume veut qu'on sorte **armé d'un pieu** et **paré de bijoux d'argent**. Les pieux étant dangereux dans une foule, la ville tente de les remplacer par de simples bâtons de bois gravés de la **rune en Y d'Überlieben**, l'*Algiz*.
